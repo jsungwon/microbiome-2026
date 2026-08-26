@@ -3,6 +3,8 @@
 > *Structures of the Skin Microbiome and Mycobiome Depending on Skin Sensitivity*  
 > Microorganisms 8(7):1032 (2020) · doi:10.3390/microorganisms8071032
 
+출처·accession → [`data_provenance.md`](data_provenance.md) · 처리 과정 → [`pipeline.md`](pipeline.md)
+
 ## 연구 설계
 
 - **코호트**: 한국인 여성 42명 · 민감성 23명 / 비민감성 19명 · 22–52세

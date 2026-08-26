@@ -1,8 +1,11 @@
 # microbiome-2026 — 한국인 피부 마이크로바이옴 실습 데이터
 
-논문 4편의 공개 데이터를 내려받아 앰플리콘 파이프라인(DADA2)으로 처리하고,
+논문 4편의 공개 데이터(ENA)를 내려받아 앰플리콘 파이프라인(DADA2)으로 처리하고,
 **논문 보충자료의 샘플별 임상정보와 결합**해 둔 수업용 자료다.
 FASTQ를 다루지 않고 TSV만 읽어서 바로 분석할 수 있다.
+
+> 원 데이터는 각 논문 저자의 것이며 이 저장소는 수업 목적의 재가공물이다.
+> 결과를 발표할 때는 **원 논문 4편을 인용**해야 한다 → [`docs/data_provenance.md`](docs/data_provenance.md)
 
 ## 스터디 4개
 
@@ -13,7 +16,22 @@ FASTQ를 다루지 않고 TSV만 읽어서 바로 분석할 수 있다.
 | `03_sensitive` | 민감성 피부 | Microorganisms 2020 | 민감 / 비민감 | 16S 42 · ITS 42 |
 | `04_acne` | 여드름 | J Microbiol 2021 | 여드름 / 건강 | 16S 60 · ITS 53 |
 
-상세 목록은 `metadata/study_index.tsv`.
+각 스터디의 논문·DOI·BioProject accession은 [`docs/data_provenance.md`](docs/data_provenance.md),
+기계가독 목록은 `metadata/study_index.tsv`.
+
+## 데이터가 만들어진 경로
+
+```
+ENA FASTQ (429 run · 7.1 GB, md5 검증)
+  └─ 앰플리콘 분리 → cutadapt 4.9 → DADA2 1.30.0 → SILVA 138.2 / UNITE
+       └─ ASV 테이블 → 속(genus) 집계 → 논문 임상정보와 결합 → 이 저장소
+```
+
+입력 리드 20,135,148개 중 **14,316,761개(71.1%)**가 최종 ASV로 남았다.
+단계별 파라미터·도구 버전·통과율은 [`docs/pipeline.md`](docs/pipeline.md).
+
+**원시 FASTQ는 이 저장소에 없다** (`example_fastq/`의 예제 1쌍만 포함).
+accession으로 ENA/SRA에서 직접 받을 수 있다.
 
 ## 폴더 구조
 
@@ -27,6 +45,8 @@ metadata/clinical_data/ <스터디>_clinical.tsv
 ITS_count/              진균 정량 — 동일 구성
 asv/                    ASV 수준 원자료 (속보다 세밀) + 대표 서열 FASTA
 example_fastq/          예제 paired FASTQ (7.3 MB) — 전처리 실습용
+docs/data_provenance.md 데이터 출처 · accession · 인용 정보
+docs/pipeline.md        처리 파이프라인 · 도구 버전 · 파라미터
 docs/                   스터디별 컬럼 설명
 docs/figures/           데이터 표 예시 스크린샷 (PPT용, 01번 스터디 기준)
 ```
@@ -88,7 +108,7 @@ d.groupby("group")["g_Cutibacterium"].describe()
   `read_depth_final` 컬럼으로 확인하고, 다양성 비교 전에 보정할 것.
 - **스터디를 가로질러 속을 합치지 말 것.** `02_healthy`만 V3–V4이고 나머지는 V4–V5라
   검출되는 속 구성이 다르다.
-- **`01_aging`과 `04_acne`는 27개 샘플이 같은 시퀀싱 데이터**다. 두 스터디를 합쳐
-  표본 수를 늘리면 안 된다.
+- **`01_aging`과 `04_acne`는 27개 run이 같은 시퀀싱 데이터**다 (배포 파일 기준 `sample_id` 13개 중복).
+  두 스터디를 합쳐 표본 수를 늘리면 안 된다 → `docs/data_provenance.md`
 - **물성치는 스터디마다 측정 기기와 단위가 다르다.** 스터디 내 비교는 괜찮지만
   절대값을 가로질러 비교하려면 표준화가 필요하다.

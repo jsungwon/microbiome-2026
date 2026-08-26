@@ -3,6 +3,8 @@
 > *Aged related human skin microbiome and mycobiome in Korean women*  
 > Sci Rep 12:2500 (2022) · doi:10.1038/s41598-022-06189-5
 
+출처·accession → [`data_provenance.md`](data_provenance.md) · 처리 과정 → [`pipeline.md`](pipeline.md)
+
 ## 연구 설계
 
 - **코호트**: 한국인 여성 61명 · 젊은군 19–28세 29명 / 고령군 60–63세 32명

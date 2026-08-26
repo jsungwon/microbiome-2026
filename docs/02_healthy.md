@@ -3,6 +3,8 @@
 > *Taxonomic profiling of skin microbiome and correlation with clinical skin parameters in healthy Koreans*  
 > Sci Rep 11:16269 (2021) · doi:10.1038/s41598-021-95734-9
 
+출처·accession → [`data_provenance.md`](data_provenance.md) · 처리 과정 → [`pipeline.md`](pipeline.md)
+
 ## 연구 설계
 
 - **코호트**: 건강한 한국인 51명 · 젊은군 21–36세 25명 / 고령군 49–67세 26명 · 남 25 / 여 26

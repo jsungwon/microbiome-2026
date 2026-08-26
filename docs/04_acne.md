@@ -3,6 +3,8 @@
 > *Inferences in microbial structural signatures of acne microbiome and mycobiome*  
 > J Microbiol 59(4):369–375 (2021) · doi:10.1007/s12275-021-0647-1
 
+출처·accession → [`data_provenance.md`](data_provenance.md) · 처리 과정 → [`pipeline.md`](pipeline.md)
+
 ## 연구 설계
 
 - **코호트**: 한국인 여성 33명 · 여드름 17명 / 건강 16명 · 19–28세
