@@ -1,0 +1,8 @@
+label	study	project	unit	target	region	n_samples	n_genus	n_genus_long	group_levels	n_no_group	n_meta_cols
+01_aging_16S	노화 (Sci Rep 2022)	PRJNA614620	SSU	16S (세균)	V4-V5	55	646	182	O / Y	0	15
+01_aging_ITS	노화 (Sci Rep 2022)	PRJNA614620	ITS1	ITS (진균)	ITS1	58	228	101	O / Y	0	15
+02_healthy_16S	건강한 한국인 (Sci Rep 2021)	PRJNA723064	all	16S (세균)	V3-V4	102	951	121	O / Y	0	20
+03_sensitive_16S	민감성 피부 (Microorganisms 2020)	PRJNA627788	all	16S (세균)	V4-V5	42	580	189	Non-sensitive / Sensitive	0	31
+03_sensitive_ITS	민감성 피부 (Microorganisms 2020)	PRJNA627798	all	ITS (진균)	ITS1	42	235	135	Non-sensitive / Sensitive	0	31
+04_acne_16S	여드름 (J Microbiol 2021)	PRJNA669317	SSU	16S (세균)	V4-V5	60	745	156	Acne / Healthy	0	10
+04_acne_ITS	여드름 (J Microbiol 2021)	PRJNA669317	ITS1	ITS (진균)	ITS1	53	183	77	Acne / Healthy	1	10

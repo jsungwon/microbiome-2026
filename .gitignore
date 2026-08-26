@@ -1,0 +1,54 @@
+# ── 학생이 분석하며 만드는 산출물 ───────────────────────────
+# 이 저장소는 "입력 데이터"만 관리한다. 분석 결과는 각자 로컬에 둔다.
+results/
+output/
+out/
+figures_out/
+*.Rproj.user/
+*.html
+*.pdf
+
+# 단, 배포에 포함되는 표 예시 이미지는 추적한다
+!docs/figures/*.png
+
+# ── R ────────────────────────────────────────────────────
+.Rhistory
+.RData
+.Rproj.user/
+*.Rproj
+.Renviron
+
+# ── Python ───────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+env/
+
+# ── 편집기 · OS ──────────────────────────────────────────
+.DS_Store
+Thumbs.db
+desktop.ini
+*~
+*.swp
+*.swo
+.vscode/
+.idea/
+
+# ── 임시 파일 ────────────────────────────────────────────
+tmp/
+temp/
+*.tmp
+*.bak
+*.log
+
+# ── 대용량 원시데이터 (실수로 넣는 것 방지) ────────────────
+# example_fastq/ 의 예제 2개만 예외로 추적한다.
+*.fastq
+*.fastq.gz
+*.fq
+*.fq.gz
+!example_fastq/example_*.fastq.gz
+*.bam
+*.sra
