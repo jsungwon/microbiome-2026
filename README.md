@@ -15,7 +15,7 @@ FASTQ를 다루지 않고 TSV만 읽어서 바로 분석할 수 있다.
 | `02_healthy` | 건강한 한국인 | Sci Rep 2021 | 젊은(Y) / 고령(O) | 16S 102 |
 | `03_sensitive` | 민감성 피부 | Microorganisms 2020 | 민감 / 비민감 | 16S 42 · ITS 42 |
 | `04_acne` | 여드름 | J Microbiol 2021 | 여드름 / 건강 | 16S 60 · ITS 53 |
-| `05_metformin` | 메트포르민 **장내** | PLoS One 2018 | M0 / M24h / M7d | 16S 53 |
+| `05_metformin` | 메트포르민 **장내** | PLoS One 2018 | M0 / M24h / M7d (+ 부작용 중증도) | 16S 53 |
 
 각 스터디의 논문·DOI·BioProject accession은 [`docs/data_provenance.md`](docs/data_provenance.md),
 기계가독 목록은 `metadata/study_index.tsv`.
@@ -98,6 +98,9 @@ d.groupby("group")["g_Cutibacterium"].describe()
    우리가 계산한 `Shannon`이 나란히 있다. 산점도로 그려 보라. 같은 데이터인데 왜 다른가?
 6. **설문과 미생물** — `03_sensitive_16S`의 `perceived_skin_sensitivity`(1–7)와 조성이
    관련 있는가? 이분법 군 라벨보다 연속값이 더 잘 설명하는가?
+7. **투약 반응 예측** — `05_metformin_16S`에서 투여 **전(M0)** 조성만으로
+   `side_effect_group`(없음/경증/중증)을 가를 수 있는가? 종단 데이터라
+   `subject`로 묶어 시점 변화도 함께 볼 수 있다.
 
 ## 데이터를 다룰 때 반드시 알 것
 

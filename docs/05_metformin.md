@@ -19,8 +19,9 @@
 | `05_metformin_16S_genus_long.tsv` | `16S_count/` | 롱 포맷 (ggplot/seaborn용) |
 | `05_metformin_16S_genus_taxonomy.tsv` | `16S_count/` | 속 → 문·강·목·과 계보 |
 | `05_metformin_16S_asv_count.tsv` | `asv/` | ASV 수준 카운트 (속보다 세밀) |
+| `05_metformin_clinical.tsv` | `metadata/clinical_data/` | 논문 보충자료 원본 임상표 |
 
-## `05_metformin_16S_sample_info.tsv` 컬럼 (53행 × 42컬럼)
+## `05_metformin_16S_sample_info.tsv` 컬럼 (53행 × 47컬럼)
 
 | 컬럼 | 채움 | 값 / 범위 | 설명 |
 |---|---|---|---|
@@ -45,16 +46,41 @@
 | `dominant_genus` | 53/53 | 11종 (예: Bacteroides, Blautia, Catenibacterium …) | 이 샘플에서 가장 우세한 속 |
 | `dominant_pct` | 53/53 | 10.29 ~ 29.84 | 우점 속의 상대풍부도 (%) |
 | `n_genus_detected` | 53/53 | 60 ~ 134 | 검출된 속의 개수 (리드 1개 이상) |
+| `side_effect_group` | 53/53 | mild / none / severe | **위장관 부작용 중증도** (none / mild / severe). 논문 S1.2 표의 셀 색에서 복원 |
+| `n_obs_days` | 53/53 | 6 ~ 12 | 부작용이 기록된 칸 수 (병합 셀 때문에 7보다 클 수 있다) |
+| `n_days_none` | 53/53 | 0 ~ 7 | 부작용 없음으로 기록된 칸 수 |
+| `n_days_mild` | 53/53 | 0 ~ 7 | 경증으로 기록된 칸 수 |
+| `n_days_severe` | 53/53 | 0 / 1 / 2 / 3 / 4 / 5 | 중증으로 기록된 칸 수 |
 
 미생물 컬럼 `g_*` 21개 — 상위 20속 상대풍부도(%) + `g_Other`. **합이 정확히 100**이다. 전체 속이 필요하면 `05_metformin_16S_genus_pct.tsv`를 쓴다.
 
 우점 속: `g_Unassigned`, `g_Bacteroides`, `g_Blautia`, `g_Faecalibacterium`, `g_Bifidobacterium`, `g_Pseudobutyrivibrio`, `g_Mediterraneibacter`, `g_Roseburia` …
 
-## 임상 데이터 — 없음
+## `metadata/clinical_data/05_metformin_clinical.tsv` (18행 × 7컬럼)
 
-논문은 부작용 severity를 세 군(없음 3 / 경증 6 / 중증 9)으로 나눠 분석하지만 **어느 피험자가 어느 군인지 공개하지 않았다.** 본문·Table 1·S1·S2 표와 ENA 샘플 속성을 모두 확인했다. 나이·성별도 중앙값만 보고돼 있다.
+**출처**: S1.2 Table (docx) · PLoS One 보충자료
 
-이 스터디에는 `metadata/clinical_data/` 파일이 없다. 샘플에 붙는 정보는 **피험자 ID와 시점뿐**이다.
+⚠ 이 표는 **중증도를 셀 배경색으로만** 표시한다 — 텍스트는 비어 있어서 일반적인 표 추출로는 안 나온다. docx의 셀 음영(`w:shd/@w:fill`)을 읽어 복원했다 (초록=없음 / 노랑=경증 / 빨강=중증). 피험자의 군은 관측된 날들 중 최중증도로 정했고, 그 결과 **없음 3 / 경증 6 / 중증 9** 로 논문 보고치와 정확히 일치한다.
+
+⚠ `Subject_N` → ENA `S{N}` 대응은 **추론**이다. 둘 다 1–18이고 같은 논문·같은 순서라 자연스러운 읽기이지만 논문이 명시적으로 연결해 두지는 않았다.
+
+나이·성별·BMI는 논문에 중앙값만 있어 피험자별로는 붙일 수 없다.
+
+`sample_info`에 이미 병합돼 있지만, 논문 단위 원본 표가 필요할 때 쓴다 (샘플 단위 1행 — run 단위가 아니다).
+
+샘플을 식별하는 컬럼은 `sample_info`에서 **`subject`**, 이 표에서 **`sample_id`** 다.
+
+- `05_metformin_16S`: 53행과 매칭
+
+| 컬럼 | 채움 | 값 / 범위 | 설명 |
+|---|---|---|---|
+| `sample_id` | 18/18 | 18종 (예: S1, S10, S11 …) | 원본 샘플 식별자 (논문·BioSample 표기) |
+| `paper_subject_id` | 18/18 | 18종 (예: Subject_1, Subject_10, Subject_11 …) | 논문 표기 피험자 ID (`Subject_1` …) |
+| `side_effect_group` | 18/18 | mild / none / severe | **위장관 부작용 중증도** (none / mild / severe). 논문 S1.2 표의 셀 색에서 복원 |
+| `n_obs_days` | 18/18 | 6 ~ 12 | 부작용이 기록된 칸 수 (병합 셀 때문에 7보다 클 수 있다) |
+| `n_days_none` | 18/18 | 0 ~ 7 | 부작용 없음으로 기록된 칸 수 |
+| `n_days_mild` | 18/18 | 0 ~ 7 | 경증으로 기록된 칸 수 |
+| `n_days_severe` | 18/18 | 0 / 1 / 2 / 3 / 4 / 5 | 중증으로 기록된 칸 수 |
 
 ## 주의
 
