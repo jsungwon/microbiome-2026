@@ -1,11 +1,11 @@
-# microbiome-2026 — 한국인 피부 마이크로바이옴 실습 데이터
+# microbiome-2026 — 마이크로바이옴 실습 데이터
 
-논문 4편의 공개 데이터(ENA)를 내려받아 앰플리콘 파이프라인(DADA2)으로 처리하고,
+논문 5편의 공개 데이터(ENA)를 내려받아 앰플리콘 파이프라인(DADA2)으로 처리하고,
 **논문 보충자료의 샘플별 임상정보와 결합**해 둔 수업용 자료다.
 FASTQ를 다루지 않고 TSV만 읽어서 바로 분석할 수 있다.
 
 > 원 데이터는 각 논문 저자의 것이며 이 저장소는 수업 목적의 재가공물이다.
-> 결과를 발표할 때는 **원 논문 4편을 인용**해야 한다 → [`docs/data_provenance.md`](docs/data_provenance.md)
+> 결과를 발표할 때는 **원 논문 5편을 인용**해야 한다 → [`docs/data_provenance.md`](docs/data_provenance.md)
 
 ## 스터디 4개
 
@@ -15,6 +15,7 @@ FASTQ를 다루지 않고 TSV만 읽어서 바로 분석할 수 있다.
 | `02_healthy` | 건강한 한국인 | Sci Rep 2021 | 젊은(Y) / 고령(O) | 16S 102 |
 | `03_sensitive` | 민감성 피부 | Microorganisms 2020 | 민감 / 비민감 | 16S 42 · ITS 42 |
 | `04_acne` | 여드름 | J Microbiol 2021 | 여드름 / 건강 | 16S 60 · ITS 53 |
+| `05_metformin` | 메트포르민 **장내** | PLoS One 2018 | M0 / M24h / M7d | 16S 53 |
 
 각 스터디의 논문·DOI·BioProject accession은 [`docs/data_provenance.md`](docs/data_provenance.md),
 기계가독 목록은 `metadata/study_index.tsv`.
@@ -22,7 +23,7 @@ FASTQ를 다루지 않고 TSV만 읽어서 바로 분석할 수 있다.
 ## 데이터가 만들어진 경로
 
 ```
-ENA FASTQ (429 run · 7.1 GB, md5 검증)
+ENA FASTQ (482 run · 10.2 GB, md5 검증)
   └─ 앰플리콘 분리 → cutadapt 4.9 → DADA2 1.30.0 → SILVA 138.2 / UNITE
        └─ ASV 테이블 → 속(genus) 집계 → 논문 임상정보와 결합 → 이 저장소
 ```
@@ -106,8 +107,9 @@ d.groupby("group")["g_Cutibacterium"].describe()
   속별 비교하면 실제 변화가 없는 속도 유의하게 나온다. CLR 변환 후 검정할 것.
 - **시퀀싱 심도가 샘플마다 크게 다르다.** 검출 속 수는 심도에 직접 영향을 받는다.
   `read_depth_final` 컬럼으로 확인하고, 다양성 비교 전에 보정할 것.
-- **스터디를 가로질러 속을 합치지 말 것.** `02_healthy`만 V3–V4이고 나머지는 V4–V5라
-  검출되는 속 구성이 다르다.
+- **스터디를 가로질러 속을 합치지 말 것.** 증폭 영역이 V3 / V3–V4 / V4–V5로 제각각이고,
+  **`05_metformin`은 피부가 아니라 장내**이며 플랫폼도 Ion Torrent라 다른 넷과 성격이 다르다.
+  01–04(피부)와 05(장내)는 별개 데이터로 다룰 것.
 - **`01_aging`과 `04_acne`는 27개 run이 같은 시퀀싱 데이터**다 (배포 파일 기준 `sample_id` 13개 중복).
   두 스터디를 합쳐 표본 수를 늘리면 안 된다 → `docs/data_provenance.md`
 - **물성치는 스터디마다 측정 기기와 단위가 다르다.** 스터디 내 비교는 괜찮지만

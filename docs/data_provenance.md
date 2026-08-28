@@ -11,14 +11,16 @@
 | 02 | 건강한 한국인 | *Taxonomic profiling of skin microbiome and correlation with clinical skin parameters in healthy Koreans*<br>Sci Rep 11:16269 (2021) | [10.1038/s41598-021-95734-9](https://doi.org/10.1038/s41598-021-95734-9) | `PRJNA723064` |
 | 03 | 민감성 피부 | *Structures of the Skin Microbiome and Mycobiome Depending on Skin Sensitivity*<br>Microorganisms 8(7):1032 (2020) | [10.3390/microorganisms8071032](https://doi.org/10.3390/microorganisms8071032) | `PRJNA627788`(세균) + `PRJNA627798`(진균) |
 | 04 | 여드름 | *Inferences in microbial structural signatures of acne microbiome and mycobiome*<br>J Microbiol 59(4):369–375 (2021) | [10.1007/s12275-021-0647-1](https://doi.org/10.1007/s12275-021-0647-1) | `PRJNA669317`(세균) + `PRJNA673754`(진균) |
+| 05 | 메트포르민 **장내** | *Association of metformin administration with gut microbiome dysbiosis in healthy volunteers*<br>PLoS One 13(9):e0204317 (2018) | [10.1371/journal.pone.0204317](https://doi.org/10.1371/journal.pone.0204317) | `PRJEB24497` |
 
 01·03·04는 중앙대 + 아모레퍼시픽, 02는 서울대 연구다.
+**05만 피부가 아니라 장내(분변)이고 라트비아 코호트다** — 다른 넷과 부위·집단·플랫폼이 모두 다르다.
 
 ## 원시데이터 내려받기
 
 - **출처**: ENA (European Nucleotide Archive) FTP
 - **시점**: 2026-08-25
-- **규모**: 7 accession · 429 run · 1,802 파일 · 7.1 GB
+- **규모**: 8 accession · 482 run · 911 파일 · 10.2 GB
 - **검증**: 모든 파일을 **ENA 등록 md5와 대조**해 일치 확인 (실패 0건)
 
 원시 FASTQ는 이 저장소에 넣지 않았다 (`example_fastq/`의 예제 1쌍만 포함).
@@ -34,6 +36,7 @@
 | 02 건강 | Supplementary Data 1(설문) + 2(생물물리) (xlsx) | `static-content.springer.com` |
 | 03 민감성 | Table S2 (xlsx) | EuropePMC `supplementaryFiles` (PMC7409107) |
 | 04 여드름 | Supplementary Table S1 (**PDF 2단 표**) | `static-content.springer.com` |
+| 05 메트포르민 | **없음** — 아래 참조 | — |
 
 ### 추출하면서 확인한 것
 
@@ -43,6 +46,11 @@
 - **04 여드름** — 여드름/건강 **군 라벨이 BioSample·샘플명 어디에도 없고** 보충자료 PDF에만 있다.
   33명 전원 복원, 군 충돌 0건, 논문 보고치(여드름 17 / 건강 16)와 일치.
 - **01 노화** — 16S 51건 / ITS 60건의 QC 통과 수가 **등록 run 수와 정확히 일치**한다.
+- **05 메트포르민** — ⚠ **피험자별 임상정보를 얻지 못했다.** 논문은 위장관 부작용을
+  세 군(없음 3 / 경증 6 / 중증 9)으로 나눠 Fig 4에서 분석하지만, **어느 피험자가 어느 군인지
+  공개하지 않았다.** 본문·Table 1·Table 2·S1 Table(일자별 집계)·S2 Table(식이기록, `MF####`라는
+  다른 ID 체계에 9명분만)과 ENA 샘플 속성을 모두 확인했다. 나이·성별도 중앙값만 보고돼 있다.
+  샘플에 붙는 것은 **피험자 ID와 시점(M0 / M24h / M7d)뿐**이다.
 
 ## 이 저장소에 없는 것과 그 이유
 

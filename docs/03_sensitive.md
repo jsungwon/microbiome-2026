@@ -3,8 +3,6 @@
 > *Structures of the Skin Microbiome and Mycobiome Depending on Skin Sensitivity*  
 > Microorganisms 8(7):1032 (2020) · doi:10.3390/microorganisms8071032
 
-출처·accession → [`data_provenance.md`](data_provenance.md) · 처리 과정 → [`pipeline.md`](pipeline.md)
-
 ## 연구 설계
 
 - **코호트**: 한국인 여성 42명 · 민감성 23명 / 비민감성 19명 · 22–52세
@@ -36,12 +34,12 @@
 | `run` | 42/42 | 42종 (예: SRR11605054, SRR11605055, SRR11605056 …) | ENA/SRA run accession. 이 표의 고유 키 |
 | `project` | 42/42 | PRJNA627788 | BioProject accession |
 | `sample_id` | 42/42 | 42종 (예: Non.03_bac, Non.19_bac, Non.28_bac …) | 원본 샘플 식별자 (논문·BioSample 표기) |
-| `subject` | 42/42 | 42종 (예: Non.03, Non.19, Non.28 …) | 피험자 식별자. 같은 사람의 여러 부위를 묶는 키 |
+| `subject` | 42/42 | 42종 (예: Non.03, Non.19, Non.28 …) | 피험자 식별자. 같은 사람의 여러 부위(또는 시점)를 묶는 키 |
 | `body_site` | 42/42 | Right cheek | 채취 부위 |
 | `assay` | 42/42 | 16S | 마커 종류 |
 | `region` | 42/42 | V4-V5 | 증폭 영역. **다르면 ASV 수준 병합 불가** |
 | `group` | 42/42 | Non-sensitive / Sensitive | 비교군 라벨 |
-| `group_type` | 42/42 | skin_sensitivity | group이 무슨 축인지 (age / sensitivity / acne) |
+| `group_type` | 42/42 | skin_sensitivity | group이 무슨 축인지 (age / sensitivity / acne / metformin_time) |
 | `age` | 42/42 | 22 ~ 52 | 나이 (세) |
 | `age_group` | 0/42 | (전부 빈 칸) | 연령군 코드 |
 | `sex` | 42/42 | female | 성별 |
@@ -97,12 +95,12 @@
 | `run` | 42/42 | 42종 (예: SRR11604870, SRR11604871, SRR11604872 …) | ENA/SRA run accession. 이 표의 고유 키 |
 | `project` | 42/42 | PRJNA627798 | BioProject accession |
 | `sample_id` | 42/42 | 42종 (예: Non.03_fun, Non.19_fun, Non.28_fun …) | 원본 샘플 식별자 (논문·BioSample 표기) |
-| `subject` | 42/42 | 42종 (예: Non.03, Non.19, Non.28 …) | 피험자 식별자. 같은 사람의 여러 부위를 묶는 키 |
+| `subject` | 42/42 | 42종 (예: Non.03, Non.19, Non.28 …) | 피험자 식별자. 같은 사람의 여러 부위(또는 시점)를 묶는 키 |
 | `body_site` | 42/42 | Right cheek | 채취 부위 |
 | `assay` | 42/42 | ITS | 마커 종류 |
 | `region` | 42/42 | ITS1 | 증폭 영역. **다르면 ASV 수준 병합 불가** |
 | `group` | 42/42 | Non-sensitive / Sensitive | 비교군 라벨 |
-| `group_type` | 42/42 | skin_sensitivity | group이 무슨 축인지 (age / sensitivity / acne) |
+| `group_type` | 42/42 | skin_sensitivity | group이 무슨 축인지 (age / sensitivity / acne / metformin_time) |
 | `age` | 42/42 | 22 ~ 52 | 나이 (세) |
 | `age_group` | 0/42 | (전부 빈 칸) | 연령군 코드 |
 | `sex` | 42/42 | female | 성별 |

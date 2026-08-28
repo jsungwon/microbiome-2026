@@ -3,8 +3,6 @@
 > *Inferences in microbial structural signatures of acne microbiome and mycobiome*  
 > J Microbiol 59(4):369–375 (2021) · doi:10.1007/s12275-021-0647-1
 
-출처·accession → [`data_provenance.md`](data_provenance.md) · 처리 과정 → [`pipeline.md`](pipeline.md)
-
 ## 연구 설계
 
 - **코호트**: 한국인 여성 33명 · 여드름 17명 / 건강 16명 · 19–28세
@@ -36,12 +34,12 @@
 | `run` | 60/60 | 60종 (예: SRR12968645, SRR12968646, SRR12968648 …) | ENA/SRA run accession. 이 표의 고유 키 |
 | `project` | 60/60 | PRJNA669317 | BioProject accession |
 | `sample_id` | 60/60 | 60종 (예: Ca.01, Ca.02, Ca.03 …) | 원본 샘플 식별자 (논문·BioSample 표기) |
-| `subject` | 60/60 | 1 ~ 33 | 피험자 식별자. 같은 사람의 여러 부위를 묶는 키 |
+| `subject` | 60/60 | 1 ~ 33 | 피험자 식별자. 같은 사람의 여러 부위(또는 시점)를 묶는 키 |
 | `body_site` | 60/60 | Cheek / Forehead | 채취 부위 |
 | `assay` | 60/60 | 16S+ITS_pooled | 마커 종류 |
 | `region` | 60/60 | V4-V5+ITS1 | 증폭 영역. **다르면 ASV 수준 병합 불가** |
 | `group` | 60/60 | Acne / Healthy | 비교군 라벨 |
-| `group_type` | 60/60 | acne | group이 무슨 축인지 (age / sensitivity / acne) |
+| `group_type` | 60/60 | acne | group이 무슨 축인지 (age / sensitivity / acne / metformin_time) |
 | `age` | 60/60 | 19 ~ 28 | 나이 (세) |
 | `age_group` | 0/60 | (전부 빈 칸) | 연령군 코드 |
 | `sex` | 60/60 | female | 성별 |
@@ -76,12 +74,12 @@
 | `run` | 53/53 | 53종 (예: SRR12968645, SRR12968646, SRR12968648 …) | ENA/SRA run accession. 이 표의 고유 키 |
 | `project` | 53/53 | PRJNA669317 | BioProject accession |
 | `sample_id` | 53/53 | 53종 (예: Ca.01, Ca.02, Ca.03 …) | 원본 샘플 식별자 (논문·BioSample 표기) |
-| `subject` | 53/53 | 1 ~ 33 | 피험자 식별자. 같은 사람의 여러 부위를 묶는 키 |
+| `subject` | 53/53 | 1 ~ 33 | 피험자 식별자. 같은 사람의 여러 부위(또는 시점)를 묶는 키 |
 | `body_site` | 53/53 | Cheek / Forehead | 채취 부위 |
 | `assay` | 53/53 | 16S+ITS_pooled | 마커 종류 |
 | `region` | 53/53 | V4-V5+ITS1 | 증폭 영역. **다르면 ASV 수준 병합 불가** |
 | `group` | 52/53 | Acne / Healthy | 비교군 라벨 |
-| `group_type` | 53/53 | acne | group이 무슨 축인지 (age / sensitivity / acne) |
+| `group_type` | 53/53 | acne | group이 무슨 축인지 (age / sensitivity / acne / metformin_time) |
 | `age` | 52/53 | 19 ~ 28 | 나이 (세) |
 | `age_group` | 0/53 | (전부 빈 칸) | 연령군 코드 |
 | `sex` | 53/53 | female | 성별 |
@@ -126,7 +124,7 @@
 |---|---|---|---|
 | `sample_id` | 63/63 | 63종 (예: Ca.01, Ca.02, Ca.03 …) | 원본 샘플 식별자 (논문·BioSample 표기) |
 | `paper_sample_id` | 63/63 | 63종 (예: Ca.1, Ca.10, Ca.11 …) | 논문 표기 샘플 ID (데이터 표기와 다를 수 있음) |
-| `subject` | 63/63 | 1 ~ 33 | 피험자 식별자. 같은 사람의 여러 부위를 묶는 키 |
+| `subject` | 63/63 | 1 ~ 33 | 피험자 식별자. 같은 사람의 여러 부위(또는 시점)를 묶는 키 |
 | `body_site` | 63/63 | Cheek / Forehead | 채취 부위 |
 | `group` | 63/63 | Acne / Healthy | 비교군 라벨 |
 | `age` | 63/63 | 19 ~ 28 | 나이 (세) |

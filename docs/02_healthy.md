@@ -3,8 +3,6 @@
 > *Taxonomic profiling of skin microbiome and correlation with clinical skin parameters in healthy Koreans*  
 > Sci Rep 11:16269 (2021) · doi:10.1038/s41598-021-95734-9
 
-출처·accession → [`data_provenance.md`](data_provenance.md) · 처리 과정 → [`pipeline.md`](pipeline.md)
-
 ## 연구 설계
 
 - **코호트**: 건강한 한국인 51명 · 젊은군 21–36세 25명 / 고령군 49–67세 26명 · 남 25 / 여 26
@@ -30,12 +28,12 @@
 | `run` | 102/102 | 102종 (예: SRR14277118, SRR14277119, SRR14277120 …) | ENA/SRA run accession. 이 표의 고유 키 |
 | `project` | 102/102 | PRJNA723064 | BioProject accession |
 | `sample_id` | 102/102 | 102종 (예: OC1, OC10, OC11 …) | 원본 샘플 식별자 (논문·BioSample 표기) |
-| `subject` | 102/102 | 51종 (예: O1, O10, O11 …) | 피험자 식별자. 같은 사람의 여러 부위를 묶는 키 |
+| `subject` | 102/102 | 51종 (예: O1, O10, O11 …) | 피험자 식별자. 같은 사람의 여러 부위(또는 시점)를 묶는 키 |
 | `body_site` | 102/102 | Cheek / Forehead | 채취 부위 |
 | `assay` | 102/102 | 16S | 마커 종류 |
 | `region` | 102/102 | V3-V4 | 증폭 영역. **다르면 ASV 수준 병합 불가** |
 | `group` | 102/102 | O / Y | 비교군 라벨 |
-| `group_type` | 102/102 | age | group이 무슨 축인지 (age / sensitivity / acne) |
+| `group_type` | 102/102 | age | group이 무슨 축인지 (age / sensitivity / acne / metformin_time) |
 | `age` | 102/102 | 21 ~ 67 | 나이 (세) |
 | `age_group` | 102/102 | Old(49-67) / Young(21-36) | 연령군 코드 |
 | `sex` | 102/102 | female / male | 성별 |
