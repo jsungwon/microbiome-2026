@@ -37,7 +37,7 @@
 | `reads_high_quality` | 90/90 | 3184 ~ 16983 | 논문이 보고한 고품질 리드 수 |
 | `otus_paper` | 90/90 | 113 ~ 1017 | **논문이 보고한** OTU 수 (97% 클러스터링) |
 | `chao1_paper` | 90/90 | 191 ~ 2659 | 논문이 보고한 Chao1 (풍부도 추정치) |
-| `shannon_paper` | 90/90 | 1.71 ~ 5.41 | 논문이 보고한 Shannon-Weaver 지수 |
+| `shannon_paper` | 90/90 | 1.71 ~ 5.41 | **논문이 보고한** Shannon 지수 (우리 `Shannon`과 대조용) |
 | `evenness_paper` | 90/90 | 0.35 ~ 0.83 | 논문이 보고한 균등도(evenness) |
 
 ## 주의

@@ -12,6 +12,7 @@
 | 03 | 민감성 피부 | *Structures of the Skin Microbiome and Mycobiome Depending on Skin Sensitivity*<br>Microorganisms 8(7):1032 (2020) | [10.3390/microorganisms8071032](https://doi.org/10.3390/microorganisms8071032) | `PRJNA627788`(세균) + `PRJNA627798`(진균) |
 | 04 | 여드름 | *Inferences in microbial structural signatures of acne microbiome and mycobiome*<br>J Microbiol 59(4):369–375 (2021) | [10.1007/s12275-021-0647-1](https://doi.org/10.1007/s12275-021-0647-1) | `PRJNA669317`(세균) + `PRJNA673754`(진균) |
 | 05 | 메트포르민 **장내** | *Association of metformin administration with gut microbiome dysbiosis in healthy volunteers*<br>PLoS One 13(9):e0204317 (2018) | [10.1371/journal.pone.0204317](https://doi.org/10.1371/journal.pone.0204317) | `PRJEB24497` |
+| 07 | 화장품 중재 | *Effect of the skincare product on facial skin microbial structure and biophysical parameters*<br>MicrobiologyOpen 10(5):e1236 (2021) | [10.1002/mbo3.1236](https://doi.org/10.1002/mbo3.1236) | `PRJEB44885` |
 | 06 | 화장품·피부수분 | *Effects of cosmetics on the skin microbiome of facial cheeks with different hydration levels*<br>MicrobiologyOpen 7(2):e00557 (2018) | [10.1002/mbo3.557](https://doi.org/10.1002/mbo3.557) | `PRJNA345237` / `SRP090974` |
 
 01·03·04는 중앙대 + 아모레퍼시픽, 02는 서울대 연구다.
@@ -39,6 +40,7 @@
 | 04 여드름 | Supplementary Table S1 (**PDF 2단 표**) | `static-content.springer.com` |
 | 05 메트포르민 | **S1.2 Table (docx) — 셀 배경색 인코딩** | journals.plos.org |
 | 06 화장품 | Supplementary Table 1 (docx) | EuropePMC (PMC5911989) |
+| 07 화장품 중재 | Table A2 (본문 부록) | EuropePMC (PMC8494714) |
 
 ### 추출하면서 확인한 것
 

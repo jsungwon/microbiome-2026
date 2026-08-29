@@ -7,3 +7,4 @@ label	study	project	unit	target	region	n_samples	n_genus	n_genus_long	group_leve
 04_acne_16S	여드름 (J Microbiol 2021)	PRJNA669317	SSU	16S (세균)	V4-V5	60	745	156	Acne / Healthy	0	10
 04_acne_ITS	여드름 (J Microbiol 2021)	PRJNA669317	ITS1	ITS (진균)	ITS1	53	183	77	Acne / Healthy	1	10
 05_metformin_16S	메트포르민 장내 (PLoS One 2018)	PRJEB24497	all	16S (세균)	V3	53	229	130	M0 / M24h / M7d	0	5
+07_skincare_16S	화장품 중재 (MicrobiologyOpen 2021)	PRJEB44885	all	16S (세균)	V3-V4	75	696	171	0W / 2W / 4W	0	5
