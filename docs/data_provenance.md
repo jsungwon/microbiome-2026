@@ -12,6 +12,7 @@
 | 03 | 민감성 피부 | *Structures of the Skin Microbiome and Mycobiome Depending on Skin Sensitivity*<br>Microorganisms 8(7):1032 (2020) | [10.3390/microorganisms8071032](https://doi.org/10.3390/microorganisms8071032) | `PRJNA627788`(세균) + `PRJNA627798`(진균) |
 | 04 | 여드름 | *Inferences in microbial structural signatures of acne microbiome and mycobiome*<br>J Microbiol 59(4):369–375 (2021) | [10.1007/s12275-021-0647-1](https://doi.org/10.1007/s12275-021-0647-1) | `PRJNA669317`(세균) + `PRJNA673754`(진균) |
 | 05 | 메트포르민 **장내** | *Association of metformin administration with gut microbiome dysbiosis in healthy volunteers*<br>PLoS One 13(9):e0204317 (2018) | [10.1371/journal.pone.0204317](https://doi.org/10.1371/journal.pone.0204317) | `PRJEB24497` |
+| 06 | 화장품·피부수분 | *Effects of cosmetics on the skin microbiome of facial cheeks with different hydration levels*<br>MicrobiologyOpen 7(2):e00557 (2018) | [10.1002/mbo3.557](https://doi.org/10.1002/mbo3.557) | `PRJNA345237` / `SRP090974` |
 
 01·03·04는 중앙대 + 아모레퍼시픽, 02는 서울대 연구다.
 **05만 피부가 아니라 장내(분변)이고 라트비아 코호트다** — 다른 넷과 부위·집단·플랫폼이 모두 다르다.
@@ -37,6 +38,7 @@
 | 03 민감성 | Table S2 (xlsx) | EuropePMC `supplementaryFiles` (PMC7409107) |
 | 04 여드름 | Supplementary Table S1 (**PDF 2단 표**) | `static-content.springer.com` |
 | 05 메트포르민 | **S1.2 Table (docx) — 셀 배경색 인코딩** | journals.plos.org |
+| 06 화장품 | Supplementary Table 1 (docx) | EuropePMC (PMC5911989) |
 
 ### 추출하면서 확인한 것
 
@@ -53,6 +55,19 @@
   논문 보고치와 정확히 일치한다.
   ⚠ `Subject_N` → ENA `S{N}` 대응은 **추론**이다(둘 다 1–18, 같은 논문·같은 순서).
   나이·성별·BMI는 중앙값만 보고돼 피험자별로는 붙일 수 없다.
+
+## ⚠ 06 화장품 — 시퀀스를 샘플별로 나눌 수 없다
+
+논문은 30명 × 3시점 = **90개 시료를 바코드로 다중화**해 454로 시퀀싱했다고 밝히지만,
+SRA에 올라온 것은 **run 2개**뿐이고 확인 결과:
+
+- 두 run(`SRR4379959`, `SRR4381489`)이 **완전히 동일한 파일**이다 (리드 서열 해시 일치, 둘 다 1,253,852 리드)
+- 리드가 바코드가 아니라 **프라이머(Bac541R)로 시작**한다 — 상위 2종 서열이 97%를 차지
+- FASTQ 헤더는 454 웰 ID(`JKQJY0V01CW22C`)뿐으로 시료 정보가 없다
+
+즉 **바코드가 이미 제거된 채로 하나로 합쳐져** 올라왔다. 어떤 리드가 어느 시료인지 복원할 수 없어
+속(genus)·ASV 테이블을 만들지 못했다. 대신 보충자료 Supplementary Table 1에
+**90개 시료의 논문 보고 다양성 지표**가 있어 그것만 정제했다.
 
 ## 이 저장소에 없는 것과 그 이유
 

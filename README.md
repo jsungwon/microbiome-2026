@@ -1,11 +1,11 @@
 # microbiome-2026 — 마이크로바이옴 실습 데이터
 
-논문 5편의 공개 데이터(ENA)를 내려받아 앰플리콘 파이프라인(DADA2)으로 처리하고,
+논문 6편의 공개 데이터(ENA/SRA)를 내려받아 앰플리콘 파이프라인(DADA2)으로 처리하고,
 **논문 보충자료의 샘플별 임상정보와 결합**해 둔 수업용 자료다.
 FASTQ를 다루지 않고 TSV만 읽어서 바로 분석할 수 있다.
 
 > 원 데이터는 각 논문 저자의 것이며 이 저장소는 수업 목적의 재가공물이다.
-> 결과를 발표할 때는 **원 논문 5편을 인용**해야 한다 → [`docs/data_provenance.md`](docs/data_provenance.md)
+> 결과를 발표할 때는 **원 논문 6편을 인용**해야 한다 → [`docs/data_provenance.md`](docs/data_provenance.md)
 
 ## 스터디 4개
 
@@ -16,6 +16,11 @@ FASTQ를 다루지 않고 TSV만 읽어서 바로 분석할 수 있다.
 | `03_sensitive` | 민감성 피부 | Microorganisms 2020 | 민감 / 비민감 | 16S 42 · ITS 42 |
 | `04_acne` | 여드름 | J Microbiol 2021 | 여드름 / 건강 | 16S 60 · ITS 53 |
 | `05_metformin` | 메트포르민 **장내** | PLoS One 2018 | M0 / M24h / M7d (+ 부작용 중증도) | 16S 53 |
+| `06_cosmetics` | 화장품·피부수분 | MicrobiologyOpen 2018 | 고수분 HHG / 저수분 LHG × 3시점 | **임상표만 90행** |
+
+> `06_cosmetics`는 **미생물 정량 데이터가 없다.** SRA의 2개 run이 서로 동일한 파일이고
+> 90개 시료의 바코드가 이미 제거돼 있어 샘플별로 나눌 수 없다.
+> 논문이 보고한 다양성 지표(OTU·Chao1·Shannon·Evenness)만 샘플 단위로 확보했다.
 
 각 스터디의 논문·DOI·BioProject accession은 [`docs/data_provenance.md`](docs/data_provenance.md),
 기계가독 목록은 `metadata/study_index.tsv`.
@@ -48,7 +53,7 @@ asv/                    ASV 수준 원자료 (속보다 세밀) + 대표 서열 
 example_fastq/          예제 paired FASTQ (7.3 MB) — 전처리 실습용
 docs/data_provenance.md 데이터 출처 · accession · 인용 정보
 docs/pipeline.md        처리 파이프라인 · 도구 버전 · 파라미터
-docs/                   스터디별 컬럼 설명
+docs/                   스터디별 컬럼 설명 (06은 임상표만)
 docs/figures/           데이터 표 예시 스크린샷 (PPT용, 01번 스터디 기준)
 ```
 
