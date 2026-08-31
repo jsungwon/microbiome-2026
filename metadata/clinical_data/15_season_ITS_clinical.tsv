@@ -1,0 +1,482 @@
+sample_accession	sample_alias	sample_title	isolation_source	collection_date	host
+SAMN08142179	ADMA3zFOHWINT	Metagenome or environmental sample from human skin metagenome	ADMA 3Z Forehead Winter	2014-01-10	Homo sapiens
+SAMN08142180	ADMA3zLFWINT	Metagenome or environmental sample from human skin metagenome	ADMA 3Z Left Forearm Winter	2014-01-10	Homo sapiens
+SAMN08142181	ADMA3zLPWINT	Metagenome or environmental sample from human skin metagenome	ADMA 3Z Left Palm Winter	2014-01-10	Homo sapiens
+SAMN08142182	ADMA3zRFWINT	Metagenome or environmental sample from human skin metagenome	ADMA 3Z Right Forearm Winter	2014-01-10	Homo sapiens
+SAMN08142183	ADMA3zRPWINT	Metagenome or environmental sample from human skin metagenome	ADMA 3Z Right Palm Winter	2014-01-10	Homo sapiens
+SAMN08142539	ADMa3zFOHAUT	Metagenome or environmental sample from human skin metagenome	ADMA 3Z Forehead Autumn	2014-12-04	Homo sapiens
+SAMN08142299	ADMa3zFOHSPR	Metagenome or environmental sample from human skin metagenome	ADMA 3Z Forehead Spring	2014-04-11	Homo sapiens
+SAMN08142419	ADMa3zFOHSUM	Metagenome or environmental sample from human skin metagenome	ADMA 3Z Forehead Summer	2014-08-20	Homo sapiens
+SAMN08142540	ADMa3zLFAUT	Metagenome or environmental sample from human skin metagenome	ADMA 3Z Left Forearm Autumn	2014-12-04	Homo sapiens
+SAMN08142300	ADMa3zLFSPR	Metagenome or environmental sample from human skin metagenome	ADMA 3Z Left Forearm Spring	2014-04-11	Homo sapiens
+SAMN08142420	ADMa3zLFSUM	Metagenome or environmental sample from human skin metagenome	ADMA 3Z Left Forearm Summer	2014-08-20	Homo sapiens
+SAMN08142541	ADMa3zLPAUT	Metagenome or environmental sample from human skin metagenome	ADMA 3Z Left Palm Autumn	2014-12-04	Homo sapiens
+SAMN08142301	ADMa3zLPSPR	Metagenome or environmental sample from human skin metagenome	ADMA 3Z Left Palm Spring	2014-04-11	Homo sapiens
+SAMN08142421	ADMa3zLPSUM	Metagenome or environmental sample from human skin metagenome	ADMA 3Z Left Palm Summer	2014-08-20	Homo sapiens
+SAMN08142542	ADMa3zRFAUT	Metagenome or environmental sample from human skin metagenome	ADMA 3Z Right Forearm Autumn	2014-12-04	Homo sapiens
+SAMN08142302	ADMa3zRFSPR	Metagenome or environmental sample from human skin metagenome	ADMA 3Z Right Forearm Spring	2014-04-11	Homo sapiens
+SAMN08142422	ADMa3zRFSUM	Metagenome or environmental sample from human skin metagenome	ADMA 3Z Right Forearm Summer	2014-08-20	Homo sapiens
+SAMN08142543	ADMa3zRPAUT	Metagenome or environmental sample from human skin metagenome	ADMA 3Z Right Palm Autumn	2014-12-04	Homo sapiens
+SAMN08142303	ADMa3zRPSPR	Metagenome or environmental sample from human skin metagenome	ADMA 3Z Right Palm Spring	2014-04-11	Homo sapiens
+SAMN08142423	ADMa3zRPSUM	Metagenome or environmental sample from human skin metagenome	ADMA 3Z Right Palm Summer	2014-08-20	Homo sapiens
+SAMN08142544	FH3zFOHAUT	Metagenome or environmental sample from human skin metagenome	FH 3Z Forehead Autumn	2014-12-17	Homo sapiens
+SAMN08142304	FH3zFOHSPR	Metagenome or environmental sample from human skin metagenome	FH 3Z Forehead Spring	2014-05-12	Homo sapiens
+SAMN08142424	FH3zFOHSUM	Metagenome or environmental sample from human skin metagenome	FH 3Z Forehead Summer	2014-08-19	Homo sapiens
+SAMN08142184	FH3zFOHWINT	Metagenome or environmental sample from human skin metagenome	FH 3Z Forehead Winter	2014-01-28	Homo sapiens
+SAMN08142545	FH3zLFAUT	Metagenome or environmental sample from human skin metagenome	FH 3Z Left Forearm Autumn	2014-12-17	Homo sapiens
+SAMN08142305	FH3zLFSPR	Metagenome or environmental sample from human skin metagenome	FH 3Z Left Forearm Spring	2014-05-12	Homo sapiens
+SAMN08142425	FH3zLFSUM	Metagenome or environmental sample from human skin metagenome	FH 3Z Left Forearm Summer	2014-08-19	Homo sapiens
+SAMN08142185	FH3zLFWINT	Metagenome or environmental sample from human skin metagenome	FH 3Z Left Forearm Winter	2014-01-28	Homo sapiens
+SAMN08142546	FH3zLPAUT	Metagenome or environmental sample from human skin metagenome	FH 3Z Left Palm Autumn	2014-12-17	Homo sapiens
+SAMN08142306	FH3zLPSPR	Metagenome or environmental sample from human skin metagenome	FH 3Z Left Palm Spring	2014-05-12	Homo sapiens
+SAMN08142426	FH3zLPSUM	Metagenome or environmental sample from human skin metagenome	FH 3Z Left Palm Summer	2014-08-19	Homo sapiens
+SAMN08142186	FH3zLPWINT	Metagenome or environmental sample from human skin metagenome	FH 3Z Left Palm Winter	2014-01-28	Homo sapiens
+SAMN08142547	FH3zRFAUT	Metagenome or environmental sample from human skin metagenome	FH 3Z Right Forearm Autumn	2014-12-17	Homo sapiens
+SAMN08142307	FH3zRFSPR	Metagenome or environmental sample from human skin metagenome	FH 3Z Right Forearm Spring	2014-05-12	Homo sapiens
+SAMN08142427	FH3zRFSUM	Metagenome or environmental sample from human skin metagenome	FH 3Z Right Forearm Summer	2014-08-19	Homo sapiens
+SAMN08142187	FH3zRFWINT	Metagenome or environmental sample from human skin metagenome	FH 3Z Right Forearm Winter	2014-01-28	Homo sapiens
+SAMN08142548	FH3zRPAUT	Metagenome or environmental sample from human skin metagenome	FH 3Z Right Palm Autumn	2014-12-17	Homo sapiens
+SAMN08142308	FH3zRPSPR	Metagenome or environmental sample from human skin metagenome	FH 3Z Right Palm Spring	2014-05-12	Homo sapiens
+SAMN08142428	FH3zRPSUM	Metagenome or environmental sample from human skin metagenome	FH 3Z Right Palm Summer	2014-08-19	Homo sapiens
+SAMN08142188	FH3zRPWINT	Metagenome or environmental sample from human skin metagenome	FH 3Z Right Palm Winter	2014-01-28	Homo sapiens
+SAMN08142549	HFC3zFOHAUT	Metagenome or environmental sample from human skin metagenome	HFC 3Z Forehead Autumn	2014-12-08	Homo sapiens
+SAMN08142309	HFC3zFOHSPR	Metagenome or environmental sample from human skin metagenome	HFC 3Z Forehead Spring	2014-04-16	Homo sapiens
+SAMN08142429	HFC3zFOHSUM	Metagenome or environmental sample from human skin metagenome	HFC 3Z Forehead Summer	2014-08-13	Homo sapiens
+SAMN08142189	HFC3zFOHWINT	Metagenome or environmental sample from human skin metagenome	HFC 3Z Forehead Winter	2014-01-07	Homo sapiens
+SAMN08142550	HFC3zLFAUT	Metagenome or environmental sample from human skin metagenome	HFC 3Z Left Forearm Autumn	2014-12-08	Homo sapiens
+SAMN08142310	HFC3zLFSPR	Metagenome or environmental sample from human skin metagenome	HFC 3Z Left Forearm Spring	2014-04-16	Homo sapiens
+SAMN08142430	HFC3zLFSUM	Metagenome or environmental sample from human skin metagenome	HFC 3Z Left Forearm Summer	2014-08-13	Homo sapiens
+SAMN08142190	HFC3zLFWINT	Metagenome or environmental sample from human skin metagenome	HFC 3Z Left Forearm Winter	2014-01-07	Homo sapiens
+SAMN08142551	HFC3zLPAUT	Metagenome or environmental sample from human skin metagenome	HFC 3Z Left Palm Autumn	2014-12-08	Homo sapiens
+SAMN08142311	HFC3zLPSPR	Metagenome or environmental sample from human skin metagenome	HFC 3Z Left Palm Spring	2014-04-16	Homo sapiens
+SAMN08142431	HFC3zLPSUM	Metagenome or environmental sample from human skin metagenome	HFC 3Z Left Palm Summer	2014-08-13	Homo sapiens
+SAMN08142191	HFC3zLPWINT	Metagenome or environmental sample from human skin metagenome	HFC 3Z Left Palm Winter	2014-01-07	Homo sapiens
+SAMN08142552	HFC3zRFAUT	Metagenome or environmental sample from human skin metagenome	HFC 3Z Right Forearm Autumn	2014-12-08	Homo sapiens
+SAMN08142312	HFC3zRFSPR	Metagenome or environmental sample from human skin metagenome	HFC 3Z Right Forearm Spring	2014-04-16	Homo sapiens
+SAMN08142432	HFC3zRFSUM	Metagenome or environmental sample from human skin metagenome	HFC 3Z Right Forearm Summer	2014-08-13	Homo sapiens
+SAMN08142192	HFC3zRFWINT	Metagenome or environmental sample from human skin metagenome	HFC 3Z Right Forearm Winter	2014-01-07	Homo sapiens
+SAMN08142553	HFC3zRPAUT	Metagenome or environmental sample from human skin metagenome	HFC 3Z Right Palm Autumn	2014-12-08	Homo sapiens
+SAMN08142313	HFC3zRPSPR	Metagenome or environmental sample from human skin metagenome	HFC 3Z Right Palm Spring	2014-04-16	Homo sapiens
+SAMN08142433	HFC3zRPSUM	Metagenome or environmental sample from human skin metagenome	HFC 3Z Right Palm Summer	2014-08-13	Homo sapiens
+SAMN08142193	HFC3zRPWINT	Metagenome or environmental sample from human skin metagenome	HFC 3Z Right Palm Winter	2014-01-07	Homo sapiens
+SAMN08142554	HHa3zFOHAUT	Metagenome or environmental sample from human skin metagenome	HHa 3Z Forehead Autumn	2014-11-27	Homo sapiens
+SAMN08142314	HHa3zFOHSPR	Metagenome or environmental sample from human skin metagenome	HHa 3Z Forehead Spring	2014-04-14	Homo sapiens
+SAMN08142434	HHa3zFOHSUM	Metagenome or environmental sample from human skin metagenome	HHa 3Z Forehead Summer	2014-07-30	Homo sapiens
+SAMN08142194	HHa3zFOHWINT	Metagenome or environmental sample from human skin metagenome	HHa 3Z Forehead Winter	2014-01-09	Homo sapiens
+SAMN08142555	HHa3zLFAUT	Metagenome or environmental sample from human skin metagenome	HHa 3Z Left Forearm Autumn	2014-11-27	Homo sapiens
+SAMN08142315	HHa3zLFSPR	Metagenome or environmental sample from human skin metagenome	HHa 3Z Left Forearm Spring	2014-04-14	Homo sapiens
+SAMN08142435	HHa3zLFSUM	Metagenome or environmental sample from human skin metagenome	HHa 3Z Left Forearm Summer	2014-07-30	Homo sapiens
+SAMN08142195	HHa3zLFWINT	Metagenome or environmental sample from human skin metagenome	HHa 3Z Left Forearm Winter	2014-01-09	Homo sapiens
+SAMN08142556	HHa3zLPAUT	Metagenome or environmental sample from human skin metagenome	HHa 3Z Left Palm Autumn	2014-11-27	Homo sapiens
+SAMN08142316	HHa3zLPSPR	Metagenome or environmental sample from human skin metagenome	HHa 3Z Left Palm Spring	2014-04-14	Homo sapiens
+SAMN08142436	HHa3zLPSUM	Metagenome or environmental sample from human skin metagenome	HHa 3Z Left Palm Summer	2014-07-30	Homo sapiens
+SAMN08142196	HHa3zLPWINT	Metagenome or environmental sample from human skin metagenome	HHa 3Z Left Palm Winter	2014-01-09	Homo sapiens
+SAMN08142557	HHa3zRFAUT	Metagenome or environmental sample from human skin metagenome	HHa 3Z Right Forearm Autumn	2014-11-27	Homo sapiens
+SAMN08142317	HHa3zRFSPR	Metagenome or environmental sample from human skin metagenome	HHa 3Z Right Forearm Spring	2014-04-14	Homo sapiens
+SAMN08142437	HHa3zRFSUM	Metagenome or environmental sample from human skin metagenome	HHa 3Z Right Forearm Summer	2014-07-30	Homo sapiens
+SAMN08142197	HHa3zRFWINT	Metagenome or environmental sample from human skin metagenome	HHa 3Z Right Forearm Winter	2014-01-09	Homo sapiens
+SAMN08142558	HHa3zRPAUT	Metagenome or environmental sample from human skin metagenome	HHa 3Z Right Palm Autumn	2014-11-27	Homo sapiens
+SAMN08142318	HHa3zRPSPR	Metagenome or environmental sample from human skin metagenome	HHa 3Z Right Palm Spring	2014-04-14	Homo sapiens
+SAMN08142438	HHa3zRPSUM	Metagenome or environmental sample from human skin metagenome	HHa 3Z Right Palm Summer	2014-07-30	Homo sapiens
+SAMN08142198	HHa3zRPWINT	Metagenome or environmental sample from human skin metagenome	HHa 3Z Right Palm Winter	2014-01-09	Homo sapiens
+SAMN08142559	MOS3wFOHAUT	Metagenome or environmental sample from human skin metagenome	MOS 3W Forehead Autumn	2014-12-19	Homo sapiens
+SAMN08142319	MOS3wFOHSPR	Metagenome or environmental sample from human skin metagenome	MOS 3W Forehead Spring	2014-05-06	Homo sapiens
+SAMN08142439	MOS3wFOHSUM	Metagenome or environmental sample from human skin metagenome	MOS 3W Forehead Summer	2014-08-01	Homo sapiens
+SAMN08142199	MOS3wFOHWINT	Metagenome or environmental sample from human skin metagenome	MOS 3W Forehead Winter	2014-01-29	Homo sapiens
+SAMN08142560	MOS3wLFAUT	Metagenome or environmental sample from human skin metagenome	MOS 3W Left Forearm Autumn	2014-12-19	Homo sapiens
+SAMN08142320	MOS3wLFSPR	Metagenome or environmental sample from human skin metagenome	MOS 3W Left Forearm Spring	2014-05-06	Homo sapiens
+SAMN08142440	MOS3wLFSUM	Metagenome or environmental sample from human skin metagenome	MOS 3W Left Forearm Summer	2014-08-01	Homo sapiens
+SAMN08142200	MOS3wLFWINT	Metagenome or environmental sample from human skin metagenome	MOS 3W Left Forearm Winter	2014-01-29	Homo sapiens
+SAMN08142561	MOS3wLPAUT	Metagenome or environmental sample from human skin metagenome	MOS 3W Left Palm Autumn	2014-12-19	Homo sapiens
+SAMN08142321	MOS3wLPSPR	Metagenome or environmental sample from human skin metagenome	MOS 3W Left Palm Spring	2014-05-06	Homo sapiens
+SAMN08142441	MOS3wLPSUM	Metagenome or environmental sample from human skin metagenome	MOS 3W Left Palm Summer	2014-08-01	Homo sapiens
+SAMN08142201	MOS3wLPWINT	Metagenome or environmental sample from human skin metagenome	MOS 3W Left Palm Winter	2014-01-29	Homo sapiens
+SAMN08142562	MOS3wRFAUT	Metagenome or environmental sample from human skin metagenome	MOS 3W Right Forearm Autumn	2014-12-19	Homo sapiens
+SAMN08142322	MOS3wRFSPR	Metagenome or environmental sample from human skin metagenome	MOS 3W Right Forearm Spring	2014-05-06	Homo sapiens
+SAMN08142442	MOS3wRFSUM	Metagenome or environmental sample from human skin metagenome	MOS 3W Right Forearm Summer	2014-08-01	Homo sapiens
+SAMN08142202	MOS3wRFWINT	Metagenome or environmental sample from human skin metagenome	MOS 3W Right Forearm Winter	2014-01-29	Homo sapiens
+SAMN08142563	MOS3wRPAUT	Metagenome or environmental sample from human skin metagenome	MOS 3W Right Palm Autumn	2014-12-19	Homo sapiens
+SAMN08142323	MOS3wRPSPR	Metagenome or environmental sample from human skin metagenome	MOS 3W Right Palm Spring	2014-05-06	Homo sapiens
+SAMN08142443	MOS3wRPSUM	Metagenome or environmental sample from human skin metagenome	MOS 3W Right Palm Summer	2014-08-01	Homo sapiens
+SAMN08142203	MOS3wRPWINT	Metagenome or environmental sample from human skin metagenome	MOS 3W Right Palm Winter	2014-01-29	Homo sapiens
+SAMN08142564	MOS3xFOHAUT	Metagenome or environmental sample from human skin metagenome	MOS 3X Forehead Autumn	2014-12-19	Homo sapiens
+SAMN08142324	MOS3xFOHSPR	Metagenome or environmental sample from human skin metagenome	MOS 3X Forehead Spring	2014-05-06	Homo sapiens
+SAMN08142444	MOS3xFOHSUM	Metagenome or environmental sample from human skin metagenome	MOS 3X Forehead Summer	2014-08-01	Homo sapiens
+SAMN08142204	MOS3xFOHWINT	Metagenome or environmental sample from human skin metagenome	MOS 3X Forehead Winter	2014-01-29	Homo sapiens
+SAMN08142565	MOS3xLFAUT	Metagenome or environmental sample from human skin metagenome	MOS 3X Left Forearm Autumn	2014-12-19	Homo sapiens
+SAMN08142325	MOS3xLFSPR	Metagenome or environmental sample from human skin metagenome	MOS 3X Left Forearm Spring	2014-05-06	Homo sapiens
+SAMN08142445	MOS3xLFSUM	Metagenome or environmental sample from human skin metagenome	MOS 3X Left Forearm Summer	2014-08-01	Homo sapiens
+SAMN08142205	MOS3xLFWINT	Metagenome or environmental sample from human skin metagenome	MOS 3X Left Forearm Winter	2014-01-29	Homo sapiens
+SAMN08142566	MOS3xLPAUT	Metagenome or environmental sample from human skin metagenome	MOS 3X Left Palm Autumn	2014-12-19	Homo sapiens
+SAMN08142326	MOS3xLPSPR	Metagenome or environmental sample from human skin metagenome	MOS 3X Left Palm Spring	2014-05-06	Homo sapiens
+SAMN08142446	MOS3xLPSUM	Metagenome or environmental sample from human skin metagenome	MOS 3X Left Palm Summer	2014-08-01	Homo sapiens
+SAMN08142206	MOS3xLPWINT	Metagenome or environmental sample from human skin metagenome	MOS 3X Left Palm Winter	2014-01-29	Homo sapiens
+SAMN08142567	MOS3xRFAUT	Metagenome or environmental sample from human skin metagenome	MOS 3X Right Forearm Autumn	2014-12-19	Homo sapiens
+SAMN08142327	MOS3xRFSPR	Metagenome or environmental sample from human skin metagenome	MOS 3X Right Forearm Spring	2014-05-06	Homo sapiens
+SAMN08142447	MOS3xRFSUM	Metagenome or environmental sample from human skin metagenome	MOS 3X Right Forearm Summer	2014-08-01	Homo sapiens
+SAMN08142207	MOS3xRFWINT	Metagenome or environmental sample from human skin metagenome	MOS 3X Right Forearm Winter	2014-01-29	Homo sapiens
+SAMN08142568	MOS3xRPAUT	Metagenome or environmental sample from human skin metagenome	MOS 3X Right Palm Autumn	2014-12-19	Homo sapiens
+SAMN08142328	MOS3xRPSPR	Metagenome or environmental sample from human skin metagenome	MOS 3X Right Palm Spring	2014-05-06	Homo sapiens
+SAMN08142448	MOS3xRPSUM	Metagenome or environmental sample from human skin metagenome	MOS 3X Right Palm Summer	2014-08-01	Homo sapiens
+SAMN08142208	MOS3xRPWINT	Metagenome or environmental sample from human skin metagenome	MOS 3X Right Palm Winter	2014-01-29	Homo sapiens
+SAMN08142569	MOS3yFOHAUT	Metagenome or environmental sample from human skin metagenome	MOS 3Y Forehead Autumn	2014-12-19	Homo sapiens
+SAMN08142329	MOS3yFOHSPR	Metagenome or environmental sample from human skin metagenome	MOS 3Y Forehead Spring	2014-05-06	Homo sapiens
+SAMN08142449	MOS3yFOHSUM	Metagenome or environmental sample from human skin metagenome	MOS 3Y Forehead Summer	2014-08-01	Homo sapiens
+SAMN08142209	MOS3yFOHWINT	Metagenome or environmental sample from human skin metagenome	MOS 3Y Forehead Winter	2014-01-29	Homo sapiens
+SAMN08142570	MOS3yLFAUT	Metagenome or environmental sample from human skin metagenome	MOS 3Y Left Forearm Autumn	2014-12-19	Homo sapiens
+SAMN08142330	MOS3yLFSPR	Metagenome or environmental sample from human skin metagenome	MOS 3Y Left Forearm Spring	2014-05-06	Homo sapiens
+SAMN08142450	MOS3yLFSUM	Metagenome or environmental sample from human skin metagenome	MOS 3Y Left Forearm Summer	2014-08-01	Homo sapiens
+SAMN08142210	MOS3yLFWINT	Metagenome or environmental sample from human skin metagenome	MOS 3Y Left Forearm Winter	2014-01-29	Homo sapiens
+SAMN08142571	MOS3yLPAUT	Metagenome or environmental sample from human skin metagenome	MOS 3Y Left Palm Autumn	2014-12-19	Homo sapiens
+SAMN08142331	MOS3yLPSPR	Metagenome or environmental sample from human skin metagenome	MOS 3Y Left Palm Spring	2014-05-06	Homo sapiens
+SAMN08142451	MOS3yLPSUM	Metagenome or environmental sample from human skin metagenome	MOS 3Y Left Palm Summer	2014-08-01	Homo sapiens
+SAMN08142211	MOS3yLPWINT	Metagenome or environmental sample from human skin metagenome	MOS 3Y Left Palm Winter	2014-01-29	Homo sapiens
+SAMN08142572	MOS3yRFAUT	Metagenome or environmental sample from human skin metagenome	MOS 3Y Right Forearm Autumn	2014-12-19	Homo sapiens
+SAMN08142332	MOS3yRFSPR	Metagenome or environmental sample from human skin metagenome	MOS 3Y Right Forearm Spring	2014-05-06	Homo sapiens
+SAMN08142452	MOS3yRFSUM	Metagenome or environmental sample from human skin metagenome	MOS 3Y Right Forearm Summer	2014-08-01	Homo sapiens
+SAMN08142212	MOS3yRFWINT	Metagenome or environmental sample from human skin metagenome	MOS 3Y Right Forearm Winter	2014-01-29	Homo sapiens
+SAMN08142573	MOS3yRPAUT	Metagenome or environmental sample from human skin metagenome	MOS 3Y Right Palm Autumn	2014-12-19	Homo sapiens
+SAMN08142333	MOS3yRPSPR	Metagenome or environmental sample from human skin metagenome	MOS 3Y Right Palm Spring	2014-05-06	Homo sapiens
+SAMN08142453	MOS3yRPSUM	Metagenome or environmental sample from human skin metagenome	MOS 3Y Right Palm Summer	2014-08-01	Homo sapiens
+SAMN08142213	MOS3yRPWINT	Metagenome or environmental sample from human skin metagenome	MOS 3Y Right Palm Winter	2014-01-29	Homo sapiens
+SAMN08142574	QB3yFOHAUT	Metagenome or environmental sample from human skin metagenome	QB 3Y Forehead Autumn	2014-11-26	Homo sapiens
+SAMN08142334	QB3yFOHSPR	Metagenome or environmental sample from human skin metagenome	QB 3Y Forehead Spring	2014-04-24	Homo sapiens
+SAMN08142454	QB3yFOHSUM	Metagenome or environmental sample from human skin metagenome	QB 3Y Forehead Summer	2014-08-07	Homo sapiens
+SAMN08142214	QB3yFOHWINT	Metagenome or environmental sample from human skin metagenome	QB 3Y Forehead Winter	2014-01-16	Homo sapiens
+SAMN08142575	QB3yLFAUT	Metagenome or environmental sample from human skin metagenome	QB 3Y Left Forearm Autumn	2014-11-26	Homo sapiens
+SAMN08142335	QB3yLFSPR	Metagenome or environmental sample from human skin metagenome	QB 3Y Left Forearm Spring	2014-04-24	Homo sapiens
+SAMN08142455	QB3yLFSUM	Metagenome or environmental sample from human skin metagenome	QB 3Y Left Forearm Summer	2014-08-07	Homo sapiens
+SAMN08142215	QB3yLFWINT	Metagenome or environmental sample from human skin metagenome	QB 3Y Left Forearm Winter	2014-01-16	Homo sapiens
+SAMN08142576	QB3yLPAUT	Metagenome or environmental sample from human skin metagenome	QB 3Y Left Palm Autumn	2014-11-26	Homo sapiens
+SAMN08142336	QB3yLPSPR	Metagenome or environmental sample from human skin metagenome	QB 3Y Left Palm Spring	2014-04-24	Homo sapiens
+SAMN08142456	QB3yLPSUM	Metagenome or environmental sample from human skin metagenome	QB 3Y Left Palm Summer	2014-08-07	Homo sapiens
+SAMN08142216	QB3yLPWINT	Metagenome or environmental sample from human skin metagenome	QB 3Y Left Palm Winter	2014-01-16	Homo sapiens
+SAMN08142577	QB3yRFAUT	Metagenome or environmental sample from human skin metagenome	QB 3Y Right Forearm Autumn	2014-11-26	Homo sapiens
+SAMN08142337	QB3yRFSPR	Metagenome or environmental sample from human skin metagenome	QB 3Y Right Forearm Spring	2014-04-24	Homo sapiens
+SAMN08142457	QB3yRFSUM	Metagenome or environmental sample from human skin metagenome	QB 3Y Right Forearm Summer	2014-08-07	Homo sapiens
+SAMN08142217	QB3yRFWINT	Metagenome or environmental sample from human skin metagenome	QB 3Y Right Forearm Winter	2014-01-16	Homo sapiens
+SAMN08142578	QB3yRPAUT	Metagenome or environmental sample from human skin metagenome	QB 3Y Right Palm Autumn	2014-11-26	Homo sapiens
+SAMN08142338	QB3yRPSPR	Metagenome or environmental sample from human skin metagenome	QB 3Y Right Palm Spring	2014-04-24	Homo sapiens
+SAMN08142458	QB3yRPSUM	Metagenome or environmental sample from human skin metagenome	QB 3Y Right Palm Summer	2014-08-07	Homo sapiens
+SAMN08142218	QB3yRPWINT	Metagenome or environmental sample from human skin metagenome	QB 3Y Right Palm Winter	2014-01-16	Homo sapiens
+SAMN08142579	QB3zFOHAUT	Metagenome or environmental sample from human skin metagenome	QB 3Z Forehead Autumn	2014-11-26	Homo sapiens
+SAMN08142339	QB3zFOHSPR	Metagenome or environmental sample from human skin metagenome	QB 3Z Forehead Spring	2014-04-24	Homo sapiens
+SAMN08142459	QB3zFOHSUM	Metagenome or environmental sample from human skin metagenome	QB 3Z Forehead Summer	2014-08-07	Homo sapiens
+SAMN08142219	QB3zFOHWINT	Metagenome or environmental sample from human skin metagenome	QB 3Z Forehead Winter	2014-01-16	Homo sapiens
+SAMN08142580	QB3zLFAUT	Metagenome or environmental sample from human skin metagenome	QB 3Z Left Forearm Autumn	2014-11-26	Homo sapiens
+SAMN08142340	QB3zLFSPR	Metagenome or environmental sample from human skin metagenome	QB 3Z Left Forearm Spring	2014-04-24	Homo sapiens
+SAMN08142460	QB3zLFSUM	Metagenome or environmental sample from human skin metagenome	QB 3Z Left Forearm Summer	2014-08-07	Homo sapiens
+SAMN08142220	QB3zLFWINT	Metagenome or environmental sample from human skin metagenome	QB 3Z Left Forearm Winter	2014-01-16	Homo sapiens
+SAMN08142581	QB3zLPAUT	Metagenome or environmental sample from human skin metagenome	QB 3Z Left Palm Autumn	2014-11-26	Homo sapiens
+SAMN08142341	QB3zLPSPR	Metagenome or environmental sample from human skin metagenome	QB 3Z Left Palm Spring	2014-04-24	Homo sapiens
+SAMN08142461	QB3zLPSUM	Metagenome or environmental sample from human skin metagenome	QB 3Z Left Palm Summer	2014-08-07	Homo sapiens
+SAMN08142221	QB3zLPWINT	Metagenome or environmental sample from human skin metagenome	QB 3Z Left Palm Winter	2014-01-16	Homo sapiens
+SAMN08142582	QB3zRFAUT	Metagenome or environmental sample from human skin metagenome	QB 3Z Right Forearm Autumn	2014-11-26	Homo sapiens
+SAMN08142342	QB3zRFSPR	Metagenome or environmental sample from human skin metagenome	QB 3Z Right Forearm Spring	2014-04-24	Homo sapiens
+SAMN08142462	QB3zRFSUM	Metagenome or environmental sample from human skin metagenome	QB 3Z Right Forearm Summer	2014-08-07	Homo sapiens
+SAMN08142222	QB3zRFWINT	Metagenome or environmental sample from human skin metagenome	QB 3Z Right Forearm Winter	2014-01-16	Homo sapiens
+SAMN08142583	QB3zRPAUT	Metagenome or environmental sample from human skin metagenome	QB 3Z Right Palm Autumn	2014-11-26	Homo sapiens
+SAMN08142343	QB3zRPSPR	Metagenome or environmental sample from human skin metagenome	QB 3Z Right Palm Spring	2014-04-24	Homo sapiens
+SAMN08142463	QB3zRPSUM	Metagenome or environmental sample from human skin metagenome	QB 3Z Right Palm Summer	2014-08-07	Homo sapiens
+SAMN08142223	QB3zRPWINT	Metagenome or environmental sample from human skin metagenome	QB 3Z Right Palm Winter	2014-01-16	Homo sapiens
+SAMN08142584	STW3xFOHAUT	Metagenome or environmental sample from human skin metagenome	STW 3X Forehead Autumn	2014-12-11	Homo sapiens
+SAMN08142344	STW3xFOHSPR	Metagenome or environmental sample from human skin metagenome	STW 3X Forehead Spring	2014-04-23	Homo sapiens
+SAMN08142464	STW3xFOHSUM	Metagenome or environmental sample from human skin metagenome	STW 3X Forehead Summer	2014-08-18	Homo sapiens
+SAMN08142224	STW3xFOHWINT	Metagenome or environmental sample from human skin metagenome	STW 3X Forehead Winter	2014-01-20	Homo sapiens
+SAMN08142585	STW3xLFAUT	Metagenome or environmental sample from human skin metagenome	STW 3X Left Forearm Autumn	2014-12-11	Homo sapiens
+SAMN08142345	STW3xLFSPR	Metagenome or environmental sample from human skin metagenome	STW 3X Left Forearm Spring	2014-04-23	Homo sapiens
+SAMN08142465	STW3xLFSUM	Metagenome or environmental sample from human skin metagenome	STW 3X Left Forearm Summer	2014-08-18	Homo sapiens
+SAMN08142225	STW3xLFWINT	Metagenome or environmental sample from human skin metagenome	STW 3X Left Forearm Winter	2014-01-20	Homo sapiens
+SAMN08142586	STW3xLPAUT	Metagenome or environmental sample from human skin metagenome	STW 3X Left Palm Autumn	2014-12-11	Homo sapiens
+SAMN08142346	STW3xLPSPR	Metagenome or environmental sample from human skin metagenome	STW 3X Left Palm Spring	2014-04-23	Homo sapiens
+SAMN08142466	STW3xLPSUM	Metagenome or environmental sample from human skin metagenome	STW 3X Left Palm Summer	2014-08-18	Homo sapiens
+SAMN08142226	STW3xLPWINT	Metagenome or environmental sample from human skin metagenome	STW 3X Left Palm Winter	2014-01-20	Homo sapiens
+SAMN08142587	STW3xRFAUT	Metagenome or environmental sample from human skin metagenome	STW 3X Right Forearm Autumn	2014-12-11	Homo sapiens
+SAMN08142347	STW3xRFSPR	Metagenome or environmental sample from human skin metagenome	STW 3X Right Forearm Spring	2014-04-23	Homo sapiens
+SAMN08142467	STW3xRFSUM	Metagenome or environmental sample from human skin metagenome	STW 3X Right Forearm Summer	2014-08-18	Homo sapiens
+SAMN08142227	STW3xRFWINT	Metagenome or environmental sample from human skin metagenome	STW 3X Right Forearm Winter	2014-01-20	Homo sapiens
+SAMN08142588	STW3xRPAUT	Metagenome or environmental sample from human skin metagenome	STW 3X Right Palm Autumn	2014-12-11	Homo sapiens
+SAMN08142348	STW3xRPSPR	Metagenome or environmental sample from human skin metagenome	STW 3X Right Palm Spring	2014-04-23	Homo sapiens
+SAMN08142468	STW3xRPSUM	Metagenome or environmental sample from human skin metagenome	STW 3X Right Palm Summer	2014-08-18	Homo sapiens
+SAMN08142228	STW3xRPWINT	Metagenome or environmental sample from human skin metagenome	STW 3X Right Palm Winter	2014-01-20	Homo sapiens
+SAMN08142589	STW3yFOHAUT	Metagenome or environmental sample from human skin metagenome	STW 3Y Forehead Autumn	2014-12-11	Homo sapiens
+SAMN08142349	STW3yFOHSPR	Metagenome or environmental sample from human skin metagenome	STW 3Y Forehead Spring	2014-04-23	Homo sapiens
+SAMN08142469	STW3yFOHSUM	Metagenome or environmental sample from human skin metagenome	STW 3Y Forehead Summer	2014-08-18	Homo sapiens
+SAMN08142229	STW3yFOHWINT	Metagenome or environmental sample from human skin metagenome	STW 3Y Forehead Winter	2014-01-20	Homo sapiens
+SAMN08142590	STW3yLFAUT	Metagenome or environmental sample from human skin metagenome	STW 3Y Left Forearm Autumn	2014-12-11	Homo sapiens
+SAMN08142350	STW3yLFSPR	Metagenome or environmental sample from human skin metagenome	STW 3Y Left Forearm Spring	2014-04-23	Homo sapiens
+SAMN08142470	STW3yLFSUM	Metagenome or environmental sample from human skin metagenome	STW 3Y Left Forearm Summer	2014-08-18	Homo sapiens
+SAMN08142230	STW3yLFWINT	Metagenome or environmental sample from human skin metagenome	STW 3Y Left Forearm Winter	2014-01-20	Homo sapiens
+SAMN08142591	STW3yLPAUT	Metagenome or environmental sample from human skin metagenome	STW 3Y Left Palm Autumn	2014-12-11	Homo sapiens
+SAMN08142351	STW3yLPSPR	Metagenome or environmental sample from human skin metagenome	STW 3Y Left Palm Spring	2014-04-23	Homo sapiens
+SAMN08142471	STW3yLPSUM	Metagenome or environmental sample from human skin metagenome	STW 3Y Left Palm Summer	2014-08-18	Homo sapiens
+SAMN08142231	STW3yLPWINT	Metagenome or environmental sample from human skin metagenome	STW 3Y Left Palm Winter	2014-01-20	Homo sapiens
+SAMN08142592	STW3yRFAUT	Metagenome or environmental sample from human skin metagenome	STW 3Y Right Forearm Autumn	2014-12-11	Homo sapiens
+SAMN08142352	STW3yRFSPR	Metagenome or environmental sample from human skin metagenome	STW 3Y Right Forearm Spring	2014-04-23	Homo sapiens
+SAMN08142472	STW3yRFSUM	Metagenome or environmental sample from human skin metagenome	STW 3Y Right Forearm Summer	2014-08-18	Homo sapiens
+SAMN08142232	STW3yRFWINT	Metagenome or environmental sample from human skin metagenome	STW 3Y Right Forearm Winter	2014-01-20	Homo sapiens
+SAMN08142593	STW3yRPAUT	Metagenome or environmental sample from human skin metagenome	STW 3Y Right Palm Autumn	2014-12-11	Homo sapiens
+SAMN08142353	STW3yRPSPR	Metagenome or environmental sample from human skin metagenome	STW 3Y Right Palm Spring	2014-04-23	Homo sapiens
+SAMN08142473	STW3yRPSUM	Metagenome or environmental sample from human skin metagenome	STW 3Y Right Palm Summer	2014-08-18	Homo sapiens
+SAMN08142233	STW3yRPWINT	Metagenome or environmental sample from human skin metagenome	STW 3Y Right Palm Winter	2014-01-20	Homo sapiens
+SAMN08142594	SW3yFOHAUT	Metagenome or environmental sample from human skin metagenome	SW 3Y Forehead Autumn	2014-12-09	Homo sapiens
+SAMN08142354	SW3yFOHSPR	Metagenome or environmental sample from human skin metagenome	SW 3Y Forehead Spring	2014-05-07	Homo sapiens
+SAMN08142474	SW3yFOHSUM	Metagenome or environmental sample from human skin metagenome	SW 3Y Forehead Summer	2014-08-14	Homo sapiens
+SAMN08142234	SW3yFOHWINT	Metagenome or environmental sample from human skin metagenome	SW 3Y Forehead Winter	2014-01-13	Homo sapiens
+SAMN08142595	SW3yLFAUT	Metagenome or environmental sample from human skin metagenome	SW 3Y Left Forearm Autumn	2014-12-09	Homo sapiens
+SAMN08142355	SW3yLFSPR	Metagenome or environmental sample from human skin metagenome	SW 3Y Left Forearm Spring	2014-05-07	Homo sapiens
+SAMN08142475	SW3yLFSUM	Metagenome or environmental sample from human skin metagenome	SW 3Y Left Forearm Summer	2014-08-14	Homo sapiens
+SAMN08142235	SW3yLFWINT	Metagenome or environmental sample from human skin metagenome	SW 3Y Left Forearm Winter	2014-01-13	Homo sapiens
+SAMN08142596	SW3yLPAUT	Metagenome or environmental sample from human skin metagenome	SW 3Y Left Palm Autumn	2014-12-09	Homo sapiens
+SAMN08142356	SW3yLPSPR	Metagenome or environmental sample from human skin metagenome	SW 3Y Left Palm Spring	2014-05-07	Homo sapiens
+SAMN08142476	SW3yLPSUM	Metagenome or environmental sample from human skin metagenome	SW 3Y Left Palm Summer	2014-08-14	Homo sapiens
+SAMN08142236	SW3yLPWINT	Metagenome or environmental sample from human skin metagenome	SW 3Y Left Palm Winter	2014-01-13	Homo sapiens
+SAMN08142597	SW3yRFAUT	Metagenome or environmental sample from human skin metagenome	SW 3Y Right Forearm Autumn	2014-12-09	Homo sapiens
+SAMN08142357	SW3yRFSPR	Metagenome or environmental sample from human skin metagenome	SW 3Y Right Forearm Spring	2014-05-07	Homo sapiens
+SAMN08142477	SW3yRFSUM	Metagenome or environmental sample from human skin metagenome	SW 3Y Right Forearm Summer	2014-08-14	Homo sapiens
+SAMN08142237	SW3yRFWINT	Metagenome or environmental sample from human skin metagenome	SW 3Y Right Forearm Winter	2014-01-13	Homo sapiens
+SAMN08142598	SW3yRPAUT	Metagenome or environmental sample from human skin metagenome	SW 3Y Right Palm Autumn	2014-12-09	Homo sapiens
+SAMN08142358	SW3yRPSPR	Metagenome or environmental sample from human skin metagenome	SW 3Y Right Palm Spring	2014-05-07	Homo sapiens
+SAMN08142478	SW3yRPSUM	Metagenome or environmental sample from human skin metagenome	SW 3Y Right Palm Summer	2014-08-14	Homo sapiens
+SAMN08142238	SW3yRPWINT	Metagenome or environmental sample from human skin metagenome	SW 3Y Right Palm Winter	2014-01-13	Homo sapiens
+SAMN08142599	SW3zFOHAUT	Metagenome or environmental sample from human skin metagenome	SW 3Z Forehead Autumn	2014-12-09	Homo sapiens
+SAMN08142359	SW3zFOHSPR	Metagenome or environmental sample from human skin metagenome	SW 3Z Forehead Spring	2014-05-07	Homo sapiens
+SAMN08142479	SW3zFOHSUM	Metagenome or environmental sample from human skin metagenome	SW 3Z Forehead Summer	2014-08-14	Homo sapiens
+SAMN08142239	SW3zFOHWINT	Metagenome or environmental sample from human skin metagenome	SW 3Z Forehead Winter	2014-01-13	Homo sapiens
+SAMN08142600	SW3zLFAUT	Metagenome or environmental sample from human skin metagenome	SW 3Z Left Forearm Autumn	2014-12-09	Homo sapiens
+SAMN08142360	SW3zLFSPR	Metagenome or environmental sample from human skin metagenome	SW 3Z Left Forearm Spring	2014-05-07	Homo sapiens
+SAMN08142480	SW3zLFSUM	Metagenome or environmental sample from human skin metagenome	SW 3Z Left Forearm Summer	2014-08-14	Homo sapiens
+SAMN08142240	SW3zLFWINT	Metagenome or environmental sample from human skin metagenome	SW 3Z Left Forearm Winter	2014-01-13	Homo sapiens
+SAMN08142601	SW3zLPAUT	Metagenome or environmental sample from human skin metagenome	SW 3Z Left Palm Autumn	2014-12-09	Homo sapiens
+SAMN08142361	SW3zLPSPR	Metagenome or environmental sample from human skin metagenome	SW 3Z Left Palm Spring	2014-05-07	Homo sapiens
+SAMN08142481	SW3zLPSUM	Metagenome or environmental sample from human skin metagenome	SW 3Z Left Palm Summer	2014-08-14	Homo sapiens
+SAMN08142241	SW3zLPWINT	Metagenome or environmental sample from human skin metagenome	SW 3Z Left Palm Winter	2014-01-13	Homo sapiens
+SAMN08142602	SW3zRFAUT	Metagenome or environmental sample from human skin metagenome	SW 3Z Right Forearm Autumn	2014-12-09	Homo sapiens
+SAMN08142362	SW3zRFSPR	Metagenome or environmental sample from human skin metagenome	SW 3Z Right Forearm Spring	2014-05-07	Homo sapiens
+SAMN08142482	SW3zRFSUM	Metagenome or environmental sample from human skin metagenome	SW 3Z Right Forearm Summer	2014-08-14	Homo sapiens
+SAMN08142242	SW3zRFWINT	Metagenome or environmental sample from human skin metagenome	SW 3Z Right Forearm Winter	2014-01-13	Homo sapiens
+SAMN08142603	SW3zRPAUT	Metagenome or environmental sample from human skin metagenome	SW 3Z Right Palm Autumn	2014-12-09	Homo sapiens
+SAMN08142363	SW3zRPSPR	Metagenome or environmental sample from human skin metagenome	SW 3Z Right Palm Spring	2014-05-07	Homo sapiens
+SAMN08142483	SW3zRPSUM	Metagenome or environmental sample from human skin metagenome	SW 3Z Right Palm Summer	2014-08-14	Homo sapiens
+SAMN08142243	SW3zRPWINT	Metagenome or environmental sample from human skin metagenome	SW 3Z Right Palm Winter	2014-01-13	Homo sapiens
+SAMN08142604	TK3xFOHAUT	Metagenome or environmental sample from human skin metagenome	TK 3X Forehead Autumn	2014-12-18	Homo sapiens
+SAMN08142364	TK3xFOHSPR	Metagenome or environmental sample from human skin metagenome	TK 3X Forehead Spring	2014-05-05	Homo sapiens
+SAMN08142484	TK3xFOHSUM	Metagenome or environmental sample from human skin metagenome	TK 3X Forehead Summer	2014-08-06	Homo sapiens
+SAMN08142244	TK3xFOHWINT	Metagenome or environmental sample from human skin metagenome	TK 3X Forehead Winter	2014-01-27	Homo sapiens
+SAMN08142605	TK3xLFAUT	Metagenome or environmental sample from human skin metagenome	TK 3X Left Forearm Autumn	2014-12-18	Homo sapiens
+SAMN08142365	TK3xLFSPR	Metagenome or environmental sample from human skin metagenome	TK 3X Left Forearm Spring	2014-05-05	Homo sapiens
+SAMN08142485	TK3xLFSUM	Metagenome or environmental sample from human skin metagenome	TK 3X Left Forearm Summer	2014-08-06	Homo sapiens
+SAMN08142245	TK3xLFWINT	Metagenome or environmental sample from human skin metagenome	TK 3X Left Forearm Winter	2014-01-27	Homo sapiens
+SAMN08142606	TK3xLPAUT	Metagenome or environmental sample from human skin metagenome	TK 3X Left Palm Autumn	2014-12-18	Homo sapiens
+SAMN08142366	TK3xLPSPR	Metagenome or environmental sample from human skin metagenome	TK 3X Left Palm Spring	2014-05-05	Homo sapiens
+SAMN08142486	TK3xLPSUM	Metagenome or environmental sample from human skin metagenome	TK 3X Left Palm Summer	2014-08-06	Homo sapiens
+SAMN08142246	TK3xLPWINT	Metagenome or environmental sample from human skin metagenome	TK 3X Left Palm Winter	2014-01-27	Homo sapiens
+SAMN08142607	TK3xRFAUT	Metagenome or environmental sample from human skin metagenome	TK 3X Right Forearm Autumn	2014-12-18	Homo sapiens
+SAMN08142367	TK3xRFSPR	Metagenome or environmental sample from human skin metagenome	TK 3X Right Forearm Spring	2014-05-05	Homo sapiens
+SAMN08142487	TK3xRFSUM	Metagenome or environmental sample from human skin metagenome	TK 3X Right Forearm Summer	2014-08-06	Homo sapiens
+SAMN08142247	TK3xRFWINT	Metagenome or environmental sample from human skin metagenome	TK 3X Right Forearm Winter	2014-01-27	Homo sapiens
+SAMN08142608	TK3xRPAUT	Metagenome or environmental sample from human skin metagenome	TK 3X Right Palm Autumn	2014-12-18	Homo sapiens
+SAMN08142368	TK3xRPSPR	Metagenome or environmental sample from human skin metagenome	TK 3X Right Palm Spring	2014-05-05	Homo sapiens
+SAMN08142488	TK3xRPSUM	Metagenome or environmental sample from human skin metagenome	TK 3X Right Palm Summer	2014-08-06	Homo sapiens
+SAMN08142248	TK3xRPWINT	Metagenome or environmental sample from human skin metagenome	TK 3X Right Palm Winter	2014-01-27	Homo sapiens
+SAMN08142609	TK3yFOHAUT	Metagenome or environmental sample from human skin metagenome	TK 3Y Forehead Autumn	2014-12-18	Homo sapiens
+SAMN08142369	TK3yFOHSPR	Metagenome or environmental sample from human skin metagenome	TK 3Y Forehead Spring	2014-05-05	Homo sapiens
+SAMN08142489	TK3yFOHSUM	Metagenome or environmental sample from human skin metagenome	TK 3Y Forehead Summer	2014-08-06	Homo sapiens
+SAMN08142249	TK3yFOHWINT	Metagenome or environmental sample from human skin metagenome	TK 3Y Forehead Winter	2014-01-27	Homo sapiens
+SAMN08142610	TK3yLFAUT	Metagenome or environmental sample from human skin metagenome	TK 3Y Left Forearm Autumn	2014-12-18	Homo sapiens
+SAMN08142370	TK3yLFSPR	Metagenome or environmental sample from human skin metagenome	TK 3Y Left Forearm Spring	2014-05-05	Homo sapiens
+SAMN08142490	TK3yLFSUM	Metagenome or environmental sample from human skin metagenome	TK 3Y Left Forearm Summer	2014-08-06	Homo sapiens
+SAMN08142250	TK3yLFWINT	Metagenome or environmental sample from human skin metagenome	TK 3Y Left Forearm Winter	2014-01-27	Homo sapiens
+SAMN08142611	TK3yLPAUT	Metagenome or environmental sample from human skin metagenome	TK 3Y Left Palm Autumn	2014-12-18	Homo sapiens
+SAMN08142371	TK3yLPSPR	Metagenome or environmental sample from human skin metagenome	TK 3Y Left Palm Spring	2014-05-05	Homo sapiens
+SAMN08142491	TK3yLPSUM	Metagenome or environmental sample from human skin metagenome	TK 3Y Left Palm Summer	2014-08-06	Homo sapiens
+SAMN08142251	TK3yLPWINT	Metagenome or environmental sample from human skin metagenome	TK 3Y Left Palm Winter	2014-01-27	Homo sapiens
+SAMN08142612	TK3yRFAUT	Metagenome or environmental sample from human skin metagenome	TK 3Y Right Forearm Autumn	2014-12-18	Homo sapiens
+SAMN08142372	TK3yRFSPR	Metagenome or environmental sample from human skin metagenome	TK 3Y Right Forearm Spring	2014-05-05	Homo sapiens
+SAMN08142492	TK3yRFSUM	Metagenome or environmental sample from human skin metagenome	TK 3Y Right Forearm Summer	2014-08-06	Homo sapiens
+SAMN08142252	TK3yRFWINT	Metagenome or environmental sample from human skin metagenome	TK 3Y Right Forearm Winter	2014-01-27	Homo sapiens
+SAMN08142613	TK3yRPAUT	Metagenome or environmental sample from human skin metagenome	TK 3Y Right Palm Autumn	2014-12-18	Homo sapiens
+SAMN08142373	TK3yRPSPR	Metagenome or environmental sample from human skin metagenome	TK 3Y Right Palm Spring	2014-05-05	Homo sapiens
+SAMN08142493	TK3yRPSUM	Metagenome or environmental sample from human skin metagenome	TK 3Y Right Palm Summer	2014-08-06	Homo sapiens
+SAMN08142253	TK3yRPWINT	Metagenome or environmental sample from human skin metagenome	TK 3Y Right Palm Winter	2014-01-27	Homo sapiens
+SAMN08142614	TK3zFOHAUT	Metagenome or environmental sample from human skin metagenome	TK 3Z Forehead Autumn	2014-12-18	Homo sapiens
+SAMN08142374	TK3zFOHSPR	Metagenome or environmental sample from human skin metagenome	TK 3Z Forehead Spring	2014-05-05	Homo sapiens
+SAMN08142494	TK3zFOHSUM	Metagenome or environmental sample from human skin metagenome	TK 3Z Forehead Summer	2014-08-06	Homo sapiens
+SAMN08142254	TK3zFOHWINT	Metagenome or environmental sample from human skin metagenome	TK 3Z Forehead Winter	2014-01-27	Homo sapiens
+SAMN08142615	TK3zLFAUT	Metagenome or environmental sample from human skin metagenome	TK 3Z Left Forearm Autumn	2014-12-18	Homo sapiens
+SAMN08142375	TK3zLFSPR	Metagenome or environmental sample from human skin metagenome	TK 3Z Left Forearm Spring	2014-05-05	Homo sapiens
+SAMN08142495	TK3zLFSUM	Metagenome or environmental sample from human skin metagenome	TK 3Z Left Forearm Summer	2014-08-06	Homo sapiens
+SAMN08142255	TK3zLFWINT	Metagenome or environmental sample from human skin metagenome	TK 3Z Left Forearm Winter	2014-01-27	Homo sapiens
+SAMN08142616	TK3zLPAUT	Metagenome or environmental sample from human skin metagenome	TK 3Z Left Palm Autumn	2014-12-18	Homo sapiens
+SAMN08142376	TK3zLPSPR	Metagenome or environmental sample from human skin metagenome	TK 3Z Left Palm Spring	2014-05-05	Homo sapiens
+SAMN08142496	TK3zLPSUM	Metagenome or environmental sample from human skin metagenome	TK 3Z Left Palm Summer	2014-08-06	Homo sapiens
+SAMN08142256	TK3zLPWINT	Metagenome or environmental sample from human skin metagenome	TK 3Z Left Palm Winter	2014-01-27	Homo sapiens
+SAMN08142617	TK3zRFAUT	Metagenome or environmental sample from human skin metagenome	TK 3Z Right Forearm Autumn	2014-12-18	Homo sapiens
+SAMN08142377	TK3zRFSPR	Metagenome or environmental sample from human skin metagenome	TK 3Z Right Forearm Spring	2014-05-05	Homo sapiens
+SAMN08142497	TK3zRFSUM	Metagenome or environmental sample from human skin metagenome	TK 3Z Right Forearm Summer	2014-08-06	Homo sapiens
+SAMN08142257	TK3zRFWINT	Metagenome or environmental sample from human skin metagenome	TK 3Z Right Forearm Winter	2014-01-27	Homo sapiens
+SAMN08142618	TK3zRPAUT	Metagenome or environmental sample from human skin metagenome	TK 3Z Right Palm Autumn	2014-12-18	Homo sapiens
+SAMN08142378	TK3zRPSPR	Metagenome or environmental sample from human skin metagenome	TK 3Z Right Palm Spring	2014-05-05	Homo sapiens
+SAMN08142498	TK3zRPSUM	Metagenome or environmental sample from human skin metagenome	TK 3Z Right Palm Summer	2014-08-06	Homo sapiens
+SAMN08142258	TK3zRPWINT	Metagenome or environmental sample from human skin metagenome	TK 3Z Right Palm Winter	2014-01-27	Homo sapiens
+SAMN08142259	TMB3wFOHWINT	Metagenome or environmental sample from human skin metagenome	TMB 3W Forehead Winter	2014-01-15	Homo sapiens
+SAMN08142260	TMB3wLFWINT	Metagenome or environmental sample from human skin metagenome	TMB 3W Left Forearm Winter	2014-01-15	Homo sapiens
+SAMN08142261	TMB3wLPWINT	Metagenome or environmental sample from human skin metagenome	TMB 3W Left Palm Winter	2014-01-15	Homo sapiens
+SAMN08142262	TMB3wRFWINT	Metagenome or environmental sample from human skin metagenome	TMB 3W Right Forearm Winter	2014-01-15	Homo sapiens
+SAMN08142263	TMB3wRPWINT	Metagenome or environmental sample from human skin metagenome	TMB 3W Right Palm Winter	2014-01-15	Homo sapiens
+SAMN08142264	TMB3xFOHWINT	Metagenome or environmental sample from human skin metagenome	TMB 3X Forehead Winter	2014-01-15	Homo sapiens
+SAMN08142265	TMB3xLFWINT	Metagenome or environmental sample from human skin metagenome	TMB 3X Left Forearm Winter	2014-01-15	Homo sapiens
+SAMN08142266	TMB3xLPWINT	Metagenome or environmental sample from human skin metagenome	TMB 3X Left Palm Winter	2014-01-15	Homo sapiens
+SAMN08142267	TMB3xRFWINT	Metagenome or environmental sample from human skin metagenome	TMB 3X Right Forearm Winter	2014-01-15	Homo sapiens
+SAMN08142268	TMB3xRPWINT	Metagenome or environmental sample from human skin metagenome	TMB 3X Right Palm Winter	2014-01-15	Homo sapiens
+SAMN08142269	TMB3yFOHWINT	Metagenome or environmental sample from human skin metagenome	TMB 3Y Forehead Winter	2014-01-15	Homo sapiens
+SAMN08142270	TMB3yLFWINT	Metagenome or environmental sample from human skin metagenome	TMB 3Y Left Forearm Winter	2014-01-15	Homo sapiens
+SAMN08142271	TMB3yLPWINT	Metagenome or environmental sample from human skin metagenome	TMB 3Y Left Palm Winter	2014-01-15	Homo sapiens
+SAMN08142272	TMB3yRFWINT	Metagenome or environmental sample from human skin metagenome	TMB 3Y Right Forearm Winter	2014-01-15	Homo sapiens
+SAMN08142273	TMB3yRPWINT	Metagenome or environmental sample from human skin metagenome	TMB 3Y Right Palm Winter	2014-01-15	Homo sapiens
+SAMN08142619	TMb3wFOHAUT	Metagenome or environmental sample from human skin metagenome	TMB 3W Forehead Autumn	2014-12-06	Homo sapiens
+SAMN08142379	TMb3wFOHSPR	Metagenome or environmental sample from human skin metagenome	TMB 3W Forehead Spring	2014-04-17	Homo sapiens
+SAMN08142499	TMb3wFOHSUM	Metagenome or environmental sample from human skin metagenome	TMB 3W Forehead Summer	2014-08-16	Homo sapiens
+SAMN08142620	TMb3wLFAUT	Metagenome or environmental sample from human skin metagenome	TMB 3W Left Forearm Autumn	2014-12-06	Homo sapiens
+SAMN08142380	TMb3wLFSPR	Metagenome or environmental sample from human skin metagenome	TMB 3W Left Forearm Spring	2014-04-17	Homo sapiens
+SAMN08142500	TMb3wLFSUM	Metagenome or environmental sample from human skin metagenome	TMB 3W Left Forearm Summer	2014-08-16	Homo sapiens
+SAMN08142621	TMb3wLPAUT	Metagenome or environmental sample from human skin metagenome	TMB 3W Left Palm Autumn	2014-12-06	Homo sapiens
+SAMN08142381	TMb3wLPSPR	Metagenome or environmental sample from human skin metagenome	TMB 3W Left Palm Spring	2014-04-17	Homo sapiens
+SAMN08142501	TMb3wLPSUM	Metagenome or environmental sample from human skin metagenome	TMB 3W Left Palm Summer	2014-08-16	Homo sapiens
+SAMN08142622	TMb3wRFAUT	Metagenome or environmental sample from human skin metagenome	TMB 3W Right Forearm Autumn	2014-12-06	Homo sapiens
+SAMN08142382	TMb3wRFSPR	Metagenome or environmental sample from human skin metagenome	TMB 3W Right Forearm Spring	2014-04-17	Homo sapiens
+SAMN08142502	TMb3wRFSUM	Metagenome or environmental sample from human skin metagenome	TMB 3W Right Forearm Summer	2014-08-16	Homo sapiens
+SAMN08142623	TMb3wRPAUT	Metagenome or environmental sample from human skin metagenome	TMB 3W Right Palm Autumn	2014-12-06	Homo sapiens
+SAMN08142383	TMb3wRPSPR	Metagenome or environmental sample from human skin metagenome	TMB 3W Right Palm Spring	2014-04-17	Homo sapiens
+SAMN08142503	TMb3wRPSUM	Metagenome or environmental sample from human skin metagenome	TMB 3W Right Palm Summer	2014-08-16	Homo sapiens
+SAMN08142624	TMb3xFOHAUT	Metagenome or environmental sample from human skin metagenome	TMB 3X Forehead Autumn	2014-12-06	Homo sapiens
+SAMN08142384	TMb3xFOHSPR	Metagenome or environmental sample from human skin metagenome	TMB 3X Forehead Spring	2014-04-17	Homo sapiens
+SAMN08142504	TMb3xFOHSUM	Metagenome or environmental sample from human skin metagenome	TMB 3X Forehead Summer	2014-08-16	Homo sapiens
+SAMN08142625	TMb3xLFAUT	Metagenome or environmental sample from human skin metagenome	TMB 3X Left Forearm Autumn	2014-12-06	Homo sapiens
+SAMN08142385	TMb3xLFSPR	Metagenome or environmental sample from human skin metagenome	TMB 3X Left Forearm Spring	2014-04-17	Homo sapiens
+SAMN08142505	TMb3xLFSUM	Metagenome or environmental sample from human skin metagenome	TMB 3X Left Forearm Summer	2014-08-16	Homo sapiens
+SAMN08142626	TMb3xLPAUT	Metagenome or environmental sample from human skin metagenome	TMB 3X Left Palm Autumn	2014-12-06	Homo sapiens
+SAMN08142386	TMb3xLPSPR	Metagenome or environmental sample from human skin metagenome	TMB 3X Left Palm Spring	2014-04-17	Homo sapiens
+SAMN08142506	TMb3xLPSUM	Metagenome or environmental sample from human skin metagenome	TMB 3X Left Palm Summer	2014-08-16	Homo sapiens
+SAMN08142627	TMb3xRFAUT	Metagenome or environmental sample from human skin metagenome	TMB 3X Right Forearm Autumn	2014-12-06	Homo sapiens
+SAMN08142387	TMb3xRFSPR	Metagenome or environmental sample from human skin metagenome	TMB 3X Right Forearm Spring	2014-04-17	Homo sapiens
+SAMN08142507	TMb3xRFSUM	Metagenome or environmental sample from human skin metagenome	TMB 3X Right Forearm Summer	2014-08-16	Homo sapiens
+SAMN08142628	TMb3xRPAUT	Metagenome or environmental sample from human skin metagenome	TMB 3X Right Palm Autumn	2014-12-06	Homo sapiens
+SAMN08142388	TMb3xRPSPR	Metagenome or environmental sample from human skin metagenome	TMB 3X Right Palm Spring	2014-04-17	Homo sapiens
+SAMN08142508	TMb3xRPSUM	Metagenome or environmental sample from human skin metagenome	TMB 3X Right Palm Summer	2014-08-16	Homo sapiens
+SAMN08142629	TMb3yFOHAUT	Metagenome or environmental sample from human skin metagenome	TMB 3Y Forehead Autumn	2014-12-06	Homo sapiens
+SAMN08142389	TMb3yFOHSPR	Metagenome or environmental sample from human skin metagenome	TMB 3Y Forehead Spring	2014-04-17	Homo sapiens
+SAMN08142509	TMb3yFOHSUM	Metagenome or environmental sample from human skin metagenome	TMB 3Y Forehead Summer	2014-08-16	Homo sapiens
+SAMN08142630	TMb3yLFAUT	Metagenome or environmental sample from human skin metagenome	TMB 3Y Left Forearm Autumn	2014-12-06	Homo sapiens
+SAMN08142390	TMb3yLFSPR	Metagenome or environmental sample from human skin metagenome	TMB 3Y Left Forearm Spring	2014-04-17	Homo sapiens
+SAMN08142510	TMb3yLFSUM	Metagenome or environmental sample from human skin metagenome	TMB 3Y Left Forearm Summer	2014-08-16	Homo sapiens
+SAMN08142631	TMb3yLPAUT	Metagenome or environmental sample from human skin metagenome	TMB 3Y Left Palm Autumn	2014-12-06	Homo sapiens
+SAMN08142391	TMb3yLPSPR	Metagenome or environmental sample from human skin metagenome	TMB 3Y Left Palm Spring	2014-04-17	Homo sapiens
+SAMN08142511	TMb3yLPSUM	Metagenome or environmental sample from human skin metagenome	TMB 3Y Left Palm Summer	2014-08-16	Homo sapiens
+SAMN08142632	TMb3yRFAUT	Metagenome or environmental sample from human skin metagenome	TMB 3Y Right Forearm Autumn	2014-12-06	Homo sapiens
+SAMN08142392	TMb3yRFSPR	Metagenome or environmental sample from human skin metagenome	TMB 3Y Right Forearm Spring	2014-04-17	Homo sapiens
+SAMN08142512	TMb3yRFSUM	Metagenome or environmental sample from human skin metagenome	TMB 3Y Right Forearm Summer	2014-08-16	Homo sapiens
+SAMN08142633	TMb3yRPAUT	Metagenome or environmental sample from human skin metagenome	TMB 3Y Right Palm Autumn	2014-12-06	Homo sapiens
+SAMN08142393	TMb3yRPSPR	Metagenome or environmental sample from human skin metagenome	TMB 3Y Right Palm Spring	2014-04-17	Homo sapiens
+SAMN08142513	TMb3yRPSUM	Metagenome or environmental sample from human skin metagenome	TMB 3Y Right Palm Summer	2014-08-16	Homo sapiens
+SAMN08142634	WKS3uFOHAUT	Metagenome or environmental sample from human skin metagenome	WKS 3U Forehead Autumn	2014-11-29	Homo sapiens
+SAMN08142394	WKS3uFOHSPR	Metagenome or environmental sample from human skin metagenome	WKS 3U Forehead Spring	2014-04-19	Homo sapiens
+SAMN08142514	WKS3uFOHSUM	Metagenome or environmental sample from human skin metagenome	WKS 3U Forehead Summer	2014-08-23	Homo sapiens
+SAMN08142274	WKS3uFOHWINT	Metagenome or environmental sample from human skin metagenome	WKS 3U Forehead Winter	2014-01-19	Homo sapiens
+SAMN08142635	WKS3uLFAUT	Metagenome or environmental sample from human skin metagenome	WKS 3U Left Forearm Autumn	2014-11-29	Homo sapiens
+SAMN08142395	WKS3uLFSPR	Metagenome or environmental sample from human skin metagenome	WKS 3U Left Forearm Spring	2014-04-19	Homo sapiens
+SAMN08142515	WKS3uLFSUM	Metagenome or environmental sample from human skin metagenome	WKS 3U Left Forearm Summer	2014-08-23	Homo sapiens
+SAMN08142275	WKS3uLFWINT	Metagenome or environmental sample from human skin metagenome	WKS 3U Left Forearm Winter	2014-01-19	Homo sapiens
+SAMN08142636	WKS3uLPAUT	Metagenome or environmental sample from human skin metagenome	WKS 3U Left Palm Autumn	2014-11-29	Homo sapiens
+SAMN08142396	WKS3uLPSPR	Metagenome or environmental sample from human skin metagenome	WKS 3U Left Palm Spring	2014-04-19	Homo sapiens
+SAMN08142516	WKS3uLPSUM	Metagenome or environmental sample from human skin metagenome	WKS 3U Left Palm Summer	2014-08-23	Homo sapiens
+SAMN08142276	WKS3uLPWINT	Metagenome or environmental sample from human skin metagenome	WKS 3U Left Palm Winter	2014-01-19	Homo sapiens
+SAMN08142637	WKS3uRFAUT	Metagenome or environmental sample from human skin metagenome	WKS 3U Right Forearm Autumn	2014-11-29	Homo sapiens
+SAMN08142397	WKS3uRFSPR	Metagenome or environmental sample from human skin metagenome	WKS 3U Right Forearm Spring	2014-04-19	Homo sapiens
+SAMN08142517	WKS3uRFSUM	Metagenome or environmental sample from human skin metagenome	WKS 3U Right Forearm Summer	2014-08-23	Homo sapiens
+SAMN08142277	WKS3uRFWINT	Metagenome or environmental sample from human skin metagenome	WKS 3U Right Forearm Winter	2014-01-19	Homo sapiens
+SAMN08142638	WKS3uRPAUT	Metagenome or environmental sample from human skin metagenome	WKS 3U Right Palm Autumn	2014-11-29	Homo sapiens
+SAMN08142398	WKS3uRPSPR	Metagenome or environmental sample from human skin metagenome	WKS 3U Right Palm Spring	2014-04-19	Homo sapiens
+SAMN08142518	WKS3uRPSUM	Metagenome or environmental sample from human skin metagenome	WKS 3U Right Palm Summer	2014-08-23	Homo sapiens
+SAMN08142278	WKS3uRPWINT	Metagenome or environmental sample from human skin metagenome	WKS 3U Right Palm Winter	2014-01-19	Homo sapiens
+SAMN08142639	WKS3vFOHAUT	Metagenome or environmental sample from human skin metagenome	WKS 3V Forehead Autumn	2014-11-29	Homo sapiens
+SAMN08142399	WKS3vFOHSPR	Metagenome or environmental sample from human skin metagenome	WKS 3V Forehead Spring	2014-04-19	Homo sapiens
+SAMN08142519	WKS3vFOHSUM	Metagenome or environmental sample from human skin metagenome	WKS 3V Forehead Summer	2014-08-23	Homo sapiens
+SAMN08142279	WKS3vFOHWINT	Metagenome or environmental sample from human skin metagenome	WKS 3V Forehead Winter	2014-01-19	Homo sapiens
+SAMN08142640	WKS3vLFAUT	Metagenome or environmental sample from human skin metagenome	WKS 3V Left Forearm Autumn	2014-11-29	Homo sapiens
+SAMN08142400	WKS3vLFSPR	Metagenome or environmental sample from human skin metagenome	WKS 3V Left Forearm Spring	2014-04-19	Homo sapiens
+SAMN08142520	WKS3vLFSUM	Metagenome or environmental sample from human skin metagenome	WKS 3V Left Forearm Summer	2014-08-23	Homo sapiens
+SAMN08142280	WKS3vLFWINT	Metagenome or environmental sample from human skin metagenome	WKS 3V Left Forearm Winter	2014-01-19	Homo sapiens
+SAMN08142641	WKS3vLPAUT	Metagenome or environmental sample from human skin metagenome	WKS 3V Left Palm Autumn	2014-11-29	Homo sapiens
+SAMN08142401	WKS3vLPSPR	Metagenome or environmental sample from human skin metagenome	WKS 3V Left Palm Spring	2014-04-19	Homo sapiens
+SAMN08142521	WKS3vLPSUM	Metagenome or environmental sample from human skin metagenome	WKS 3V Left Palm Summer	2014-08-23	Homo sapiens
+SAMN08142281	WKS3vLPWINT	Metagenome or environmental sample from human skin metagenome	WKS 3V Left Palm Winter	2014-01-19	Homo sapiens
+SAMN08142642	WKS3vRFAUT	Metagenome or environmental sample from human skin metagenome	WKS 3V Right Forearm Autumn	2014-11-29	Homo sapiens
+SAMN08142402	WKS3vRFSPR	Metagenome or environmental sample from human skin metagenome	WKS 3V Right Forearm Spring	2014-04-19	Homo sapiens
+SAMN08142522	WKS3vRFSUM	Metagenome or environmental sample from human skin metagenome	WKS 3V Right Forearm Summer	2014-08-23	Homo sapiens
+SAMN08142282	WKS3vRFWINT	Metagenome or environmental sample from human skin metagenome	WKS 3V Right Forearm Winter	2014-01-19	Homo sapiens
+SAMN08142643	WKS3vRPAUT	Metagenome or environmental sample from human skin metagenome	WKS 3V Right Palm Autumn	2014-11-29	Homo sapiens
+SAMN08142403	WKS3vRPSPR	Metagenome or environmental sample from human skin metagenome	WKS 3V Right Palm Spring	2014-04-19	Homo sapiens
+SAMN08142523	WKS3vRPSUM	Metagenome or environmental sample from human skin metagenome	WKS 3V Right Palm Summer	2014-08-23	Homo sapiens
+SAMN08142283	WKS3vRPWINT	Metagenome or environmental sample from human skin metagenome	WKS 3V Right Palm Winter	2014-01-19	Homo sapiens
+SAMN08142644	WKS3wFOHAUT	Metagenome or environmental sample from human skin metagenome	WKS 3W Forehead Autumn	2014-11-29	Homo sapiens
+SAMN08142404	WKS3wFOHSPR	Metagenome or environmental sample from human skin metagenome	WKS 3W Forehead Spring	2014-04-19	Homo sapiens
+SAMN08142524	WKS3wFOHSUM	Metagenome or environmental sample from human skin metagenome	WKS 3W Forehead Summer	2014-08-23	Homo sapiens
+SAMN08142284	WKS3wFOHWINT	Metagenome or environmental sample from human skin metagenome	WKS 3W Forehead Winter	2014-01-19	Homo sapiens
+SAMN08142645	WKS3wLFAUT	Metagenome or environmental sample from human skin metagenome	WKS 3W Left Forearm Autumn	2014-11-29	Homo sapiens
+SAMN08142405	WKS3wLFSPR	Metagenome or environmental sample from human skin metagenome	WKS 3W Left Forearm Spring	2014-04-19	Homo sapiens
+SAMN08142525	WKS3wLFSUM	Metagenome or environmental sample from human skin metagenome	WKS 3W Left Forearm Summer	2014-08-23	Homo sapiens
+SAMN08142285	WKS3wLFWINT	Metagenome or environmental sample from human skin metagenome	WKS 3W Left Forearm Winter	2014-01-19	Homo sapiens
+SAMN08142646	WKS3wLPAUT	Metagenome or environmental sample from human skin metagenome	WKS 3W Left Palm Autumn	2014-11-29	Homo sapiens
+SAMN08142406	WKS3wLPSPR	Metagenome or environmental sample from human skin metagenome	WKS 3W Left Palm Spring	2014-04-19	Homo sapiens
+SAMN08142526	WKS3wLPSUM	Metagenome or environmental sample from human skin metagenome	WKS 3W Left Palm Summer	2014-08-23	Homo sapiens
+SAMN08142286	WKS3wLPWINT	Metagenome or environmental sample from human skin metagenome	WKS 3W Left Palm Winter	2014-01-19	Homo sapiens
+SAMN08142647	WKS3wRFAUT	Metagenome or environmental sample from human skin metagenome	WKS 3W Right Forearm Autumn	2014-11-29	Homo sapiens
+SAMN08142407	WKS3wRFSPR	Metagenome or environmental sample from human skin metagenome	WKS 3W Right Forearm Spring	2014-04-19	Homo sapiens
+SAMN08142527	WKS3wRFSUM	Metagenome or environmental sample from human skin metagenome	WKS 3W Right Forearm Summer	2014-08-23	Homo sapiens
+SAMN08142287	WKS3wRFWINT	Metagenome or environmental sample from human skin metagenome	WKS 3W Right Forearm Winter	2014-01-19	Homo sapiens
+SAMN08142648	WKS3wRPAUT	Metagenome or environmental sample from human skin metagenome	WKS 3W Right Palm Autumn	2014-11-29	Homo sapiens
+SAMN08142408	WKS3wRPSPR	Metagenome or environmental sample from human skin metagenome	WKS 3W Right Palm Spring	2014-04-19	Homo sapiens
+SAMN08142528	WKS3wRPSUM	Metagenome or environmental sample from human skin metagenome	WKS 3W Right Palm Summer	2014-08-23	Homo sapiens
+SAMN08142288	WKS3wRPWINT	Metagenome or environmental sample from human skin metagenome	WKS 3W Right Palm Winter	2014-01-19	Homo sapiens
+SAMN08142649	WKS3xFOHAUT	Metagenome or environmental sample from human skin metagenome	WKS 3X Forehead Autumn	2014-11-29	Homo sapiens
+SAMN08142409	WKS3xFOHSPR	Metagenome or environmental sample from human skin metagenome	WKS 3X Forehead Spring	2014-04-19	Homo sapiens
+SAMN08142529	WKS3xFOHSUM	Metagenome or environmental sample from human skin metagenome	WKS 3X Forehead Summer	2014-08-23	Homo sapiens
+SAMN08142289	WKS3xFOHWINT	Metagenome or environmental sample from human skin metagenome	WKS 3X Forehead Winter	2014-01-19	Homo sapiens
+SAMN08142650	WKS3xLFAUT	Metagenome or environmental sample from human skin metagenome	WKS 3X Left Forearm Autumn	2014-11-29	Homo sapiens
+SAMN08142410	WKS3xLFSPR	Metagenome or environmental sample from human skin metagenome	WKS 3X Left Forearm Spring	2014-04-19	Homo sapiens
+SAMN08142530	WKS3xLFSUM	Metagenome or environmental sample from human skin metagenome	WKS 3X Left Forearm Summer	2014-08-23	Homo sapiens
+SAMN08142290	WKS3xLFWINT	Metagenome or environmental sample from human skin metagenome	WKS 3X Left Forearm Winter	2014-01-19	Homo sapiens
+SAMN08142651	WKS3xLPAUT	Metagenome or environmental sample from human skin metagenome	WKS 3X Left Palm Autumn	2014-11-29	Homo sapiens
+SAMN08142411	WKS3xLPSPR	Metagenome or environmental sample from human skin metagenome	WKS 3X Left Palm Spring	2014-04-19	Homo sapiens
+SAMN08142531	WKS3xLPSUM	Metagenome or environmental sample from human skin metagenome	WKS 3X Left Palm Summer	2014-08-23	Homo sapiens
+SAMN08142291	WKS3xLPWINT	Metagenome or environmental sample from human skin metagenome	WKS 3X Left Palm Winter	2014-01-19	Homo sapiens
+SAMN08142652	WKS3xRFAUT	Metagenome or environmental sample from human skin metagenome	WKS 3X Right Forearm Autumn	2014-11-29	Homo sapiens
+SAMN08142412	WKS3xRFSPR	Metagenome or environmental sample from human skin metagenome	WKS 3X Right Forearm Spring	2014-04-19	Homo sapiens
+SAMN08142532	WKS3xRFSUM	Metagenome or environmental sample from human skin metagenome	WKS 3X Right Forearm Summer	2014-08-23	Homo sapiens
+SAMN08142292	WKS3xRFWINT	Metagenome or environmental sample from human skin metagenome	WKS 3X Right Forearm Winter	2014-01-19	Homo sapiens
+SAMN08142653	WKS3xRPAUT	Metagenome or environmental sample from human skin metagenome	WKS 3X Right Palm Autumn	2014-11-29	Homo sapiens
+SAMN08142413	WKS3xRPSPR	Metagenome or environmental sample from human skin metagenome	WKS 3X Right Palm Spring	2014-04-19	Homo sapiens
+SAMN08142533	WKS3xRPSUM	Metagenome or environmental sample from human skin metagenome	WKS 3X Right Palm Summer	2014-08-23	Homo sapiens
+SAMN08142293	WKS3xRPWINT	Metagenome or environmental sample from human skin metagenome	WKS 3X Right Palm Winter	2014-01-19	Homo sapiens
+SAMN08142654	WKS3yFOHAUT	Metagenome or environmental sample from human skin metagenome	WKS 3Y Forehead Autumn	2014-11-29	Homo sapiens
+SAMN08142414	WKS3yFOHSPR	Metagenome or environmental sample from human skin metagenome	WKS 3Y Forehead Spring	2014-04-19	Homo sapiens
+SAMN08142534	WKS3yFOHSUM	Metagenome or environmental sample from human skin metagenome	WKS 3Y Forehead Summer	2014-08-23	Homo sapiens
+SAMN08142294	WKS3yFOHWINT	Metagenome or environmental sample from human skin metagenome	WKS 3Y Forehead Winter	2014-01-19	Homo sapiens
+SAMN08142655	WKS3yLFAUT	Metagenome or environmental sample from human skin metagenome	WKS 3Y Left Forearm Autumn	2014-11-29	Homo sapiens
+SAMN08142415	WKS3yLFSPR	Metagenome or environmental sample from human skin metagenome	WKS 3Y Left Forearm Spring	2014-04-19	Homo sapiens
+SAMN08142535	WKS3yLFSUM	Metagenome or environmental sample from human skin metagenome	WKS 3Y Left Forearm Summer	2014-08-23	Homo sapiens
+SAMN08142295	WKS3yLFWINT	Metagenome or environmental sample from human skin metagenome	WKS 3Y Left Forearm Winter	2014-01-19	Homo sapiens
+SAMN08142656	WKS3yLPAUT	Metagenome or environmental sample from human skin metagenome	WKS 3Y Left Palm Autumn	2014-11-29	Homo sapiens
+SAMN08142416	WKS3yLPSPR	Metagenome or environmental sample from human skin metagenome	WKS 3Y Left Palm Spring	2014-04-19	Homo sapiens
+SAMN08142536	WKS3yLPSUM	Metagenome or environmental sample from human skin metagenome	WKS 3Y Left Palm Summer	2014-08-23	Homo sapiens
+SAMN08142296	WKS3yLPWINT	Metagenome or environmental sample from human skin metagenome	WKS 3Y Left Palm Winter	2014-01-19	Homo sapiens
+SAMN08142657	WKS3yRFAUT	Metagenome or environmental sample from human skin metagenome	WKS 3Y Right Forearm Autumn	2014-11-29	Homo sapiens
+SAMN08142417	WKS3yRFSPR	Metagenome or environmental sample from human skin metagenome	WKS 3Y Right Forearm Spring	2014-04-19	Homo sapiens
+SAMN08142537	WKS3yRFSUM	Metagenome or environmental sample from human skin metagenome	WKS 3Y Right Forearm Summer	2014-08-23	Homo sapiens
+SAMN08142297	WKS3yRFWINT	Metagenome or environmental sample from human skin metagenome	WKS 3Y Right Forearm Winter	2014-01-19	Homo sapiens
+SAMN08142658	WKS3yRPAUT	Metagenome or environmental sample from human skin metagenome	WKS 3Y Right Palm Autumn	2014-11-29	Homo sapiens
+SAMN08142418	WKS3yRPSPR	Metagenome or environmental sample from human skin metagenome	WKS 3Y Right Palm Spring	2014-04-19	Homo sapiens
+SAMN08142538	WKS3yRPSUM	Metagenome or environmental sample from human skin metagenome	WKS 3Y Right Palm Summer	2014-08-23	Homo sapiens
+SAMN08142298	WKS3yRPWINT	Metagenome or environmental sample from human skin metagenome	WKS 3Y Right Palm Winter	2014-01-19	Homo sapiens
+SAMN08142659	negative control	Metagenome or environmental sample from human skin metagenome	cotton swab	2014	not applicable

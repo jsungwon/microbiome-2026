@@ -33,7 +33,7 @@
 | `assay` | 102/102 | 16S | 마커 종류 |
 | `region` | 102/102 | V3-V4 | 증폭 영역. **다르면 ASV 수준 병합 불가** |
 | `group` | 102/102 | O / Y | 비교군 라벨 |
-| `group_type` | 102/102 | age | group이 무슨 축인지 (age / sensitivity / acne / metformin_time) |
+| `group_type` | 102/102 | age | group이 무슨 축인지 (age / sensitivity / acne / metformin_time / atopic_dermatitis / psoriasis / scalp_disease / rosacea_sampletype / ad_acne) |
 | `age` | 102/102 | 21 ~ 67 | 나이 (세) |
 | `age_group` | 102/102 | Old(49-67) / Young(21-36) | 연령군 코드 |
 | `sex` | 102/102 | female / male | 성별 |

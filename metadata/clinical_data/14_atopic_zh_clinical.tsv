@@ -1,0 +1,653 @@
+sample_accession	sample_alias	sample_title	condition	ad severity overall	scorad	skin condition	location	visit new	sampling season	gender	dupilumab	name plot	environmental package	discard
+SAMEA9576830	A01	negative control	control	HC	0								Skin mycobiome	
+SAMEA9576831	A02	50000035	AD	severe AD	76.1	Lesion	glabella	t1	spring	m	yes		Skin mycobiome	
+SAMEA9576832	A03	50000035	AD	severe AD	76.1	Lesion	antecubital	t1	spring	m	yes		Skin mycobiome	
+SAMEA9576833	A04	50000035	AD	severe AD	76.1	Unaffected	vertex	t1	spring	m	yes		Skin mycobiome	
+SAMEA9576834	A05	50000035	AD	severe AD	76.1	Lesion	dorsal neck	t1	spring	m	yes		Skin mycobiome	
+SAMEA9576835	A06	negative control	control	HC									Skin mycobiome	
+SAMEA9576836	A07	negative control	control	HC									Skin mycobiome	
+SAMEA9576837	A08	50000038	AD	severe AD	73	Lesion	antecubital	t3	spring	m	no		Skin mycobiome	
+SAMEA9576838	A09	50000051	AD	mild to moderate AD	32.2	Lesion	antecubital	t2	autumn	m	no		Skin mycobiome	
+SAMEA9576839	A10	50000052	AD	severe AD	79.1	Unaffected	vertex	t3	summer	m	no		Skin mycobiome	
+SAMEA9576866	A107	50001007	HC	HC	0	Healthy	glabella	t1	spring	f			Skin mycobiome	
+SAMEA9576867	A108	50001007	HC	HC	0	Healthy	antecubital	t1	spring	f			Skin mycobiome	
+SAMEA9576868	A109	50001007	HC	HC	0	Healthy	vertex	t1	spring	f			Skin mycobiome	
+SAMEA9576840	A11	50000053	AD	severe AD	71.9	Lesion	dorsal neck	t1	summer	f	yes		Skin mycobiome	
+SAMEA9576869	A110	50001007	HC	HC	0	Healthy	dorsal neck	t1	spring	f			Skin mycobiome	
+SAMEA9576870	A111	50001008	HC	HC	0	Healthy	glabella	t3	spring	f			Skin mycobiome	
+SAMEA9576871	A112	50001008	HC	HC	0	Healthy	antecubital	t3	spring	f			Skin mycobiome	
+SAMEA9576872	A113	50001008	HC	HC	0	Healthy	vertex	t3	spring	f			Skin mycobiome	
+SAMEA9576873	A114	50001008	HC	HC	0	Healthy	dorsal neck	t3	spring	f			Skin mycobiome	
+SAMEA9576841	A12	50000054	AD	severe AD	31.6	Lesion	antecubital	t2	summer	m	yes		Skin mycobiome	
+SAMEA9576842	A13	50000066	AD	mild to moderate AD	35.1	Unaffected	vertex	t2	autumn	m	no		Skin mycobiome	
+SAMEA9576874	A135	50001003	HC	HC	0	Healthy	glabella	t1	summer	f			Skin mycobiome	
+SAMEA9576875	A136	50001003	HC	HC	0	Healthy	antecubital	t1	summer	f			Skin mycobiome	
+SAMEA9576876	A137	50001003	HC	HC	0	Healthy	vertex	t1	summer	f			Skin mycobiome	
+SAMEA9576877	A138	50001003	HC	HC	0	Healthy	dorsal neck	t1	summer	f			Skin mycobiome	
+SAMEA9576843	A14	50000066	AD	mild to moderate AD	35.1	Lesion	dorsal neck	t2	autumn	m	no		Skin mycobiome	
+SAMEA9576844	A15	50000066	AD	mild to moderate AD	42.4	Lesion	glabella	t3	autumn	m	no		Skin mycobiome	
+SAMEA9576878	A151	50001007	HC	HC	0	Healthy	glabella	t3	summer	f			Skin mycobiome	
+SAMEA9576879	A152	50001007	HC	HC	0	Healthy	antecubital	t3	summer	f			Skin mycobiome	
+SAMEA9576880	A153	50001007	HC	HC	0	Healthy	vertex	t3	summer	f			Skin mycobiome	
+SAMEA9576881	A154	50001007	HC	HC	0	Healthy	dorsal neck	t3	summer	f			Skin mycobiome	
+SAMEA9576845	A16	50000066	AD	mild to moderate AD	42.4	Lesion	antecubital	t3	autumn	m	no		Skin mycobiome	
+SAMEA9576882	A167	50001011	HC	HC	0	Healthy	glabella	t1	summer	f			Skin mycobiome	
+SAMEA9576883	A168	50001011	HC	HC	0	Healthy	antecubital	t1	summer	f			Skin mycobiome	
+SAMEA9576884	A169	50001011	HC	HC	0	Healthy	vertex	t1	summer	f			Skin mycobiome	
+SAMEA9576846	A17	50000066	AD	mild to moderate AD	42.4	Unaffected	vertex	t3	autumn	m	no		Skin mycobiome	
+SAMEA9576885	A170	50001011	HC	HC	0	Healthy	dorsal neck	t1	summer	f			Skin mycobiome	
+SAMEA9576886	A171	50000072	AD	mild to moderate AD	38.3	Unaffected	glabella	t1	winter	f	no		Skin mycobiome	
+SAMEA9576887	A172	50000072	AD	mild to moderate AD	38.3	Lesion	antecubital	t1	winter	f	no		Skin mycobiome	
+SAMEA9576888	A173	50000072	AD	mild to moderate AD	38.3	Lesion	vertex	t1	winter	f	no		Skin mycobiome	
+SAMEA9576889	A174	50000072	AD	mild to moderate AD	38.3	Lesion	dorsal neck	t1	winter	f	no		Skin mycobiome	
+SAMEA9576890	A175	50000072	AD	mild to moderate AD	24.2	Unaffected	glabella	t2	winter	f	no		Skin mycobiome	
+SAMEA9576891	A176	50000072	AD	mild to moderate AD	24.2	Unaffected	antecubital	t2	winter	f	no		Skin mycobiome	
+SAMEA9576892	A177	50000072	AD	mild to moderate AD	24.2	Unaffected	vertex	t2	winter	f	no		Skin mycobiome	
+SAMEA9576893	A178	50000072	AD	mild to moderate AD	24.2	Lesion	dorsal neck	t2	winter	f	no		Skin mycobiome	
+SAMEA9576894	A179	50000072	AD	mild to moderate AD	26.9	Unaffected	glabella	t3	winter	f	no		Skin mycobiome	
+SAMEA9576847	A18	50000068	AD	severe AD	52	Unaffected	vertex	t1	winter	m	no		Skin mycobiome	
+SAMEA9576895	A180	50000072	AD	mild to moderate AD	26.9	Lesion	antecubital	t3	winter	f	no		Skin mycobiome	
+SAMEA9576896	A181	50000072	AD	mild to moderate AD	26.9	Unaffected	vertex	t3	winter	f	no		Skin mycobiome	
+SAMEA9576897	A182	50000072	AD	mild to moderate AD	26.9	Lesion	dorsal neck	t3	winter	f	no		Skin mycobiome	
+SAMEA9576898	A183	50000077	AD	mild to moderate AD	45.2	Lesion	glabella	t1	spring	m	yes		Skin mycobiome	
+SAMEA9576899	A184	50000077	AD	mild to moderate AD	45.2	Lesion	antecubital	t1	spring	m	yes		Skin mycobiome	
+SAMEA9576900	A185	50000077	AD	mild to moderate AD	45.2	Unaffected	vertex	t1	spring	m	yes		Skin mycobiome	
+SAMEA9576901	A186	50000077	AD	mild to moderate AD	45.2	Lesion	dorsal neck	t1	spring	m	yes		Skin mycobiome	
+SAMEA9576902	A187	50000077	AD	mild to moderate AD	27.4	Unaffected	glabella	t2	spring	m	yes		Skin mycobiome	
+SAMEA9576903	A188	50000077	AD	mild to moderate AD	27.4	Lesion	antecubital	t2	spring	m	yes		Skin mycobiome	
+SAMEA9576904	A189	50000077	AD	mild to moderate AD	27.4	Unaffected	vertex	t2	spring	m	yes		Skin mycobiome	
+SAMEA9576848	A19	50000068	AD	severe AD	52	Lesion	dorsal neck	t1	winter	m	no		Skin mycobiome	
+SAMEA9576905	A190	50000077	AD	mild to moderate AD	27.4	Lesion	dorsal neck	t2	spring	m	yes		Skin mycobiome	
+SAMEA9576906	A191	50000077	AD	mild to moderate AD	21.1	Unaffected	glabella	t3	spring	m	yes		Skin mycobiome	
+SAMEA9576907	A192	50000077	AD	mild to moderate AD	21.1	Unaffected	antecubital	t3	spring	m	yes		Skin mycobiome	
+SAMEA9576908	A193	50000077	AD	mild to moderate AD	21.1	Unaffected	vertex	t3	spring	m	yes		Skin mycobiome	
+SAMEA9576909	A194	50000077	AD	mild to moderate AD	21.1	Lesion	dorsal neck	t3	spring	m	yes		Skin mycobiome	
+SAMEA9576910	A195	50000078	AD	mild to moderate AD	44.7	Lesion	glabella	t1	spring	m	no		Skin mycobiome	
+SAMEA9576911	A196	50000078	AD	mild to moderate AD	44.7	Lesion	antecubital	t1	spring	m	no		Skin mycobiome	
+SAMEA9576912	A197	50000078	AD	mild to moderate AD	44.7	Unaffected	vertex	t1	spring	m	no		Skin mycobiome	
+SAMEA9576913	A198	50000078	AD	mild to moderate AD	44.7	Lesion	dorsal neck	t1	spring	m	no		Skin mycobiome	
+SAMEA9576914	A199	50000078	AD	mild to moderate AD	27.9	Lesion	glabella	t2	spring	m	no		Skin mycobiome	
+SAMEA9576849	A20	50000068	AD	severe AD	32.3	Lesion	glabella	t2	winter	m	no		Skin mycobiome	
+SAMEA9576915	A200	50000078	AD	mild to moderate AD	27.9	Lesion	antecubital	t2	spring	m	no		Skin mycobiome	
+SAMEA9576916	A201	50000078	AD	mild to moderate AD	27.9	Lesion	vertex	t2	spring	m	no		Skin mycobiome	
+SAMEA9576917	A202	50000078	AD	mild to moderate AD	27.9	Unaffected	dorsal neck	t2	spring	m	no		Skin mycobiome	
+SAMEA9576918	A203	50000078	AD	mild to moderate AD	34.2	Unaffected	glabella	t3	spring	m	no		Skin mycobiome	
+SAMEA9576919	A204	50000078	AD	mild to moderate AD	34.2	Lesion	antecubital	t3	spring	m	no		Skin mycobiome	
+SAMEA9576920	A205	50000078	AD	mild to moderate AD	34.2	Unaffected	vertex	t3	spring	m	no		Skin mycobiome	
+SAMEA9576921	A206	50000078	AD	mild to moderate AD	34.2	Lesion	dorsal neck	t3	spring	m	no		Skin mycobiome	
+SAMEA9576850	A21	50000068	AD	severe AD	27.3	Unaffected	glabella	t3	winter	m	no		Skin mycobiome	
+SAMEA9576851	A22	50000068	AD	severe AD	27.3	Unaffected	antecubital	t3	winter	m	no		Skin mycobiome	
+SAMEA9576852	A23	50000068	AD	severe AD	27.3	Unaffected	vertex	t3	winter	m	no		Skin mycobiome	
+SAMEA9576853	A24	50000068	AD	severe AD	27.3	Lesion	dorsal neck	t3	winter	m	no		Skin mycobiome	
+SAMEA9576854	A43	50001002	HC	HC	0	Healthy	glabella	t3	spring	f			Skin mycobiome	
+SAMEA9576855	A44	50001002	HC	HC	0	Healthy	antecubital	t3	spring	f			Skin mycobiome	
+SAMEA9576856	A45	50001002	HC	HC	0	Healthy	vertex	t3	spring	f			Skin mycobiome	
+SAMEA9576857	A46	50001002	HC	HC	0	Healthy	dorsal neck	t3	spring	f			Skin mycobiome	
+SAMEA9576858	A59	50001006	HC	HC	0	Healthy	glabella	t3	spring	m			Skin mycobiome	
+SAMEA9576859	A60	50001006	HC	HC	0	Healthy	antecubital	t3	spring	m			Skin mycobiome	
+SAMEA9576860	A61	50001006	HC	HC	0	Healthy	vertex	t3	spring	m			Skin mycobiome	
+SAMEA9576861	A62	50001006	HC	HC	0	Healthy	dorsal neck	t3	spring	m			Skin mycobiome	
+SAMEA9576862	A67	50001008	HC	HC	0	Healthy	glabella	t1	spring	f			Skin mycobiome	
+SAMEA9576863	A68	50001008	HC	HC	0	Healthy	antecubital	t1	spring	f			Skin mycobiome	
+SAMEA9576864	A69	50001008	HC	HC	0	Healthy	vertex	t1	spring	f			Skin mycobiome	
+SAMEA9576865	A70	50001008	HC	HC	0	Healthy	dorsal neck	t1	spring	f			Skin mycobiome	
+SAMEA9576374	B01	negative control	control										Skin microbiome	yes
+SAMEA9576375	B03	negative control	control										Skin microbiome	yes
+SAMEA9576376	B04	negative control	control										Skin microbiome	yes
+SAMEA9576377	B05	50000035	AD	severe AD	76.1	Lesion	glabella	t1	spring	m	yes	sAD35	Skin microbiome	
+SAMEA9576378	B06	50000035	AD	severe AD	76.1	Lesion	antecubital	t1	spring	m	yes	sAD35	Skin microbiome	
+SAMEA9576379	B07	50000035	AD	severe AD	76.1	Unaffected	vertex	t1	spring	m	yes	sAD35	Skin microbiome	
+SAMEA9576380	B08	50000035	AD	severe AD	76.1	Lesion	dorsal neck	t1	spring	m	yes	sAD35	Skin microbiome	
+SAMEA9576381	B09	50000035	AD	severe AD	54.8	Unaffected	glabella	t2	spring	m	yes	sAD35	Skin microbiome	
+SAMEA9576382	B10	50000035	AD	severe AD	54.8	Lesion	antecubital	t2	spring	m	yes	sAD35	Skin microbiome	
+SAMEA9576469	B100	50000054	AD	severe AD	40.5	Unaffected	dorsal neck	t3	summer	m	yes	sAD54	Skin microbiome	
+SAMEA9576470	B101	50000061	AD	mild to moderate AD	14.4	Unaffected	glabella	t1	autumn	f	no	mAD61	Skin microbiome	
+SAMEA9576471	B102	50000061	AD	mild to moderate AD	14.4	Unaffected	antecubital	t1	autumn	f	no	mAD61	Skin microbiome	
+SAMEA9576472	B103	50000061	AD	mild to moderate AD	14.4	Unaffected	vertex	t1	autumn	f	no	mAD61	Skin microbiome	
+SAMEA9576473	B104	50000061	AD	mild to moderate AD	14.4	Unaffected	dorsal neck	t1	autumn	f	no	mAD61	Skin microbiome	
+SAMEA9576474	B105	50000061	AD	mild to moderate AD	0	Unaffected	glabella	t2	autumn	f	no	mAD61	Skin microbiome	
+SAMEA9576475	B106	50000061	AD	mild to moderate AD	0	Unaffected	antecubital	t2	autumn	f	no	mAD61	Skin microbiome	
+SAMEA9576476	B107	50000061	AD	mild to moderate AD	0	Unaffected	vertex	t2	autumn	f	no	mAD61	Skin microbiome	
+SAMEA9576477	B108	50000061	AD	mild to moderate AD	0	Lesion	dorsal neck	t2	autumn	f	no	mAD61	Skin microbiome	
+SAMEA9576478	B109	50000061	AD	mild to moderate AD	0	Unaffected	glabella	t3	autumn	f	no	mAD61	Skin microbiome	
+SAMEA9576383	B11	50000035	AD	severe AD	54.8	Lesion	vertex	t2	spring	m	yes	sAD35	Skin microbiome	
+SAMEA9576479	B110	50000061	AD	mild to moderate AD	0	Unaffected	antecubital	t3	autumn	f	no	mAD61	Skin microbiome	
+SAMEA9576480	B111	50000061	AD	mild to moderate AD	0	Unaffected	vertex	t3	autumn	f	no	mAD61	Skin microbiome	
+SAMEA9576481	B112	50000061	AD	mild to moderate AD	0	Unaffected	dorsal neck	t3	autumn	f	no	mAD61	Skin microbiome	
+SAMEA9576482	B113	50000066	AD	mild to moderate AD	42.6	Lesion	glabella	t1	autumn	m	no	mAD66	Skin microbiome	
+SAMEA9576483	B114	50000066	AD	mild to moderate AD	42.6	Lesion	antecubital	t1	autumn	m	no	mAD66	Skin microbiome	
+SAMEA9576484	B115	50000066	AD	mild to moderate AD	42.6	Unaffected	vertex	t1	autumn	m	no	mAD66	Skin microbiome	
+SAMEA9576485	B116	50000066	AD	mild to moderate AD	42.6	Lesion	dorsal neck	t1	autumn	m	no	mAD66	Skin microbiome	
+SAMEA9576486	B117	50000066	AD	mild to moderate AD	35.1	Lesion	glabella	t2	autumn	m	no	mAD66	Skin microbiome	
+SAMEA9576487	B118	50000066	AD	mild to moderate AD	35.1	Lesion	antecubital	t2	autumn	m	no	mAD66	Skin microbiome	
+SAMEA9576488	B119	50000066	AD	mild to moderate AD	35.1	Unaffected	vertex	t2	autumn	m	no	mAD66	Skin microbiome	
+SAMEA9576384	B12	50000035	AD	severe AD	54.8	Lesion	dorsal neck	t2	spring	m	yes	sAD35	Skin microbiome	
+SAMEA9576489	B120	50000066	AD	mild to moderate AD	35.1	Lesion	dorsal neck	t2	autumn	m	no	mAD66	Skin microbiome	
+SAMEA9576490	B121	50000066	AD	mild to moderate AD	42.4	Lesion	glabella	t3	autumn	m	no	mAD66	Skin microbiome	
+SAMEA9576491	B122	50000066	AD	mild to moderate AD	42.4	Lesion	antecubital	t3	autumn	m	no	mAD66	Skin microbiome	
+SAMEA9576492	B123	50000066	AD	mild to moderate AD	42.4	Unaffected	vertex	t3	autumn	m	no	mAD66	Skin microbiome	
+SAMEA9576493	B125	50000067	AD	mild to moderate AD	26.7	Unaffected	glabella	t1	autumn	f	no	mAD67	Skin microbiome	
+SAMEA9576494	B126	50000067	AD	mild to moderate AD	26.7	Lesion	antecubital	t1	autumn	f	no	mAD67	Skin microbiome	
+SAMEA9576495	B127	50000067	AD	mild to moderate AD	26.7	Unaffected	vertex	t1	autumn	f	no	mAD67	Skin microbiome	
+SAMEA9576496	B128	50000067	AD	mild to moderate AD	26.7	Lesion	dorsal neck	t1	autumn	f	no	mAD67	Skin microbiome	
+SAMEA9576497	B129	50000067	AD	mild to moderate AD	17.8	Unaffected	glabella	t2	autumn	f	no	mAD67	Skin microbiome	
+SAMEA9576385	B13	50000035	AD	severe AD	38.1	Unaffected	glabella	t3	spring	m	yes	sAD35	Skin microbiome	
+SAMEA9576498	B130	50000067	AD	mild to moderate AD	17.8	Lesion	antecubital	t2	autumn	f	no	mAD67	Skin microbiome	
+SAMEA9576499	B131	50000067	AD	mild to moderate AD	17.8	Unaffected	vertex	t2	autumn	f	no	mAD67	Skin microbiome	
+SAMEA9576500	B132	50000067	AD	mild to moderate AD	17.8	Lesion	dorsal neck	t2	autumn	f	no	mAD67	Skin microbiome	
+SAMEA9576501	B133	50000067	AD	mild to moderate AD	25.7	Unaffected	glabella	t3	autumn	f	no	mAD67	Skin microbiome	
+SAMEA9576502	B134	50000067	AD	mild to moderate AD	25.7	Lesion	antecubital	t3	autumn	f	no	mAD67	Skin microbiome	
+SAMEA9576503	B135	50000067	AD	mild to moderate AD	25.7	Unaffected	vertex	t3	autumn	f	no	mAD67	Skin microbiome	
+SAMEA9576504	B136	50000067	AD	mild to moderate AD	25.7	Lesion	dorsal neck	t3	autumn	f	no	mAD67	Skin microbiome	
+SAMEA9576505	B137	50000068	AD	severe AD	52	Unaffected	glabella	t1	winter	m	yes	sAD68	Skin microbiome	
+SAMEA9576506	B138	50000068	AD	severe AD	52	Unaffected	antecubital	t1	winter	m	yes	sAD68	Skin microbiome	
+SAMEA9576507	B139	50000068	AD	severe AD	52	Unaffected	vertex	t1	winter	m	yes	sAD68	Skin microbiome	
+SAMEA9576386	B14	50000035	AD	severe AD	38.1	Lesion	antecubital	t3	spring	m	yes	sAD35	Skin microbiome	
+SAMEA9576508	B140	50000068	AD	severe AD	52	Lesion	dorsal neck	t1	winter	m	yes	sAD68	Skin microbiome	
+SAMEA9576509	B141	50000068	AD	severe AD	32.3	Lesion	glabella	t2	winter	m	yes	sAD68	Skin microbiome	
+SAMEA9576510	B142	50000068	AD	severe AD	32.3	Unaffected	antecubital	t2	winter	m	yes	sAD68	Skin microbiome	
+SAMEA9576511	B143	50000068	AD	severe AD	32.3	Lesion	vertex	t2	winter	m	yes	sAD68	Skin microbiome	
+SAMEA9576512	B144	50000068	AD	severe AD	32.3	Lesion	dorsal neck	t2	winter	m	yes	sAD68	Skin microbiome	
+SAMEA9576513	B145	50000068	AD	severe AD	27.3	Unaffected	glabella	t3	winter	m	yes	sAD68	Skin microbiome	
+SAMEA9576514	B146	50000068	AD	severe AD	27.3	Unaffected	antecubital	t3	winter	m	yes	sAD68	Skin microbiome	
+SAMEA9576515	B147	50000068	AD	severe AD	27.3	Unaffected	vertex	t3	winter	m	yes	sAD68	Skin microbiome	
+SAMEA9576516	B148	50000068	AD	severe AD	27.3	Lesion	dorsal neck	t3	winter	m	yes	sAD68	Skin microbiome	
+SAMEA9576517	B149	50000072	AD	mild to moderate AD	38.3	Unaffected	glabella	t1	winter	f	no	mAD72	Skin microbiome	
+SAMEA9576387	B15	50000035	AD	severe AD	38.1	Unaffected	vertex	t3	spring	m	yes	sAD35	Skin microbiome	
+SAMEA9576518	B150	50000072	AD	mild to moderate AD	38.3	Lesion	antecubital	t1	winter	f	no	mAD72	Skin microbiome	
+SAMEA9576519	B151	50000072	AD	mild to moderate AD	38.3	Lesion	vertex	t1	winter	f	no	mAD72	Skin microbiome	
+SAMEA9576520	B152	50000072	AD	mild to moderate AD	38.3	Lesion	dorsal neck	t1	winter	f	no	mAD72	Skin microbiome	
+SAMEA9576521	B153	50000072	AD	mild to moderate AD	24.2	Unaffected	glabella	t2	winter	f	no	mAD72	Skin microbiome	
+SAMEA9576522	B154	50000072	AD	mild to moderate AD	24.2	Unaffected	antecubital	t2	winter	f	no	mAD72	Skin microbiome	
+SAMEA9576523	B155	50000072	AD	mild to moderate AD	24.2	Unaffected	vertex	t2	winter	f	no	mAD72	Skin microbiome	
+SAMEA9576524	B156	50000072	AD	mild to moderate AD	24.2	Lesion	dorsal neck	t2	winter	f	no	mAD72	Skin microbiome	
+SAMEA9576525	B158	50000072	AD	mild to moderate AD	26.9	Lesion	antecubital	t3	winter	f	no	mAD72	Skin microbiome	
+SAMEA9576526	B159	50000072	AD	mild to moderate AD	26.9	Unaffected	vertex	t3	winter	f	no	mAD72	Skin microbiome	
+SAMEA9576388	B16	50000035	AD	severe AD	38.1	Lesion	dorsal neck	t3	spring	m	yes	sAD35	Skin microbiome	
+SAMEA9576527	B160	50000072	AD	mild to moderate AD	26.9	Lesion	dorsal neck	t3	winter	f	no	mAD72	Skin microbiome	
+SAMEA9576528	B161	50000077	AD	mild to moderate AD	45.2	Lesion	glabella	t1	spring	m	yes	mAD77	Skin microbiome	
+SAMEA9576529	B162	50000077	AD	mild to moderate AD	45.2	Lesion	antecubital	t1	spring	m	yes	mAD77	Skin microbiome	
+SAMEA9576530	B163	50000077	AD	mild to moderate AD	45.2	Unaffected	vertex	t1	spring	m	yes	mAD77	Skin microbiome	
+SAMEA9576531	B164	50000077	AD	mild to moderate AD	45.2	Lesion	dorsal neck	t1	spring	m	yes	mAD77	Skin microbiome	
+SAMEA9576532	B165	50000077	AD	mild to moderate AD	27.4	Unaffected	glabella	t2	spring	m	yes	mAD77	Skin microbiome	
+SAMEA9576533	B166	50000077	AD	mild to moderate AD	27.4	Lesion	antecubital	t2	spring	m	yes	mAD77	Skin microbiome	
+SAMEA9576534	B167	50000077	AD	mild to moderate AD	27.4	Unaffected	vertex	t2	spring	m	yes	mAD77	Skin microbiome	
+SAMEA9576535	B168	50000077	AD	mild to moderate AD	27.4	Lesion	dorsal neck	t2	spring	m	yes	mAD77	Skin microbiome	
+SAMEA9576536	B169	50000077	AD	mild to moderate AD	21.1	Unaffected	glabella	t3	spring	m	yes	mAD77	Skin microbiome	
+SAMEA9576389	B17	50000037	AD	mild to moderate AD	34.1	Unaffected	glabella	t1	spring	f	no	mAD37	Skin microbiome	
+SAMEA9576537	B170	50000077	AD	mild to moderate AD	21.1	Unaffected	antecubital	t3	spring	m	yes	mAD77	Skin microbiome	
+SAMEA9576538	B171	50000077	AD	mild to moderate AD	21.1	Unaffected	vertex	t3	spring	m	yes	mAD77	Skin microbiome	
+SAMEA9576539	B172	50000077	AD	mild to moderate AD	21.1	Lesion	dorsal neck	t3	spring	m	yes	mAD77	Skin microbiome	
+SAMEA9576540	B173	50000078	AD	mild to moderate AD	44.7	Lesion	glabella	t1	spring	m	no	mAD78	Skin microbiome	
+SAMEA9576541	B174	50000078	AD	mild to moderate AD	44.7	Lesion	antecubital	t1	spring	m	no	mAD78	Skin microbiome	
+SAMEA9576542	B175	50000078	AD	mild to moderate AD	44.7	Unaffected	vertex	t1	spring	m	no	mAD78	Skin microbiome	
+SAMEA9576543	B176	50000078	AD	mild to moderate AD	44.7	Lesion	dorsal neck	t1	spring	m	no	mAD78	Skin microbiome	
+SAMEA9576544	B177	50000078	AD	mild to moderate AD	27.9	Lesion	glabella	t2	spring	m	no	mAD78	Skin microbiome	
+SAMEA9576545	B178	50000078	AD	mild to moderate AD	27.9	Lesion	antecubital	t2	spring	m	no	mAD78	Skin microbiome	
+SAMEA9576546	B179	50000078	AD	mild to moderate AD	27.9	Lesion	vertex	t2	spring	m	no	mAD78	Skin microbiome	
+SAMEA9576547	B180	50000078	AD	mild to moderate AD	27.9	Unaffected	dorsal neck	t2	spring	m	no	mAD78	Skin microbiome	
+SAMEA9576548	B181	50000078	AD	mild to moderate AD	34.2	Unaffected	glabella	t3	spring	m	no	mAD78	Skin microbiome	
+SAMEA9576549	B182	50000078	AD	mild to moderate AD	34.2	Lesion	antecubital	t3	spring	m	no	mAD78	Skin microbiome	
+SAMEA9576550	B183	50000078	AD	mild to moderate AD	34.2	Unaffected	vertex	t3	spring	m	no	mAD78	Skin microbiome	
+SAMEA9576551	B184	50000078	AD	mild to moderate AD	34.2	Lesion	dorsal neck	t3	spring	m	no	mAD78	Skin microbiome	
+SAMEA9576552	B185	50000081	AD	mild to moderate AD	22.7	Lesion	glabella	t1	autumn	f	no	mAD81	Skin microbiome	
+SAMEA9576553	B186	50000081	AD	mild to moderate AD	22.7	Lesion	antecubital	t1	autumn	f	no	mAD81	Skin microbiome	
+SAMEA9576554	B187	50000081	AD	mild to moderate AD	22.7	Lesion	vertex	t1	autumn	f	no	mAD81	Skin microbiome	
+SAMEA9576555	B188	50000081	AD	mild to moderate AD	22.7	Unaffected	dorsal neck	t1	autumn	f	no	mAD81	Skin microbiome	
+SAMEA9576556	B189	50000081	AD	mild to moderate AD	24.2	Lesion	glabella	t2	autumn	f	no	mAD81	Skin microbiome	
+SAMEA9576390	B19	50000037	AD	mild to moderate AD	34.1	Unaffected	vertex	t1	spring	f	no	mAD37	Skin microbiome	
+SAMEA9576557	B190	50000081	AD	mild to moderate AD	24.2	Unaffected	antecubital	t2	autumn	f	no	mAD81	Skin microbiome	
+SAMEA9576558	B191	50000081	AD	mild to moderate AD	24.2	Unaffected	vertex	t2	autumn	f	no	mAD81	Skin microbiome	
+SAMEA9576559	B192	50000081	AD	mild to moderate AD	24.2	Unaffected	dorsal neck	t2	autumn	f	no	mAD81	Skin microbiome	
+SAMEA9576560	B194	50000081	AD	mild to moderate AD	23.9	Unaffected	antecubital	t3	winter	f	no	mAD81	Skin microbiome	
+SAMEA9576561	B195	50000081	AD	mild to moderate AD	23.9	Unaffected	vertex	t3	winter	f	no	mAD81	Skin microbiome	
+SAMEA9576562	B196	50000081	AD	mild to moderate AD	23.9	Unaffected	dorsal neck	t3	winter	f	no	mAD81	Skin microbiome	
+SAMEA9576563	B209	50001002	HC	HC	0	Healthy	glabella	t1	spring	f		HC2	Skin microbiome	
+SAMEA9576391	B21	50000037	AD	mild to moderate AD	20.7	Unaffected	glabella	t2	spring	f	no	mAD37	Skin microbiome	
+SAMEA9576564	B210	50001002	HC	HC	0	Healthy	antecubital	t1	spring	f		HC2	Skin microbiome	
+SAMEA9576565	B211	50001002	HC	HC	0	Healthy	vertex	t1	spring	f		HC2	Skin microbiome	
+SAMEA9576566	B212	50001002	HC	HC	0	Healthy	dorsal neck	t1	spring	f		HC2	Skin microbiome	
+SAMEA9576567	B221	50001004	HC	HC	0	Healthy	glabella	t1	autumn	f		HC4	Skin microbiome	
+SAMEA9576568	B222	50001004	HC	HC	0	Healthy	antecubital	t1	autumn	f		HC4	Skin microbiome	
+SAMEA9576569	B223	50001004	HC	HC	0	Healthy	vertex	t1	autumn	f		HC4	Skin microbiome	
+SAMEA9576570	B224	50001004	HC	HC	0	Healthy	dorsal neck	t1	autumn	f		HC4	Skin microbiome	
+SAMEA9576571	B225	50001004	HC	HC	0	Healthy	glabella	t3	winter	f		HC4	Skin microbiome	
+SAMEA9576572	B226	50001004	HC	HC	0	Healthy	antecubital	t3	winter	f		HC4	Skin microbiome	
+SAMEA9576573	B227	50001004	HC	HC	0	Healthy	vertex	t3	winter	f		HC4	Skin microbiome	
+SAMEA9576574	B228	50001004	HC	HC	0	Healthy	dorsal neck	t3	winter	f		HC4	Skin microbiome	
+SAMEA9576575	B229	50001005	HC	HC	0	Healthy	glabella	t1	summer	f		HC5	Skin microbiome	
+SAMEA9576392	B23	50000037	AD	mild to moderate AD	20.7	Unaffected	vertex	t2	spring	f	no	mAD37	Skin microbiome	
+SAMEA9576576	B230	50001005	HC	HC	0	Healthy	antecubital	t1	summer	f		HC5	Skin microbiome	
+SAMEA9576577	B231	50001005	HC	HC	0	Healthy	vertex	t1	summer	f		HC5	Skin microbiome	
+SAMEA9576578	B232	50001005	HC	HC	0	Healthy	dorsal neck	t1	summer	f		HC5	Skin microbiome	
+SAMEA9576579	B233	50001005	HC	HC	0	Healthy	glabella	t3	autumn	f		HC5	Skin microbiome	
+SAMEA9576580	B234	50001005	HC	HC	0	Healthy	antecubital	t3	autumn	f		HC5	Skin microbiome	
+SAMEA9576581	B235	50001005	HC	HC	0	Healthy	vertex	t3	autumn	f		HC5	Skin microbiome	
+SAMEA9576582	B236	50001005	HC	HC	0	Healthy	dorsal neck	t3	autumn	f		HC5	Skin microbiome	
+SAMEA9576583	B237	50001006	HC	HC	0	Healthy	glabella	t1	spring	m		HC6	Skin microbiome	
+SAMEA9576584	B238	50001006	HC	HC	0	Healthy	antecubital	t1	spring	m		HC6	Skin microbiome	
+SAMEA9576585	B239	50001006	HC	HC	0	Healthy	vertex	t1	spring	m		HC6	Skin microbiome	
+SAMEA9576393	B24	50000037	AD	mild to moderate AD	20.7	Lesion	dorsal neck	t2	spring	f	no	mAD37	Skin microbiome	
+SAMEA9576586	B240	50001006	HC	HC	0	Healthy	dorsal neck	t1	spring	m		HC6	Skin microbiome	
+SAMEA9576587	B241	50001006	HC	HC	0	Healthy	glabella	t3	spring	m		HC6	Skin microbiome	
+SAMEA9576588	B242	50001006	HC	HC	0	Healthy	antecubital	t3	spring	m		HC6	Skin microbiome	
+SAMEA9576589	B243	50001006	HC	HC	0	Healthy	vertex	t3	spring	m		HC6	Skin microbiome	
+SAMEA9576590	B244	50001006	HC	HC	0	Healthy	dorsal neck	t3	spring	m		HC6	Skin microbiome	
+SAMEA9576591	B245	50001007	HC	HC	0	Healthy	glabella	t1	spring	f		HC7	Skin microbiome	
+SAMEA9576592	B246	50001007	HC	HC	0	Healthy	antecubital	t1	spring	f		HC7	Skin microbiome	
+SAMEA9576593	B247	50001007	HC	HC	0	Healthy	vertex	t1	spring	f		HC7	Skin microbiome	
+SAMEA9576594	B248	50001007	HC	HC	0	Healthy	dorsal neck	t1	spring	f		HC7	Skin microbiome	
+SAMEA9576394	B25	50000037	AD	mild to moderate AD	24.1	Unaffected	glabella	t3	spring	f	no	mAD37	Skin microbiome	
+SAMEA9576595	B250	50001007	HC	HC	0	Healthy	antecubital	t3	summer	f		HC7	Skin microbiome	
+SAMEA9576596	B251	50001007	HC	HC	0	Healthy	vertex	t3	summer	f		HC7	Skin microbiome	
+SAMEA9576597	B252	50001007	HC	HC	0	Healthy	dorsal neck	t3	summer	f		HC7	Skin microbiome	
+SAMEA9576395	B26	50000037	AD	mild to moderate AD	24.1	Lesion	antecubital	t3	spring	f	no	mAD37	Skin microbiome	
+SAMEA9576598	B269	50001010	HC	HC	0	Healthy	glabella	t3	autumn	f		HC10	Skin microbiome	
+SAMEA9576396	B27	50000037	AD	mild to moderate AD	24.1	Unaffected	vertex	t3	spring	f	no	mAD37	Skin microbiome	
+SAMEA9576599	B270	50001010	HC	HC	0	Healthy	antecubital	t3	autumn	f		HC10	Skin microbiome	
+SAMEA9576600	B272	50001010	HC	HC	0	Healthy	dorsal neck	t3	autumn	f		HC10	Skin microbiome	
+SAMEA9576601	B273	50001011	HC	HC	0	Healthy	glabella	t3	summer	f		HC11	Skin microbiome	
+SAMEA9576602	B274	50001011	HC	HC	0	Healthy	antecubital	t3	summer	f		HC11	Skin microbiome	
+SAMEA9576603	B275	50001011	HC	HC	0	Healthy	vertex	t3	summer	f		HC11	Skin microbiome	
+SAMEA9576604	B276	50001011	HC	HC	0	Healthy	dorsal neck	t3	summer	f		HC11	Skin microbiome	
+SAMEA9576397	B28	50000037	AD	mild to moderate AD	24.1	Lesion	dorsal neck	t3	spring	f	no	mAD37	Skin microbiome	
+SAMEA9576605	B281	50001014	HC	HC	0	Healthy	glabella	t1	autumn	m		HC14	Skin microbiome	
+SAMEA9576606	B282	50001014	HC	HC	0	Healthy	antecubital	t1	autumn	m		HC14	Skin microbiome	
+SAMEA9576607	B283	50001014	HC	HC	0	Healthy	vertex	t1	autumn	m		HC14	Skin microbiome	
+SAMEA9576608	B284	50001014	HC	HC	0	Healthy	dorsal neck	t1	autumn	m		HC14	Skin microbiome	
+SAMEA9576609	B285	50001014	HC	HC	0	Healthy	glabella	t3	winter	m		HC14	Skin microbiome	
+SAMEA9576610	B286	50001014	HC	HC	0	Healthy	antecubital	t3	winter	m		HC14	Skin microbiome	
+SAMEA9576611	B287	50001014	HC	HC	0	Healthy	vertex	t3	winter	m		HC14	Skin microbiome	
+SAMEA9576612	B288	50001014	HC	HC	0	Healthy	dorsal neck	t3	winter	m		HC14	Skin microbiome	
+SAMEA9576398	B29	50000038	AD	severe AD	71.5	Unaffected	glabella	t1	spring	m	no	sAD38	Skin microbiome	
+SAMEA9576613	B290	50001015	HC	HC	0	Healthy	antecubital	t1	autumn	m		HC15	Skin microbiome	
+SAMEA9576614	B291	50001015	HC	HC	0	Healthy	vertex	t1	autumn	m		HC15	Skin microbiome	
+SAMEA9576615	B292	50001015	HC	HC	0	Healthy	dorsal neck	t1	autumn	m		HC15	Skin microbiome	
+SAMEA9576616	B294	50001015	HC	HC	0	Healthy	antecubital	t3	winter	m		HC15	Skin microbiome	
+SAMEA9576617	B295	50001015	HC	HC	0	Healthy	vertex	t3	winter	m		HC15	Skin microbiome	
+SAMEA9576618	B296	50001015	HC	HC	0	Healthy	dorsal neck	t3	winter	m		HC15	Skin microbiome	
+SAMEA9576619	B297	50001016	HC	HC	0	Healthy	glabella	t3	winter	m		HC16	Skin microbiome	
+SAMEA9576620	B298	50001016	HC	HC	0	Healthy	antecubital	t1	winter	m		HC16	Skin microbiome	
+SAMEA9576621	B299	50001016	HC	HC	0	Healthy	vertex	t1	winter	m		HC16	Skin microbiome	
+SAMEA9576399	B30	50000038	AD	severe AD	71.5	Lesion	antecubital	t1	spring	m	no	sAD38	Skin microbiome	
+SAMEA9576622	B300	50001016	HC	HC	0	Healthy	dorsal neck	t1	winter	m		HC16	Skin microbiome	
+SAMEA9576400	B31	50000038	AD	severe AD	71.5	Unaffected	vertex	t1	spring	m	no	sAD38	Skin microbiome	
+SAMEA9576401	B32	50000038	AD	severe AD	71.5	Lesion	dorsal neck	t1	spring	m	no	sAD38	Skin microbiome	
+SAMEA9576402	B33	50000038	AD	severe AD	70.2	Unaffected	glabella	t2	spring	m	no	sAD38	Skin microbiome	
+SAMEA9576403	B34	50000038	AD	severe AD	70.2	Lesion	antecubital	t2	spring	m	no	sAD38	Skin microbiome	
+SAMEA9576404	B35	50000038	AD	severe AD	70.2	Unaffected	vertex	t2	spring	m	no	sAD38	Skin microbiome	
+SAMEA9576405	B36	50000038	AD	severe AD	70.2	Lesion	dorsal neck	t2	spring	m	no	sAD38	Skin microbiome	
+SAMEA9576406	B37	50000038	AD	severe AD	77.4	Lesion	glabella	t3	spring	m	no	sAD38	Skin microbiome	
+SAMEA9576407	B38	50000038	AD	severe AD	77.4	Lesion	antecubital	t3	spring	m	no	sAD38	Skin microbiome	
+SAMEA9576408	B39	50000038	AD	severe AD	77.4	Lesion	vertex	t3	spring	m	no	sAD38	Skin microbiome	
+SAMEA9576409	B40	50000038	AD	severe AD	77.4	Lesion	dorsal neck	t3	spring	m	no	sAD38	Skin microbiome	
+SAMEA9576410	B41	50000042	AD	severe AD	67.9	Lesion	glabella	t1	summer	m	yes	sAD42	Skin microbiome	
+SAMEA9576411	B42	50000042	AD	severe AD	67.9	Lesion	antecubital	t1	summer	m	yes	sAD42	Skin microbiome	
+SAMEA9576412	B43	50000042	AD	severe AD	67.9	Lesion	vertex	t1	summer	m	yes	sAD42	Skin microbiome	
+SAMEA9576413	B44	50000042	AD	severe AD	67.9	Lesion	dorsal neck	t1	summer	m	yes	sAD42	Skin microbiome	
+SAMEA9576414	B45	50000042	AD	severe AD	50.3	Lesion	glabella	t2	summer	m	yes	sAD42	Skin microbiome	
+SAMEA9576415	B46	50000042	AD	severe AD	50.3	Lesion	antecubital	t2	summer	m	yes	sAD42	Skin microbiome	
+SAMEA9576416	B47	50000042	AD	severe AD	50.3	Lesion	vertex	t2	summer	m	yes	sAD42	Skin microbiome	
+SAMEA9576417	B48	50000042	AD	severe AD	50.3	Lesion	dorsal neck	t2	summer	m	yes	sAD42	Skin microbiome	
+SAMEA9576419	B49	50000042	AD	severe AD	45.2	Unaffected	glabella	t3	summer	m	yes	sAD42	Skin microbiome	
+SAMEA9576420	B50	50000042	AD	severe AD	45.2	Lesion	antecubital	t3	summer	m	yes	sAD42	Skin microbiome	
+SAMEA9576421	B51	50000042	AD	severe AD	45.2	Unaffected	vertex	t3	summer	m	yes	sAD42	Skin microbiome	
+SAMEA9576422	B52	50000042	AD	severe AD	45.2	Lesion	dorsal neck	t3	summer	m	yes	sAD42	Skin microbiome	
+SAMEA9576423	B53	50000051	AD	mild to moderate AD	45.2	Unaffected	glabella	t1	autumn	m	no	mAD51	Skin microbiome	
+SAMEA9576424	B54	50000051	AD	mild to moderate AD	45.2	Lesion	antecubital	t1	autumn	m	no	mAD51	Skin microbiome	
+SAMEA9576425	B55	50000051	AD	mild to moderate AD	45.2	Unaffected	vertex	t1	autumn	m	no	mAD51	Skin microbiome	
+SAMEA9576426	B56	50000051	AD	mild to moderate AD	45.2	Lesion	dorsal neck	t1	autumn	m	no	mAD51	Skin microbiome	
+SAMEA9576427	B57	50000051	AD	mild to moderate AD	32.2	Unaffected	glabella	t2	autumn	m	no	mAD51	Skin microbiome	
+SAMEA9576428	B58	50000051	AD	mild to moderate AD	32.2	Lesion	antecubital	t2	autumn	m	no	mAD51	Skin microbiome	
+SAMEA9576429	B59	50000051	AD	mild to moderate AD	32.2	Unaffected	vertex	t2	autumn	m	no	mAD51	Skin microbiome	
+SAMEA9576430	B60	50000051	AD	mild to moderate AD	32.2	Lesion	dorsal neck	t2	autumn	m	no	mAD51	Skin microbiome	
+SAMEA9576431	B61	50000051	AD	mild to moderate AD	37.7	Unaffected	glabella	t3	autumn	m	no	mAD51	Skin microbiome	
+SAMEA9576432	B62	50000051	AD	mild to moderate AD	37.7	Lesion	antecubital	t3	autumn	m	no	mAD51	Skin microbiome	
+SAMEA9576433	B63	50000051	AD	mild to moderate AD	37.7	Unaffected	vertex	t3	autumn	m	no	mAD51	Skin microbiome	
+SAMEA9576434	B64	50000051	AD	mild to moderate AD	37.7	Lesion	dorsal neck	t3	autumn	m	no	mAD51	Skin microbiome	
+SAMEA9576435	B65	50000052	AD	severe AD	63.2	Unaffected	glabella	t1	summer	m	no	sAD52	Skin microbiome	
+SAMEA9576436	B66	50000052	AD	severe AD	63.2	Lesion	antecubital	t1	summer	m	no	sAD52	Skin microbiome	
+SAMEA9576437	B67	50000052	AD	severe AD	63.2	Unaffected	vertex	t1	summer	m	no	sAD52	Skin microbiome	
+SAMEA9576438	B68	50000052	AD	severe AD	63.2	Lesion	dorsal neck	t1	summer	m	no	sAD52	Skin microbiome	
+SAMEA9576439	B69	50000052	AD	severe AD	64.5	Unaffected	glabella	t2	summer	m	no	sAD52	Skin microbiome	
+SAMEA9576440	B70	50000052	AD	severe AD	64.5	Lesion	antecubital	t2	summer	m	no	sAD52	Skin microbiome	
+SAMEA9576441	B71	50000052	AD	severe AD	64.5	Unaffected	vertex	t2	summer	m	no	sAD52	Skin microbiome	
+SAMEA9576442	B72	50000052	AD	severe AD	64.5		dorsal neck	t2	summer	m	no	sAD52	Skin microbiome	
+SAMEA9576443	B73	50000052	AD	severe AD	79.1	Unaffected	glabella	t3	summer	m	no	sAD52	Skin microbiome	
+SAMEA9576444	B74	50000052	AD	severe AD	79.1	Lesion	antecubital	t3	summer	m	no	sAD52	Skin microbiome	
+SAMEA9576445	B75	50000052	AD	severe AD	79.1	Unaffected	vertex	t3	summer	m	no	sAD52	Skin microbiome	
+SAMEA9576446	B76	50000052	AD	severe AD	79.1	Lesion	dorsal neck	t3	summer	m	no	sAD52	Skin microbiome	
+SAMEA9576447	B77	50000053	AD	severe AD	71.9	Lesion	glabella	t1	summer	f	yes	sAD53	Skin microbiome	
+SAMEA9576448	B78	50000053	AD	severe AD	71.9	Lesion	antecubital	t1	summer	f	yes	sAD53	Skin microbiome	
+SAMEA9576449	B79	50000053	AD	severe AD	71.9	Lesion	vertex	t1	summer	f	yes	sAD53	Skin microbiome	
+SAMEA9576450	B80	50000053	AD	severe AD	71.9	Lesion	dorsal neck	t1	summer	f	yes	sAD53	Skin microbiome	
+SAMEA9576451	B81	50000053	AD	severe AD	66	Lesion	glabella	t2	summer	f	yes	sAD53	Skin microbiome	
+SAMEA9576452	B83	50000053	AD	severe AD	66	Unaffected	vertex	t2	summer	f	yes	sAD53	Skin microbiome	
+SAMEA9576453	B84	50000053	AD	severe AD	66	Lesion	dorsal neck	t2	summer	f	yes	sAD53	Skin microbiome	
+SAMEA9576454	B85	50000053	AD	severe AD	56.1	Unaffected	glabella	t3	summer	f	yes	sAD53	Skin microbiome	
+SAMEA9576455	B86	50000053	AD	severe AD	56.1	Lesion	antecubital	t3	summer	f	yes	sAD53	Skin microbiome	
+SAMEA9576456	B87	50000053	AD	severe AD	56.1	Unaffected	vertex	t3	summer	f	yes	sAD53	Skin microbiome	
+SAMEA9576457	B88	50000053	AD	severe AD	56.1	Lesion	dorsal neck	t3	summer	f	yes	sAD53	Skin microbiome	
+SAMEA9576458	B89	50000054	AD	severe AD	50.9	Lesion	glabella	t1	summer	m	yes	sAD54	Skin microbiome	
+SAMEA9576459	B90	50000054	AD	severe AD	50.9	Lesion	antecubital	t1	summer	m	yes	sAD54	Skin microbiome	
+SAMEA9576460	B91	50000054	AD	severe AD	50.9	Lesion	vertex	t1	summer	m	yes	sAD54	Skin microbiome	
+SAMEA9576461	B92	50000054	AD	severe AD	50.9	Lesion	dorsal neck	t1	summer	m	yes	sAD54	Skin microbiome	
+SAMEA9576462	B93	50000054	AD	severe AD	31.6	Lesion	glabella	t2	summer	m	yes	sAD54	Skin microbiome	
+SAMEA9576463	B94	50000054	AD	severe AD	31.6	Lesion	antecubital	t2	summer	m	yes	sAD54	Skin microbiome	
+SAMEA9576464	B95	50000054	AD	severe AD	31.6	Unaffected	vertex	t2	summer	m	yes	sAD54	Skin microbiome	
+SAMEA9576465	B96	50000054	AD	severe AD	31.6	Lesion	dorsal neck	t2	summer	m	yes	sAD54	Skin microbiome	
+SAMEA9576466	B97	50000054	AD	severe AD	40.5	Lesion	glabella	t3	summer	m	yes	sAD54	Skin microbiome	
+SAMEA9576467	B98	50000054	AD	severe AD	40.5	Lesion	antecubital	t3	summer	m	yes	sAD54	Skin microbiome	
+SAMEA9576468	B99	50000054	AD	severe AD	40.5	Unaffected	vertex	t3	summer	m	yes	sAD54	Skin microbiome	
+SAMEA9576922	C01	negative control	control										Skin mycobiome	
+SAMEA9576923	C06	50000054	AD	severe AD	31.6	Lesion	vertex	t2	summer	m	yes		Skin mycobiome	
+SAMEA9576924	C07	50000081	AD	mild to moderate AD	22.7	Lesion	glabella	t1	autumn	f	no		Skin mycobiome	
+SAMEA9576925	C08	50000081	AD	mild to moderate AD	22.7	Lesion	antecubital	t1	autumn	f	no		Skin mycobiome	
+SAMEA9576926	C09	50000081	AD	mild to moderate AD	22.7	Lesion	vertex	t1	autumn	f	no		Skin mycobiome	
+SAMEA9576927	C10	50000081	AD	mild to moderate AD	22.7	Unaffected	dorsal neck	t1	autumn	f	no		Skin mycobiome	
+SAMEA9576972	C103	50001011	HC	HC	0	Healthy	glabella	t3	summer	f			Skin mycobiome	
+SAMEA9576973	C104	50001011	HC	HC	0	Healthy	antecubital	t3	summer	f			Skin mycobiome	
+SAMEA9576974	C105	50001011	HC	HC	0	Healthy	vertex	t3	summer	f			Skin mycobiome	
+SAMEA9576928	C11	50000081	AD	mild to moderate AD	24.2	Lesion	glabella	t2	autumn	f	no		Skin mycobiome	
+SAMEA9576929	C12	50000081	AD	mild to moderate AD	24.2	Unaffected	antecubital	t2	autumn	f	no		Skin mycobiome	
+SAMEA9576975	C123	50001005	HC	HC	0	Healthy	glabella	t1	summer	f			Skin mycobiome	
+SAMEA9576976	C124	50001005	HC	HC	0	Healthy	antecubital	t1	summer	f			Skin mycobiome	
+SAMEA9576977	C125	50001005	HC	HC	0	Healthy	vertex	t1	summer	f			Skin mycobiome	
+SAMEA9576978	C126	50001005	HC	HC	0	Healthy	dorsal neck	t1	summer	f			Skin mycobiome	
+SAMEA9576930	C13	50000081	AD	mild to moderate AD	24.2	Unaffected	vertex	t2	autumn	f	no		Skin mycobiome	
+SAMEA9576931	C14	50000081	AD	mild to moderate AD	24.2	Unaffected	dorsal neck	t2	autumn	f	no		Skin mycobiome	
+SAMEA9576932	C15	50000081	AD	mild to moderate AD	23.9	Unaffected	glabella	t3	autumn	f	no		Skin mycobiome	
+SAMEA9576979	C151	50001001	HC	HC	0	Healthy	glabella	t1	autumn	f			Skin mycobiome	
+SAMEA9576980	C152	50001001	HC	HC	0	Healthy	antecubital	t1	autumn	f			Skin mycobiome	
+SAMEA9576981	C153	50001001	HC	HC	0	Healthy	vertex	t1	autumn	f			Skin mycobiome	
+SAMEA9576982	C154	50001001	HC	HC	0	Healthy	dorsal neck	t1	autumn	f			Skin mycobiome	
+SAMEA9576933	C16	50000081	AD	mild to moderate AD	23.9	Unaffected	antecubital	t3	autumn	f	no		Skin mycobiome	
+SAMEA9576983	C167	50001005	HC	HC	0	Healthy	glabella	t3	autumn	f			Skin mycobiome	
+SAMEA9576984	C168	50001005	HC	HC	0	Healthy	antecubital	t3	autumn	f			Skin mycobiome	
+SAMEA9576985	C169	50001005	HC	HC	0	Healthy	vertex	t3	autumn	f			Skin mycobiome	
+SAMEA9576934	C17	50000081	AD	mild to moderate AD	23.9	Unaffected	vertex	t3	autumn	f	no		Skin mycobiome	
+SAMEA9576986	C170	50001005	HC	HC	0	Healthy	dorsal neck	t3	autumn	f			Skin mycobiome	
+SAMEA9576935	C18	50000081	AD	mild to moderate AD	23.9	Unaffected	dorsal neck	t3	autumn	f	no		Skin mycobiome	
+SAMEA9576987	C187	50001010	HC	HC	0	Healthy	glabella	t1	autumn	f			Skin mycobiome	
+SAMEA9576988	C188	50001010	HC	HC	0	Healthy	antecubital	t1	autumn	f			Skin mycobiome	
+SAMEA9576989	C189	50001010	HC	HC	0	Healthy	vertex	t1	autumn	f			Skin mycobiome	
+SAMEA9576990	C190	50001010	HC	HC	0	Healthy	dorsal neck	t1	autumn	f			Skin mycobiome	
+SAMEA9576991	C195	50001001	HC	HC	0	Healthy	glabella	t3	autumn	f			Skin mycobiome	
+SAMEA9576992	C196	50001001	HC	HC	0	Healthy	antecubital	t3	autumn	f			Skin mycobiome	
+SAMEA9576993	C197	50001001	HC	HC	0	Healthy	vertex	t3	autumn	f			Skin mycobiome	
+SAMEA9576994	C198	50001001	HC	HC	0	Healthy	dorsal neck	t3	autumn	f			Skin mycobiome	
+SAMEA9576995	C239	50001017	HC	HC	0	Healthy	glabella	t1	spring	m			Skin mycobiome	
+SAMEA9576996	C240	50001017	HC	HC	0	Healthy	antecubital	t1	spring	m			Skin mycobiome	
+SAMEA9576997	C241	50001017	HC	HC	0	Healthy	vertex	t1	spring	m			Skin mycobiome	
+SAMEA9576998	C242	50001017	HC	HC	0	Healthy	dorsal neck	t1	spring	m			Skin mycobiome	
+SAMEA9576999	C243	50001017	HC	HC	0	Healthy	glabella	t3	summer	m			Skin mycobiome	
+SAMEA9577000	C244	50001017	HC	HC	0	Healthy	antecubital	t3	summer	m			Skin mycobiome	
+SAMEA9577001	C245	50001017	HC	HC	0	Healthy	vertex	t3	summer	m			Skin mycobiome	
+SAMEA9577002	C246	50001017	HC	HC	0	Healthy	dorsal neck	t3	summer	m			Skin mycobiome	
+SAMEA9577003	C251	50001004	HC	HC	0	Healthy	glabella	t1	autumn	f			Skin mycobiome	
+SAMEA9577004	C252	50001004	HC	HC	0	Healthy	antecubital	t1	autumn	f			Skin mycobiome	
+SAMEA9577005	C253	50001004	HC	HC	0	Healthy	vertex	t1	autumn	f			Skin mycobiome	
+SAMEA9577006	C254	50001004	HC	HC	0	Healthy	dorsal neck	t1	autumn	f			Skin mycobiome	
+SAMEA9577007	C259	50001009	HC	HC	0	Healthy	glabella	t1	autumn	f			Skin mycobiome	
+SAMEA9577008	C260	50001009	HC	HC	0	Healthy	antecubital	t1	autumn	f			Skin mycobiome	
+SAMEA9577009	C261	50001009	HC	HC	0	Healthy	vertex	t1	autumn	f			Skin mycobiome	
+SAMEA9577010	C262	50001009	HC	HC	0	Healthy	dorsal neck	t1	autumn	f			Skin mycobiome	
+SAMEA9577011	C263	50001010	HC	HC	0	Healthy	glabella	t3	autumn	f			Skin mycobiome	
+SAMEA9577012	C264	50001010	HC	HC	0	Healthy	antecubital	t3	autumn	f			Skin mycobiome	
+SAMEA9577013	C265	50001010	HC	HC	0	Healthy	vertex	t3	autumn	f			Skin mycobiome	
+SAMEA9577014	C266	50001010	HC	HC	0	Healthy	dorsal neck	t3	autumn	f			Skin mycobiome	
+SAMEA9577015	C267	50001004	HC	HC	0	Healthy	glabella	t3	winter	f			Skin mycobiome	
+SAMEA9577016	C268	50001004	HC	HC	0	Healthy	antecubital	t3	winter	f			Skin mycobiome	
+SAMEA9577017	C269	50001004	HC	HC	0	Healthy	vertex	t3	winter	f			Skin mycobiome	
+SAMEA9577018	C270	50001004	HC	HC	0	Healthy	dorsal neck	t3	winter	f			Skin mycobiome	
+SAMEA9577019	C283	50001009	HC	HC	0	Healthy	glabella	t3	winter	f			Skin mycobiome	
+SAMEA9577020	C284	50001009	HC	HC	0	Healthy	antecubital	t3	winter	f			Skin mycobiome	
+SAMEA9577021	C285	50001009	HC	HC	0	Healthy	vertex	t3	winter	f			Skin mycobiome	
+SAMEA9577022	C286	50001009	HC	HC	0	Healthy	dorsal neck	t3	winter	f			Skin mycobiome	
+SAMEA9577023	C299	negative control	control										Skin mycobiome	
+SAMEA9577024	C300	negative control	control										Skin mycobiome	
+SAMEA9576936	C31	50001012	HC	HC	0	Healthy	glabella	t1	winter	f			Skin mycobiome	
+SAMEA9576937	C32	50001012	HC	HC	0	Healthy	antecubital	t1	winter	f			Skin mycobiome	
+SAMEA9576938	C33	50001012	HC	HC	0	Healthy	vertex	t1	winter	f			Skin mycobiome	
+SAMEA9576939	C34	50001012	HC	HC	0	Healthy	dorsal neck	t1	winter	f			Skin mycobiome	
+SAMEA9576940	C35	50001012	HC	HC	0	Healthy	glabella	t3	winter	f			Skin mycobiome	
+SAMEA9576941	C36	50001012	HC	HC	0	Healthy	antecubital	t3	winter	f			Skin mycobiome	
+SAMEA9576942	C37	50001012	HC	HC	0	Healthy	vertex	t3	winter	f			Skin mycobiome	
+SAMEA9576943	C38	50001012	HC	HC	0	Healthy	dorsal neck	t3	winter	f			Skin mycobiome	
+SAMEA9576944	C39	50001014	HC	HC	0	Healthy	glabella	t1	autumn	m			Skin mycobiome	
+SAMEA9576945	C40	50001014	HC	HC	0	Healthy	antecubital	t1	autumn	m			Skin mycobiome	
+SAMEA9576946	C41	50001014	HC	HC	0	Healthy	vertex	t1	autumn	m			Skin mycobiome	
+SAMEA9576947	C42	50001014	HC	HC	0	Healthy	dorsal neck	t1	autumn	m			Skin mycobiome	
+SAMEA9576948	C43	50001014	HC	HC	0	Healthy	glabella	t3	autumn	m			Skin mycobiome	
+SAMEA9576949	C44	50001014	HC	HC	0	Healthy	antecubital	t3	autumn	m			Skin mycobiome	
+SAMEA9576950	C45	50001014	HC	HC	0	Healthy	vertex	t3	autumn	m			Skin mycobiome	
+SAMEA9576951	C46	50001014	HC	HC	0	Healthy	dorsal neck	t3	autumn	m			Skin mycobiome	
+SAMEA9576952	C47	50001015	HC	HC	0	Healthy	glabella	t1	autumn	m			Skin mycobiome	
+SAMEA9576953	C48	50001015	HC	HC	0	Healthy	antecubital	t1	autumn	m			Skin mycobiome	
+SAMEA9576954	C49	50001015	HC	HC	0	Healthy	vertex	t1	autumn	m			Skin mycobiome	
+SAMEA9576955	C50	50001015	HC	HC	0	Healthy	dorsal neck	t1	autumn	m			Skin mycobiome	
+SAMEA9576956	C51	50001015	HC	HC	0	Healthy	glabella	t3	winter	m			Skin mycobiome	
+SAMEA9576957	C52	50001015	HC	HC	0	Healthy	antecubital	t3	winter	m			Skin mycobiome	
+SAMEA9576958	C53	50001015	HC	HC	0	Healthy	vertex	t3	winter	m			Skin mycobiome	
+SAMEA9576959	C54	50001015	HC	HC	0	Healthy	dorsal neck	t3	winter	m			Skin mycobiome	
+SAMEA9576960	C55	50001016	HC	HC	0	Healthy	glabella	t1	winter	m			Skin mycobiome	
+SAMEA9576961	C56	50001016	HC	HC	0	Healthy	antecubital	t1	winter	m			Skin mycobiome	
+SAMEA9576962	C57	50001016	HC	HC	0	Healthy	vertex	t1	winter	m			Skin mycobiome	
+SAMEA9576963	C58	50001016	HC	HC	0	Healthy	dorsal neck	t1	winter	m			Skin mycobiome	
+SAMEA9576964	C59	50001016	HC	HC	0	Healthy	glabella	t3	winter	m			Skin mycobiome	
+SAMEA9576965	C60	50001016	HC	HC	0	Healthy	antecubital	t3	winter	m			Skin mycobiome	
+SAMEA9576966	C61	50001016	HC	HC	0	Healthy	vertex	t3	winter	m			Skin mycobiome	
+SAMEA9576967	C62	50001016	HC	HC	0	Healthy	dorsal neck	t3	winter	m			Skin mycobiome	
+SAMEA9576968	C71	50001003	HC	HC	0	Healthy	glabella	t3	summer	f			Skin mycobiome	
+SAMEA9576969	C72	50001003	HC	HC	0	Healthy	antecubital	t3	summer	f			Skin mycobiome	
+SAMEA9576970	C73	50001003	HC	HC	0	Healthy	vertex	t3	summer	f			Skin mycobiome	
+SAMEA9576971	C74	50001003	HC	HC	0	Healthy	dorsal neck	t3	summer	f			Skin mycobiome	
+SAMEA9576623	D01	negative control	control										Skin microbiome	yes
+SAMEA9576624	D02	negative control	control										Skin microbiome	yes
+SAMEA9576625	D03	50000037	AD	mild to moderate AD	34.1	Unaffected	antecubital	t1	spring	f	no	mAD37	Skin microbiome	
+SAMEA9576626	D04	50000037	AD	mild to moderate AD	34.1	Unaffected	dorsal neck	t1	spring	f	no	mAD37	Skin microbiome	
+SAMEA9576627	D05	50000037	AD	mild to moderate AD	20.7	Unaffected	antecubital	t2	spring	f	no	mAD37	Skin microbiome	
+SAMEA9576628	D06	50000053	AD	severe AD	66	Lesion	antecubital	t2	summer	f	yes	sAD53	Skin microbiome	
+SAMEA9576629	D07	50000066	AD	mild to moderate AD	42.4	Unaffected	dorsal neck	t3	autumn	m	no	mAD66	Skin microbiome	
+SAMEA9576630	D08	50000072	AD	mild to moderate AD	26.9	Unaffected	glabella	t3	winter	f	no	mAD72	Skin microbiome	
+SAMEA9576631	D09	50000081	AD	mild to moderate AD	23.9	Unaffected	glabella	t3	winter	f	no	mAD81	Skin microbiome	
+SAMEA9576632	D10	50001012	HC	HC	0	Healthy	glabella	t1	winter	f		HC12	Skin microbiome	
+SAMEA9576633	D11	50001012	HC	HC	0	Healthy	antecubital	t1	winter	f		HC12	Skin microbiome	
+SAMEA9577025	D113	negative control	control										Skin mycobiome	
+SAMEA9576634	D12	50001012	HC	HC	0	Healthy	vertex	t1	winter	f		HC12	Skin microbiome	
+SAMEA9576635	D13	50001012	HC	HC	0	Healthy	dorsal neck	t1	winter	f		HC12	Skin microbiome	
+SAMEA9576636	D14	50001012	HC	HC	0	Healthy	glabella	t3	winter	f		HC12	Skin microbiome	
+SAMEA9576637	D15	50001012	HC	HC	0	Healthy	antecubital	t3	winter	f		HC12	Skin microbiome	
+SAMEA9576638	D16	50001012	HC	HC	0	Healthy	vertex	t3	winter	f		HC12	Skin microbiome	
+SAMEA9576639	D17	50001012	HC	HC	0	Healthy	dorsal neck	t3	winter	f		HC12	Skin microbiome	
+SAMEA9576640	D18	50001015	HC	HC	0	Healthy	glabella	t1	autumn	m		HC15	Skin microbiome	
+SAMEA9576641	D19	50001015	HC	HC	0	Healthy	glabella	t3	autumn	m		HC15	Skin microbiome	
+SAMEA9576642	D20	50001016	HC	HC	0	Healthy	glabella	t3	winter	m		HC16	Skin microbiome	
+SAMEA9577026	D200	50001011	HC	HC	0	Healthy	dorsal neck	t3	summer	f			Skin mycobiome	
+SAMEA9576643	D21	50001016	HC	HC	0	Healthy	antecubital	t3	winter	m		HC16	Skin microbiome	
+SAMEA9576644	D22	50001016	HC	HC	0	Healthy	vertex	t3	winter	m		HC16	Skin microbiome	
+SAMEA9576645	D23	50001016	HC	HC	0	Healthy	dorsal neck	t3	winter	m		HC16	Skin microbiome	
+SAMEA9576646	D24	50001017	HC	HC	0	Healthy	glabella	t1	winter	m		HC17	Skin microbiome	
+SAMEA9576647	D25	50001017	HC	HC	0	Healthy	antecubital	t1	winter	m		HC17	Skin microbiome	
+SAMEA9576648	D26	50001017	HC	HC	0	Healthy	vertex	t1	winter	m		HC17	Skin microbiome	
+SAMEA9576649	D27	50001017	HC	HC	0	Healthy	dorsal neck	t1	winter	m		HC17	Skin microbiome	
+SAMEA9576650	D28	50001017	HC	HC	0	Healthy	glabella	t3	winter	m		HC17	Skin microbiome	
+SAMEA9576651	D29	50001017	HC	HC	0	Healthy	antecubital	t3	winter	m		HC17	Skin microbiome	
+SAMEA9576652	D30	50001017	HC	HC	0	Healthy	vertex	t3	winter	m		HC17	Skin microbiome	
+SAMEA9576653	D31	50001017	HC	HC	0	Healthy	dorsal neck	t3	winter	m		HC17	Skin microbiome	
+SAMEA9576654	D34	50001002	HC	HC	0	Healthy	glabella	t3	spring	f		HC2	Skin microbiome	
+SAMEA9576655	D35	50001002	HC	HC	0	Healthy	antecubital	t3	spring	f		HC2	Skin microbiome	
+SAMEA9576656	D36	50001002	HC	HC	0	Healthy	vertex	t3	spring	f		HC2	Skin microbiome	
+SAMEA9576657	D37	50001002	HC	HC	0	Healthy	dorsal neck	t3	spring	f		HC2	Skin microbiome	
+SAMEA9576658	D42	50001008	HC	HC	0	Healthy	glabella	t1	spring	f		HC8	Skin microbiome	
+SAMEA9576659	D43	50001008	HC	HC	0	Healthy	antecubital	t1	spring	f		HC8	Skin microbiome	
+SAMEA9576660	D44	50001008	HC	HC	0	Healthy	vertex	t1	spring	f		HC8	Skin microbiome	
+SAMEA9576661	D45	50001008	HC	HC	0	Healthy	dorsal neck	t1	spring	f		HC8	Skin microbiome	
+SAMEA9576662	D51	50001008	HC	HC	0	Healthy	glabella	t3	spring	f		HC8	Skin microbiome	
+SAMEA9576663	D52	50001008	HC	HC	0	Healthy	antecubital	t3	spring	f		HC8	Skin microbiome	
+SAMEA9576664	D53	50001008	HC	HC	0	Healthy	vertex	t3	spring	f		HC8	Skin microbiome	
+SAMEA9576665	D54	50001008	HC	HC	0	Healthy	dorsal neck	t3	spring	f		HC8	Skin microbiome	
+SAMEA9576666	D55	50001003	HC	HC	0	Healthy	glabella	t1	summer	f		HC3	Skin microbiome	
+SAMEA9576667	D56	50001003	HC	HC	0	Healthy	antecubital	t1	summer	f		HC3	Skin microbiome	
+SAMEA9576668	D57	50001003	HC	HC	0	Healthy	vertex	t1	summer	f		HC3	Skin microbiome	
+SAMEA9576669	D58	50001003	HC	HC	0	Healthy	dorsal neck	t1	summer	f		HC3	Skin microbiome	
+SAMEA9576670	D59	50001007	HC	HC	0	Healthy	glabella	t3	summer	f		HC7	Skin microbiome	
+SAMEA9576671	D60	50001011	HC	HC	0	Healthy	glabella	t1	summer	f		HC11	Skin microbiome	
+SAMEA9576672	D61	50001011	HC	HC	0	Healthy	antecubital	t1	summer	f		HC11	Skin microbiome	
+SAMEA9576673	D62	50001011	HC	HC	0	Healthy	vertex	t1	summer	f		HC11	Skin microbiome	
+SAMEA9576674	D63	50001011	HC	HC	0	Healthy	dorsal neck	t1	summer	f		HC11	Skin microbiome	
+SAMEA9576675	D64	50001003	HC	HC	0	Healthy	glabella	t3	summer	f		HC3	Skin microbiome	
+SAMEA9576676	D65	50001003	HC	HC	0	Healthy	antecubital	t3	summer	f		HC3	Skin microbiome	
+SAMEA9576677	D66	50001003	HC	HC	0	Healthy	vertex	t3	summer	f		HC3	Skin microbiome	
+SAMEA9576678	D67	50001003	HC	HC	0	Healthy	dorsal neck	t3	summer	f		HC3	Skin microbiome	
+SAMEA9576679	D69	50001001	HC	HC	0	Healthy	glabella	t1	autumn	f		HC1	Skin microbiome	
+SAMEA9576680	D70	50001001	HC	HC	0	Healthy	antecubital	t1	autumn	f		HC1	Skin microbiome	
+SAMEA9576681	D71	50001001	HC	HC	0	Healthy	vertex	t1	autumn	f		HC1	Skin microbiome	
+SAMEA9576682	D72	50001001	HC	HC	0	Healthy	dorsal neck	t1	autumn	f		HC1	Skin microbiome	
+SAMEA9576683	D73	50001010	HC	HC	0	Healthy	glabella	t1	autumn	f		HC10	Skin microbiome	
+SAMEA9576684	D74	50001010	HC	HC	0	Healthy	antecubital	t1	autumn	f		HC10	Skin microbiome	
+SAMEA9576685	D75	50001010	HC	HC	0	Healthy	vertex	t1	autumn	f		HC10	Skin microbiome	
+SAMEA9576686	D76	50001010	HC	HC	0	Healthy	dorsal neck	t1	autumn	f		HC10	Skin microbiome	
+SAMEA9576687	D77	50001001	HC	HC	0	Healthy	glabella	t3	autumn	f		HC1	Skin microbiome	
+SAMEA9576688	D78	50001001	HC	HC	0	Healthy	antecubital	t3	autumn	f		HC1	Skin microbiome	
+SAMEA9576689	D79	50001001	HC	HC	0	Healthy	vertex	t3	autumn	f		HC1	Skin microbiome	
+SAMEA9576690	D80	50001001	HC	HC	0	Healthy	dorsal neck	t3	autumn	f		HC1	Skin microbiome	
+SAMEA9576691	D81	50001009	HC	HC	0	Healthy	glabella	t1	autumn	f		HC9	Skin microbiome	
+SAMEA9576692	D82	50001009	HC	HC	0	Healthy	antecubital	t1	autumn	f		HC9	Skin microbiome	
+SAMEA9576693	D83	50001009	HC	HC	0	Healthy	vertex	t1	autumn	f		HC9	Skin microbiome	
+SAMEA9576694	D84	50001009	HC	HC	0	Healthy	dorsal neck	t1	autumn	f		HC9	Skin microbiome	
+SAMEA9576695	D85	50001010	HC	HC	0	Healthy	vertex	t3	autumn	f		HC10	Skin microbiome	
+SAMEA9576696	D87	50001009	HC	HC	0	Healthy	glabella	t3	winter	f		HC9	Skin microbiome	
+SAMEA9576697	D88	50001009	HC	HC	0	Healthy	antecubital	t3	winter	f		HC9	Skin microbiome	
+SAMEA9576698	D89	50001009	HC	HC	0	Healthy	vertex	t3	winter	f		HC9	Skin microbiome	
+SAMEA9576699	D90	50001009	HC	HC	0	Healthy	dorsal neck	t3	winter	f		HC9	Skin microbiome	
+SAMEA9576704	S10	50000035	AD	severe AD	38.1	Unaffected	glabella	t3	spring	m	yes		Skin mycobiome	
+SAMEA9576788	S100	50000061	AD	mild to moderate AD	14.4	Unaffected	vertex	t1	autumn	f	no		Skin mycobiome	
+SAMEA9576789	S101	50000061	AD	mild to moderate AD	14.4	Unaffected	dorsal neck	t1	autumn	f	no		Skin mycobiome	
+SAMEA9576790	S102	50000061	AD	mild to moderate AD	0	Unaffected	glabella	t2	autumn	f	no		Skin mycobiome	
+SAMEA9576791	S103	50000061	AD	mild to moderate AD	0	Unaffected	antecubital	t2	autumn	f	no		Skin mycobiome	
+SAMEA9576792	S104	50000061	AD	mild to moderate AD	0	Unaffected	vertex	t2	autumn	f	no		Skin mycobiome	
+SAMEA9576793	S105	50000061	AD	mild to moderate AD	0	Lesion	dorsal neck	t2	autumn	f	no		Skin mycobiome	
+SAMEA9576794	S106	50000061	AD	mild to moderate AD	0	Unaffected	glabella	t3	autumn	f	no		Skin mycobiome	
+SAMEA9576795	S107	50000061	AD	mild to moderate AD	0	Unaffected	antecubital	t3	autumn	f	no		Skin mycobiome	
+SAMEA9576796	S108	50000061	AD	mild to moderate AD	0	Unaffected	vertex	t3	autumn	f	no		Skin mycobiome	
+SAMEA9576797	S109	50000061	AD	mild to moderate AD	0	Unaffected	dorsal neck	t3	autumn	f	no		Skin mycobiome	
+SAMEA9576705	S11	50000035	AD	severe AD	38.1	Lesion	antecubital	t3	spring	m	yes		Skin mycobiome	
+SAMEA9576798	S110	50000066	AD	mild to moderate AD	42.6	Lesion	glabella	t1	autumn	m	no		Skin mycobiome	
+SAMEA9576799	S111	50000066	AD	mild to moderate AD	42.6	Lesion	antecubital	t1	autumn	m	no		Skin mycobiome	
+SAMEA9576800	S112	50000066	AD	mild to moderate AD	42.6	Unaffected	vertex	t1	autumn	m	no		Skin mycobiome	
+SAMEA9576801	S113	50000066	AD	mild to moderate AD	42.6	Lesion	dorsal neck	t1	autumn	m	no		Skin mycobiome	
+SAMEA9576802	S114	50000066	AD	mild to moderate AD	35.1	Lesion	glabella	t2	autumn	m	no		Skin mycobiome	
+SAMEA9576803	S115	50000066	AD	mild to moderate AD	35.1	Lesion	antecubital	t2	autumn	m	no		Skin mycobiome	
+SAMEA9576706	S12	50000035	AD	severe AD	38.1	Unaffected	vertex	t3	spring	m	yes		Skin mycobiome	
+SAMEA9576804	S121	50000066	AD	mild to moderate AD	42.4	Unaffected	dorsal neck	t3	autumn	m	no		Skin mycobiome	
+SAMEA9576805	S122	50000067	AD	mild to moderate AD	26.7	Unaffected	glabella	t1	autumn	f	no		Skin mycobiome	
+SAMEA9576806	S123	50000067	AD	mild to moderate AD	26.7	Lesion	antecubital	t1	autumn	f	no		Skin mycobiome	
+SAMEA9576807	S124	50000067	AD	mild to moderate AD	26.7	Unaffected	vertex	t1	autumn	f	no		Skin mycobiome	
+SAMEA9576808	S125	50000067	AD	mild to moderate AD	26.7	Lesion	dorsal neck	t1	autumn	f	no		Skin mycobiome	
+SAMEA9576809	S126	50000067	AD	mild to moderate AD	17.8	Unaffected	glabella	t2	autumn	f	no		Skin mycobiome	
+SAMEA9576810	S127	50000067	AD	mild to moderate AD	17.8	Lesion	antecubital	t2	autumn	f	no		Skin mycobiome	
+SAMEA9576811	S128	50000067	AD	mild to moderate AD	17.8	Unaffected	vertex	t2	autumn	f	no		Skin mycobiome	
+SAMEA9576812	S129	50000067	AD	mild to moderate AD	17.8	Lesion	dorsal neck	t2	autumn	f	no		Skin mycobiome	
+SAMEA9576707	S13	50000035	AD	severe AD	38.1	Lesion	dorsal neck	t3	spring	m	yes		Skin mycobiome	
+SAMEA9576813	S130	50000067	AD	mild to moderate AD	25.7	Unaffected	glabella	t3	autumn	f	no		Skin mycobiome	
+SAMEA9576814	S131	50000067	AD	mild to moderate AD	25.7	Lesion	antecubital	t3	autumn	f	no		Skin mycobiome	
+SAMEA9576815	S132	50000067	AD	mild to moderate AD	25.7	Unaffected	vertex	t3	autumn	f	no		Skin mycobiome	
+SAMEA9576816	S133	50000067	AD	mild to moderate AD	25.7	Lesion	dorsal neck	t3	autumn	f	no		Skin mycobiome	
+SAMEA9576817	S134	50000068	AD	severe AD	52	Unaffected	glabella	t1	winter	m	no		Skin mycobiome	
+SAMEA9576818	S135	50000068	AD	severe AD	52	Unaffected	antecubital	t1	winter	m	no		Skin mycobiome	
+SAMEA9576819	S139	50000068	AD	severe AD	32.3	Unaffected	antecubital	t2	winter	m	no		Skin mycobiome	
+SAMEA9576708	S14	50000037	AD	mild to moderate AD	34.1	Unaffected	glabella	t1	spring	f	no		Skin mycobiome	
+SAMEA9576820	S140	50000068	AD	severe AD	32.3	Lesion	vertex	t2	winter	m	no		Skin mycobiome	
+SAMEA9576821	S141	50000068	AD	severe AD	32.3	Lesion	dorsal neck	t2	winter	m	no		Skin mycobiome	
+SAMEA9576709	S15	50000037	AD	mild to moderate AD	34.1	Unaffected	antecubital	t1	spring	f	no		Skin mycobiome	
+SAMEA9576710	S16	50000037	AD	mild to moderate AD	34.1	Unaffected	vertex	t1	spring	f	no		Skin mycobiome	
+SAMEA9576711	S17	50000037	AD	mild to moderate AD	34.1	Unaffected	dorsal neck	t1	spring	f	no		Skin mycobiome	
+SAMEA9576712	S18	50000037	AD	mild to moderate AD	20.7	Unaffected	glabella	t2	spring	f	no		Skin mycobiome	
+SAMEA9576713	S19	50000037	AD	mild to moderate AD	20.7	Unaffected	antecubital	t2	spring	f	no		Skin mycobiome	
+SAMEA9576822	S194	50001002	HC	HC	0	Healthy	glabella	t1	spring	f			Skin mycobiome	
+SAMEA9576823	S195	50001002	HC	HC	0	Healthy	antecubital	t1	spring	f			Skin mycobiome	
+SAMEA9576824	S196	50001002	HC	HC	0	Healthy	vertex	t1	spring	f			Skin mycobiome	
+SAMEA9576825	S197	50001002	HC	HC	0	Healthy	dorsal neck	t1	spring	f			Skin mycobiome	
+SAMEA9576714	S20	50000037	AD	mild to moderate AD	20.7	Unaffected	vertex	t2	spring	f	no		Skin mycobiome	
+SAMEA9576715	S21	50000037	AD	mild to moderate AD	20.7	Lesion	dorsal neck	t2	spring	f	no		Skin mycobiome	
+SAMEA9576826	S210	50001006	HC	HC	0	Healthy	glabella	t1	spring	m			Skin mycobiome	
+SAMEA9576827	S211	50001006	HC	HC	0	Healthy	antecubital	t1	spring	m			Skin mycobiome	
+SAMEA9576828	S212	50001006	HC	HC	0	Healthy	vertex	t1	spring	m			Skin mycobiome	
+SAMEA9576829	S213	50001006	HC	HC	0	Healthy	dorsal neck	t1	spring	m			Skin mycobiome	
+SAMEA9576716	S22	50000037	AD	mild to moderate AD	24.1	Unaffected	glabella	t3	spring	f	no		Skin mycobiome	
+SAMEA9576717	S23	50000037	AD	mild to moderate AD	24.1	Lesion	antecubital	t3	spring	f	no		Skin mycobiome	
+SAMEA9576718	S24	50000037	AD	mild to moderate AD	24.1	Unaffected	vertex	t3	spring	f	no		Skin mycobiome	
+SAMEA9576719	S25	50000037	AD	mild to moderate AD	24.1	Lesion	dorsal neck	t3	spring	f	no		Skin mycobiome	
+SAMEA9576720	S26	50000038	AD	severe AD	71.5	Unaffected	glabella	t1	spring	m	no		Skin mycobiome	
+SAMEA9576721	S27	50000038	AD	severe AD	71.5	Lesion	antecubital	t1	spring	m	no		Skin mycobiome	
+SAMEA9576722	S28	50000038	AD	severe AD	71.5	Unaffected	vertex	t1	spring	m	no		Skin mycobiome	
+SAMEA9576723	S29	50000038	AD	severe AD	71.5	Lesion	dorsal neck	t1	spring	m	no		Skin mycobiome	
+SAMEA9576724	S30	50000038	AD	severe AD	70.2	Unaffected	glabella	t2	spring	m	no		Skin mycobiome	
+SAMEA9576725	S31	50000038	AD	severe AD	70.2	Lesion	antecubital	t2	spring	m	no		Skin mycobiome	
+SAMEA9576726	S32	50000038	AD	severe AD	70.2	Unaffected	vertex	t2	spring	m	no		Skin mycobiome	
+SAMEA9576727	S33	50000038	AD	severe AD	70.2	Lesion	dorsal neck	t2	spring	m	no		Skin mycobiome	
+SAMEA9576728	S34	50000038	AD	severe AD	77.4	Lesion	glabella	t3	spring	m	no		Skin mycobiome	
+SAMEA9576729	S36	50000038	AD	severe AD	77.4	Lesion	vertex	t3	spring	m	no		Skin mycobiome	
+SAMEA9576730	S37	50000038	AD	severe AD	77.4	Lesion	dorsal neck	t3	spring	m	no		Skin mycobiome	
+SAMEA9576731	S38	50000042	AD	severe AD	67.9	Lesion	glabella	t1	summer	m	yes		Skin mycobiome	
+SAMEA9576732	S39	50000042	AD	severe AD	67.9	Lesion	antecubital	t1	summer	m	yes		Skin mycobiome	
+SAMEA9576733	S40	50000042	AD	severe AD	67.9	Lesion	vertex	t1	summer	m	yes		Skin mycobiome	
+SAMEA9576734	S41	50000042	AD	severe AD	67.9	Lesion	dorsal neck	t1	summer	m	yes		Skin mycobiome	
+SAMEA9576735	S42	50000042	AD	severe AD	50.3	Lesion	glabella	t2	summer	m	yes		Skin mycobiome	
+SAMEA9576736	S43	50000042	AD	severe AD	50.3	Lesion	antecubital	t2	summer	m	yes		Skin mycobiome	
+SAMEA9576737	S44	50000042	AD	severe AD	50.3	Lesion	vertex	t2	summer	m	yes		Skin mycobiome	
+SAMEA9576738	S45	50000042	AD	severe AD	50.3	Lesion	dorsal neck	t2	summer	m	yes		Skin mycobiome	
+SAMEA9576739	S46	50000042	AD	severe AD	45.2	Unaffected	glabella	t3	summer	m	yes		Skin mycobiome	
+SAMEA9576740	S47	50000042	AD	severe AD	45.2	Lesion	antecubital	t3	summer	m	yes		Skin mycobiome	
+SAMEA9576741	S48	50000042	AD	severe AD	45.2	Unaffected	vertex	t3	summer	m	yes		Skin mycobiome	
+SAMEA9576742	S49	50000042	AD	severe AD	45.2	Lesion	dorsal neck	t3	summer	m	yes		Skin mycobiome	
+SAMEA9576743	S50	50000051	AD	mild to moderate AD	45.2	Unaffected	glabella	t1	autumn	m	no		Skin mycobiome	
+SAMEA9576744	S51	50000051	AD	mild to moderate AD	45.2	Lesion	antecubital	t1	autumn	m	no		Skin mycobiome	
+SAMEA9576745	S52	50000051	AD	mild to moderate AD	45.2	Unaffected	vertex	t1	autumn	m	no		Skin mycobiome	
+SAMEA9576746	S53	50000051	AD	mild to moderate AD	45.2	Lesion	dorsal neck	t1	autumn	m	no		Skin mycobiome	
+SAMEA9576747	S54	50000051	AD	mild to moderate AD	32.2	Unaffected	glabella	t2	autumn	m	no		Skin mycobiome	
+SAMEA9576748	S56	50000051	AD	mild to moderate AD	32.2	Unaffected	vertex	t2	autumn	m	no		Skin mycobiome	
+SAMEA9576749	S57	50000051	AD	mild to moderate AD	32.2	Lesion	dorsal neck	t2	autumn	m	no		Skin mycobiome	
+SAMEA9576750	S58	50000051	AD	mild to moderate AD	37.7	Unaffected	glabella	t3	autumn	m	no		Skin mycobiome	
+SAMEA9576751	S59	50000051	AD	mild to moderate AD	37.7	Lesion	antecubital	t3	autumn	m	no		Skin mycobiome	
+SAMEA9576700	S6	50000035	AD	severe AD	54.8	Unaffected	glabella	t2	spring	m	yes		Skin mycobiome	
+SAMEA9576752	S60	50000051	AD	mild to moderate AD	37.7	Unaffected	vertex	t3	autumn	m	no		Skin mycobiome	
+SAMEA9576753	S61	50000051	AD	mild to moderate AD	37.7	Lesion	dorsal neck	t3	autumn	m	no		Skin mycobiome	
+SAMEA9576754	S62	50000052	AD	severe AD	63.2	Unaffected	glabella	t1	summer	m	no		Skin mycobiome	
+SAMEA9576755	S63	50000052	AD	severe AD	63.2	Lesion	antecubital	t1	summer	m	no		Skin mycobiome	
+SAMEA9576756	S64	50000052	AD	severe AD	63.2	Unaffected	vertex	t1	summer	m	no		Skin mycobiome	
+SAMEA9576757	S65	50000052	AD	severe AD	63.2	Lesion	dorsal neck	t1	summer	m	no		Skin mycobiome	
+SAMEA9576758	S66	50000052	AD	severe AD	64.5		glabella	t2	summer	m	no		Skin mycobiome	
+SAMEA9576759	S67	50000052	AD	severe AD	64.5	Lesion	antecubital	t2	summer	m	no		Skin mycobiome	
+SAMEA9576760	S68	50000052	AD	severe AD	64.5	Unaffected	vertex	t2	summer	m	no		Skin mycobiome	
+SAMEA9576761	S69	50000052	AD	severe AD	64.5		dorsal neck	t2	summer	m	no		Skin mycobiome	
+SAMEA9576701	S7	50000035	AD	severe AD	54.8	Lesion	antecubital	t2	spring	m	yes		Skin mycobiome	
+SAMEA9576762	S70	50000052	AD	severe AD	79.1	Unaffected	glabella	t3	summer	m	no		Skin mycobiome	
+SAMEA9576763	S71	50000052	AD	severe AD	79.1	Lesion	antecubital	t3	summer	m	no		Skin mycobiome	
+SAMEA9576764	S73	50000052	AD	severe AD	79.1	Lesion	dorsal neck	t3	summer	m	no		Skin mycobiome	
+SAMEA9576765	S74	50000053	AD	severe AD	71.9	Lesion	glabella	t1	summer	f	yes		Skin mycobiome	
+SAMEA9576766	S75	50000053	AD	severe AD	71.9	Lesion	antecubital	t1	summer	f	yes		Skin mycobiome	
+SAMEA9576767	S76	50000053	AD	severe AD	71.9	Lesion	vertex	t1	summer	f	yes		Skin mycobiome	
+SAMEA9576768	S78	50000053	AD	severe AD	66	Lesion	glabella	t2	summer	f	yes		Skin mycobiome	
+SAMEA9576769	S79	50000053	AD	severe AD	66	Lesion	antecubital	t2	summer	f	yes		Skin mycobiome	
+SAMEA9576702	S8	50000035	AD	severe AD	54.8	Lesion	vertex	t2	spring	m	yes		Skin mycobiome	
+SAMEA9576770	S80	50000053	AD	severe AD	66	Unaffected	vertex	t2	summer	f	yes		Skin mycobiome	
+SAMEA9576771	S81	50000053	AD	severe AD	66	Lesion	dorsal neck	t2	summer	f	yes		Skin mycobiome	
+SAMEA9576772	S82	50000053	AD	severe AD	56.1	Unaffected	glabella	t3	summer	f	yes		Skin mycobiome	
+SAMEA9576773	S83	50000053	AD	severe AD	56.1	Lesion	antecubital	t3	summer	f	yes		Skin mycobiome	
+SAMEA9576774	S84	50000053	AD	severe AD	56.1	Unaffected	vertex	t3	summer	f	yes		Skin mycobiome	
+SAMEA9576775	S85	50000053	AD	severe AD	56.1	Lesion	dorsal neck	t3	summer	f	yes		Skin mycobiome	
+SAMEA9576776	S86	50000054	AD	severe AD	50.9	Lesion	glabella	t1	summer	m	yes		Skin mycobiome	
+SAMEA9576777	S87	50000054	AD	severe AD	50.9	Lesion	antecubital	t1	summer	m	yes		Skin mycobiome	
+SAMEA9576778	S88	50000054	AD	severe AD	50.9	Lesion	vertex	t1	summer	m	yes		Skin mycobiome	
+SAMEA9576779	S89	50000054	AD	severe AD	50.9	Lesion	dorsal neck	t1	summer	m	yes		Skin mycobiome	
+SAMEA9576703	S9	50000035	AD	severe AD	54.8	Lesion	dorsal neck	t2	spring	m	yes		Skin mycobiome	
+SAMEA9576780	S90	50000054	AD	severe AD	31.6	Lesion	glabella	t2	summer	m	yes		Skin mycobiome	
+SAMEA9576781	S93	50000054	AD	severe AD	31.6	Lesion	dorsal neck	t2	summer	m	yes		Skin mycobiome	
+SAMEA9576782	S94	50000054	AD	severe AD	40.5	Lesion	glabella	t3	summer	m	yes		Skin mycobiome	
+SAMEA9576783	S95	50000054	AD	severe AD	40.5	Lesion	antecubital	t3	summer	m	yes		Skin mycobiome	
+SAMEA9576784	S96	50000054	AD	severe AD	40.5	Unaffected	vertex	t3	summer	m	yes		Skin mycobiome	
+SAMEA9576785	S97	50000054	AD	severe AD	40.5	Unaffected	dorsal neck	t3	summer	m	yes		Skin mycobiome	
+SAMEA9576786	S98	50000061	AD	mild to moderate AD	14.4	Unaffected	glabella	t1	autumn	f	no		Skin mycobiome	
+SAMEA9576787	S99	50000061	AD	mild to moderate AD	14.4	Unaffected	antecubital	t1	autumn	f	no		Skin mycobiome	

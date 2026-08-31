@@ -33,7 +33,7 @@
 | `assay` | 75/75 | 16S | 마커 종류 |
 | `region` | 75/75 | V3-V4 | 증폭 영역. **다르면 ASV 수준 병합 불가** |
 | `group` | 75/75 | 0W / 2W / 4W | 비교군 라벨 |
-| `group_type` | 75/75 | skincare_time | group이 무슨 축인지 (age / sensitivity / acne / metformin_time) |
+| `group_type` | 75/75 | skincare_time | group이 무슨 축인지 (age / sensitivity / acne / metformin_time / atopic_dermatitis / psoriasis / scalp_disease / rosacea_sampletype / ad_acne) |
 | `age` | 0/75 | (전부 빈 칸) | 나이 (세) |
 | `age_group` | 0/75 | (전부 빈 칸) | 연령군 코드 |
 | `sex` | 75/75 | female | 성별 |
@@ -64,7 +64,16 @@
 
 다양성 지표는 **논문이 보고한 값**이라 우리가 계산한 `Shannon`·`Observed`와 나란히 놓고 비교할 수 있다 (실측 상관 rho=+0.86, 값의 범위는 다르다).
 
-피부 물성치(수분·거칠기·피지·pH)는 논문이 군 평균만 보고해 붙일 수 없다.
+⚠ **피부 물성치는 샘플에 붙일 수 없다.** 논문이 Figure 3에 그림으로만 싣고 표로 내지 않았다. BioSample에도 없다(`collection date`는 75개 전부 등록일로 동일). 저자는 샘플 단위 값을 갖고 있었지만(Figure 4a가 샘플별 CCA, Figure 5가 Spearman 상관) 그림에서 좌표를 따내면 없는 정밀도를 지어내는 셈이라 하지 않았다.
+
+대신 **논문이 본문에 숫자로 보고한 값** 두 가지를 참조표로 넣었다. 둘 다 `clinical_data/`에 있고 **샘플에 조인된 값이 아니다**:
+
+- `07_skincare_paper_reported.tsv` — 시점별 물성치 평균±SD (수분 36.15→46.55→48.89 A.U., 거칠기 5.72→8.07→9.49 SEr. 피지·pH는 "거의 동일"이라고만 서술하고 수치를 안 냈다)
+- `07_skincare_paper_correlations.tsv` — 논문이 보고한 분류군–물성치 Spearman 상관 8건 (Bacillaceae–거칠기 r=0.76 등)
+
+이 스터디는 이미 Shannon에서 논문값과 rho=+0.86을 확인했다. 여기에 상관계수까지 대조하면 **자기 계산이 맞는지 스스로 점검**할 수 있다.
+
+ℹ `panel` 컬럼은 75개 전부 `P1`이라 분석 축으로 쓸 수 없다. 개인별 나이도 논문에 없다(25명 30–58세, 평균 43세라는 범위만 보고).
 
 `sample_info`에 이미 병합돼 있지만, 논문 단위 원본 표가 필요할 때 쓴다 (샘플 단위 1행 — run 단위가 아니다).
 

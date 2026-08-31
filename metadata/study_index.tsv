@@ -8,3 +8,15 @@ label	study	project	unit	target	region	n_samples	n_genus	n_genus_long	group_leve
 04_acne_ITS	여드름 (J Microbiol 2021)	PRJNA669317	ITS1	ITS (진균)	ITS1	53	183	77	Acne / Healthy	1	10
 05_metformin_16S	메트포르민 장내 (PLoS One 2018)	PRJEB24497	all	16S (세균)	V3	53	229	130	M0 / M24h / M7d	0	5
 07_skincare_16S	화장품 중재 (MicrobiologyOpen 2021)	PRJEB44885	all	16S (세균)	V3-V4	75	696	171	0W / 2W / 4W	0	5
+08_atopic_16S	아토피 피부염 (Microorganisms 2021)	PRJEB42898	all	16S (세균)		466	1160	170	AD / Control	0	4
+09_acne_dk_16S	여드름·이소트레티노인 (JEADV Clin Pract 2024)	PRJNA1044749	all	16S (세균)		181	536	161	Acne / Healthy	0	8
+10_psoriasis_16S	건선 6부위 (Microbiome 2018)	PRJEB25915	all	16S (세균)		417	1600	240	Healthy / Psoriasis lesional / Psoriasis non-lesional	0	3
+11_scalp_16S	두피 건선·지루피부염 (Exp Dermatol 2022)	PRJNA788988	all	16S (세균)		187	1832	185	Healthy / Psoriasis lesional / Psoriasis non-lesional / Seborrheic dermatitis lesional / Seborrheic dermatitis non-lesional	0	0
+12_rosacea_16S	주사 피부·장·혈액 (Microorganisms 2024)	PRJNA1189573	all	16S (세균)		92	392	250	Blood / Skin / Stool	0	0
+13_lipid_16S	지질-미생물 여드름·아토피 (Helmholtz Munich)	PRJEB66070	all	16S (세균)		111	448	128	Acne vulgaris lesional / Acne vulgaris non-lesional / Atopic dermatitis lesional / Atopic dermatitis non-lesional / Healthy	0	0
+11_scalp_ITS	두피 건선·지루피부염 (Exp Dermatol 2022)	PRJNA789592	all	ITS (진균)		186	1326	133	Healthy / Psoriasis lesional / Psoriasis non-lesional / Seborrheic dermatitis lesional / Seborrheic dermatitis non-lesional	0	0
+14_atopic_zh_16S	아토피 종단 (취리히대)	PRJEB44392_16S	all	16S (세균)		322	1008	137	Atopic dermatitis / Atopic dermatitis lesional / Atopic dermatitis non-lesional / Healthy	0	7
+14_atopic_zh_ITS	아토피 종단 (취리히대)	PRJEB44392_ITS	all	ITS (진균)		321	767	161	Atopic dermatitis / Atopic dermatitis lesional / Atopic dermatitis non-lesional / Healthy	0	5
+15_season_16S	사계절 가구 코호트 (Microbiome 2018)	PRJNA390040	all	16S (세균)		483	1328	258	Household cohort / 음성대조	0	5
+15_season_ITS	사계절 가구 코호트 (mSystems 2019)	PRJNA421247	all	ITS (진균)		474	971	174	Household cohort / 음성대조	0	2
+17_ad_myco_ITS	아토피 마이코바이옴 (Exp Dermatol 2025)	PRJNA1046129	all	ITS (진균)		100	425	113	Atopic dermatitis / Healthy	0	1

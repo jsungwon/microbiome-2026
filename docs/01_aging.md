@@ -39,7 +39,7 @@
 | `assay` | 55/55 | 16S+ITS_pooled | 마커 종류 |
 | `region` | 55/55 | V4-V5+ITS1 | 증폭 영역. **다르면 ASV 수준 병합 불가** |
 | `group` | 55/55 | O / Y | 비교군 라벨 |
-| `group_type` | 55/55 | age | group이 무슨 축인지 (age / sensitivity / acne / metformin_time) |
+| `group_type` | 55/55 | age | group이 무슨 축인지 (age / sensitivity / acne / metformin_time / atopic_dermatitis / psoriasis / scalp_disease / rosacea_sampletype / ad_acne) |
 | `age` | 55/55 | 19 ~ 63 | 나이 (세) |
 | `age_group` | 55/55 | O / Y | 연령군 코드 |
 | `sex` | 55/55 | female | 성별 |
@@ -83,7 +83,7 @@
 | `assay` | 58/58 | 16S+ITS_pooled | 마커 종류 |
 | `region` | 58/58 | V4-V5+ITS1 | 증폭 영역. **다르면 ASV 수준 병합 불가** |
 | `group` | 58/58 | O / Y | 비교군 라벨 |
-| `group_type` | 58/58 | age | group이 무슨 축인지 (age / sensitivity / acne / metformin_time) |
+| `group_type` | 58/58 | age | group이 무슨 축인지 (age / sensitivity / acne / metformin_time / atopic_dermatitis / psoriasis / scalp_disease / rosacea_sampletype / ad_acne) |
 | `age` | 58/58 | 19 ~ 63 | 나이 (세) |
 | `age_group` | 58/58 | O / Y | 연령군 코드 |
 | `sex` | 58/58 | female | 성별 |

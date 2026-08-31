@@ -14,15 +14,24 @@
 | 05 | 메트포르민 **장내** | *Association of metformin administration with gut microbiome dysbiosis in healthy volunteers*<br>PLoS One 13(9):e0204317 (2018) | [10.1371/journal.pone.0204317](https://doi.org/10.1371/journal.pone.0204317) | `PRJEB24497` |
 | 07 | 화장품 중재 | *Effect of the skincare product on facial skin microbial structure and biophysical parameters*<br>MicrobiologyOpen 10(5):e1236 (2021) | [10.1002/mbo3.1236](https://doi.org/10.1002/mbo3.1236) | `PRJEB44885` |
 | 06 | 화장품·피부수분 | *Effects of cosmetics on the skin microbiome of facial cheeks with different hydration levels*<br>MicrobiologyOpen 7(2):e00557 (2018) | [10.1002/mbo3.557](https://doi.org/10.1002/mbo3.557) | `PRJNA345237` / `SRP090974` |
+| 08 | 아토피 피부염 | *Staphylococcal Communities on Skin Are Associated with Atopic Dermatitis and Disease Severity*<br>Microorganisms 9(2):432 (2021) | [10.3390/microorganisms9020432](https://doi.org/10.3390/microorganisms9020432) | `PRJEB42898` |
+| 09 | 여드름·이소트레티노인 | *Cutibacterium and Staphylococcus dysbiosis of the skin microbiome in acne and its decline after isotretinoin treatment*<br>JEADV Clin Pract 3(5):1454–1466 (2024) | [10.1002/jvc2.487](https://doi.org/10.1002/jvc2.487) | `PRJNA1044749` |
+| 10 | 건선 다부위 | *Alteration of the cutaneous microbiome in psoriasis and potential role in Th17 polarization*<br>Microbiome 6:154 (2018) | [10.1186/s40168-018-0533-1](https://doi.org/10.1186/s40168-018-0533-1) | `PRJEB25915` |
+| 11 | 두피 건선·지루피부염 | *Skin microbiome signatures associated with psoriasis and seborrheic dermatitis*<br>Exp Dermatol 31(7):1116–1118 (2022) | [10.1111/exd.14618](https://doi.org/10.1111/exd.14618) | `PRJNA788988` |
+| 12 | 주사 — 피부·장·혈액 | *Characteristics of the Stool, Blood and Skin Microbiome in Rosacea Patients*<br>Microorganisms 12(12):2667 (2024) | [10.3390/microorganisms12122667](https://doi.org/10.3390/microorganisms12122667) | `PRJNA1189573` |
+| 13 | 지질–미생물 (여드름·아토피) | *Shotgun-lipidomics reveals disease specific microbiome-lipid correlations in acne vulgaris and atopic dermatitis*<br>미게재 데이터셋 (Helmholtz Munich) | — | `PRJEB66070` |
 
-01·03·04는 중앙대 + 아모레퍼시픽, 02는 서울대 연구다.
-**05만 피부가 아니라 장내(분변)이고 라트비아 코호트다** — 다른 넷과 부위·집단·플랫폼이 모두 다르다.
+**01–07은 한국인 코호트**(01·03·04 중앙대+아모레퍼시픽, 02 서울대, 07 LG생활건강)이고,
+**08–13은 질환 코호트**로 덴마크·미국·중국·헝가리·독일에서 왔다.
+피부가 아닌 검체가 둘 있다 — **05는 장내(분변)**, **12는 피부·대변·혈액 세 가지**다.
+집단·부위·플랫폼이 다르므로 스터디를 가로질러 합칠 때는 반드시 배치 효과를 의심할 것.
 
 ## 원시데이터 내려받기
 
 - **출처**: ENA (European Nucleotide Archive) FTP
-- **시점**: 2026-08-25
-- **규모**: 8 accession · 482 run · 911 파일 · 10.2 GB
+- **시점**: 2026-08-25 (01–07) · 2026-08-30 (08–13)
+- **규모**: 15 accession · 2,012 run · 3,784 파일 · 54.6 GB
+  (01–07 9 accession 557 run 11.7 GB + 08–13 6 accession 1,455 run 42.9 GB)
 - **검증**: 모든 파일을 **ENA 등록 md5와 대조**해 일치 확인 (실패 0건)
 
 원시 FASTQ는 이 저장소에 넣지 않았다 (`example_fastq/`의 예제 1쌍만 포함).
@@ -41,6 +50,12 @@
 | 05 메트포르민 | **S1.2 Table (docx) — 셀 배경색 인코딩** | journals.plos.org |
 | 06 화장품 | Supplementary Table 1 (docx) | EuropePMC (PMC5911989) |
 | 07 화장품 중재 | Table A2 (본문 부록) | EuropePMC (PMC8494714) |
+| 08 아토피 | **저자 GitHub 저장소의 ENA 제출 시트 (xls)** | `github.com/ssi-dk/AD_staphylome_project` |
+| 09 여드름 DK | (미확보 — Wiley 403) | 샘플명에서 군·부위만 복원 |
+| 10 건선 | **BioSample 속성** — 논문 보충자료가 아니다 | ENA `browser/api/xml` |
+| 11 두피 | (없음 — 2쪽 연구서한) | 샘플명에서 복원 |
+| 12 주사 | 논문 Table 1 (**군 단위만**) | PMC11728485 |
+| 13 지질–미생물 | (없음 — 미게재) | 샘플명에서 복원 |
 
 ### 추출하면서 확인한 것
 
@@ -57,6 +72,41 @@
   논문 보고치와 정확히 일치한다.
   ⚠ `Subject_N` → ENA `S{N}` 대응은 **추론**이다(둘 다 1–18, 같은 논문·같은 순서).
   나이·성별·BMI는 중앙값만 보고돼 피험자별로는 붙일 수 없다.
+
+## 08–13 처리에서 걸러낸 함정
+
+이 여섯 데이터셋은 등록된 그대로 파이프라인에 넣으면 **오류 없이 끝나면서 조용히 틀린다.**
+실제로 실측해서 잡아낸 것들이다.
+
+| # | 함정 | 그냥 돌렸다면 |
+|---|---|---|
+| 08 | 프라이머 앞에 **0/2/7bp 가변 스페이서**(phased primer). 앵커(`^`) 매칭은 34%만 잡고, `--discard-untrimmed`가 양쪽을 요구해 손실이 곱해진다 | 리드 **80% 손실** |
+| 08 | 스페이서 때문에 트리밍 후 길이가 276–284bp인데 `truncLen 280`. DADA2는 짧은 리드를 자르는 게 아니라 **버린다** | 리드 **22% 추가 손실** |
+| 09 | 품질값이 전 염기 `?`(Q30) **단일 상수**. loess 적합 불가 | `Error matrix is NULL`로 **즉시 중단** |
+| 10 | 샘플명 접미 `B`는 등(Back)이 아니라 **둔부 주름** | 67샘플 **부위 오분류** |
+| 10 | 인서트 465–497bp인데 품질만 보면 260/220이 자연스럽다 | 병합 **55%**, 긴 분류군 소실 |
+| 11 | 제출물이 원시 리드가 아니라 **이미 병합된 서열**(409/429bp) | paired 처리 시 전량 실패 |
+| 11 | BioProject 설명의 **환자 수가 논문과 뒤바뀜** | 건선/지루피부염 **라벨 교체** |
+| 12 | 혈액이 **저바이오매스** | 시약 오염을 실제 신호로 해석 |
+| 13 | **파일 단위로 R1/R2가 뒤집힘** (111런 중 58런) | 같은 균이 **두 ASV로 분리** |
+| 13 | `S1` 같은 앞 번호가 피험자가 아니라 **매칭 세트** | 서로 다른 두 사람이 **한 명으로 합쳐짐** |
+
+교훈은 하나다 — **요약 지표(병합률·다양성)는 이 함정들을 거의 다 통과시킨다.**
+새 데이터를 넣을 때는 프라이머 시작 위치, 트리밍 후 길이 분포, 앰플리콘 전장 분포를
+직접 재고 `track_reads.tsv`의 단계별 보존율을 확인해야 한다.
+
+### 09번 임상정보는 절반만 있다
+
+논문 Table S1A/S1B에 개인별 연령·성별·IGA 중증도가 있지만
+Wiley가 보충자료 내려받기를 403으로 막아 확보하지 못했다.
+군(여드름/건강)·부위(볼/등/이마)·피험자는 샘플명에서 전부 복원했다.
+기관 구독이 있으면 `jvc2487-sup-0003-Table_S1_rev.xlsx`를 받아 `sample_id`로 붙이면 된다.
+
+### 11번 군 라벨을 논문 쪽으로 정한 근거
+
+BioProject 설명은 "건선 45 / 지루피부염 37"이라고 적었지만 논문은 그 반대다.
+등록된 샘플의 **고유 피험자 수가 `SD` 45명 / `P` 37명 / `HC` 30명**으로
+**논문과 정확히 일치**하므로 논문을 따랐다 (SD=지루피부염, P=건선).
 
 ## ⚠ 06 화장품 — 시퀀스를 샘플별로 나눌 수 없다
 
@@ -75,6 +125,8 @@ SRA에 올라온 것은 **run 2개**뿐이고 확인 결과:
 
 - **`PRJNA613934`** — `PRJNA614620`과 50개 샘플이 리드까지 동일한 중복 등록이라 제외했다.
 - **`PRJNA673754`** — `PRJNA669317`과 66개 중 58개가 동일 파일이라 제외했다.
+- **08번의 `tuf` 466런, 09번의 `SLST` 151런·`tuf2` 85런** — 같은 프로젝트에 함께 등록돼 있지만
+  단일유전자 타이핑이라 SILVA로 분류할 수 없다. 16S 런만 골라 처리했다.
 - 조사 대상이었던 나머지 9개 스터디(두피 AGA, 화상, 쌍둥이, 식이 등)는
   **샘플별 임상정보를 얻지 못해** 대상에서 뺐다. 논문이 변수를 보고하더라도
   보충표가 군 요약(mean±SD)뿐이면 샘플에 붙일 수 없다.
@@ -91,5 +143,5 @@ SRA에 올라온 것은 **run 2개**뿐이고 확인 결과:
 ## 라이선스·인용
 
 원 데이터는 각 논문 저자의 것이고 ENA/SRA에 공개되어 있다.
-이 자료를 쓴 결과를 발표할 때는 **위 표의 원 논문 4편을 인용**해야 한다.
+이 자료를 쓴 결과를 발표할 때는 **위 표의 원 논문을 인용**해야 한다.
 이 저장소는 수업 목적의 재가공물이다.

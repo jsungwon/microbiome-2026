@@ -1,0 +1,393 @@
+genus	Kingdom	Phylum	Class	Order	Family	mean_rel_abund_pct
+Escherichia-Shigella	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	18.6186
+Sphingobium	Bacteria	Pseudomonadota	Alphaproteobacteria	Sphingomonadales	Sphingomonadaceae	9.0903
+Staphylococcus	Bacteria	Bacillota	Bacilli	Staphylococcales	Staphylococcaceae	6.7404
+Enhydrobacter	Bacteria	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	5.8252
+Acinetobacter	Bacteria	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	5.7535
+Cutibacterium	Bacteria	Actinomycetota	Actinobacteria	Propionibacteriales	Propionibacteriaceae	5.4664
+Unassigned	Bacteria	Cyanobacteriota	Cyanobacteriia	Chloroplast		4.2111
+Aquabacterium	Bacteria	Pseudomonadota	Gammaproteobacteria	Burkholderiales	Comamonadaceae	3.7645
+Finegoldia	Bacteria	Bacillota	Clostridia	Peptostreptococcales-Tissierellales	Family XI	3.0088
+Corynebacterium	Bacteria	Actinomycetota	Actinobacteria	Mycobacteriales	Corynebacteriaceae	2.3513
+Peptoniphilus	Bacteria	Bacillota	Clostridia	Peptostreptococcales-Tissierellales	Family XI	2.268
+Bacteroides	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	1.7835
+Streptococcus	Bacteria	Bacillota	Bacilli	Lactobacillales	Streptococcaceae	1.7666
+Curvibacter	Bacteria	Pseudomonadota	Gammaproteobacteria	Burkholderiales	Comamonadaceae	1.4909
+Anaerococcus	Bacteria	Bacillota	Clostridia	Peptostreptococcales-Tissierellales	Family XI	1.4183
+Mycobacterium	Bacteria	Actinomycetota	Actinobacteria	Mycobacteriales	Mycobacteriaceae	1.3285
+Sphingopyxis	Bacteria	Pseudomonadota	Alphaproteobacteria	Sphingomonadales	Sphingomonadaceae	0.9896
+Bradyrhizobium	Bacteria	Pseudomonadota	Alphaproteobacteria	Hyphomicrobiales	Xanthobacteraceae	0.9413
+Micrococcus	Bacteria	Actinomycetota	Actinobacteria	Micrococcales	Micrococcaceae	0.9069
+Paracoccus	Bacteria	Pseudomonadota	Alphaproteobacteria	Rhodobacterales	Paracoccaceae	0.8054
+Prevotella	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	0.7845
+Brevibacterium	Bacteria	Actinomycetota	Actinobacteria	Micrococcales	Brevibacteriaceae	0.6756
+Burkholderia-Caballeronia-Paraburkholderia	Bacteria	Pseudomonadota	Gammaproteobacteria	Burkholderiales	Burkholderiaceae	0.6083
+Porphyromonas	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Porphyromonadaceae	0.6075
+Sphingomonas	Bacteria	Pseudomonadota	Alphaproteobacteria	Sphingomonadales	Sphingomonadaceae	0.5714
+Campylobacter	Bacteria	Campylobacterota	Campylobacteria	Campylobacterales	Campylobacteraceae	0.4949
+Fenollaria	Bacteria	Bacillota	Clostridia	Peptostreptococcales-Tissierellales	Family XI	0.4861
+Acidovorax	Bacteria	Pseudomonadota	Gammaproteobacteria	Burkholderiales	Comamonadaceae	0.4845
+Methylorubrum	Bacteria	Pseudomonadota	Alphaproteobacteria	Hyphomicrobiales	Beijerinckiaceae	0.4765
+Faecalibacterium	Bacteria	Bacillota	Clostridia	Oscillospirales	Ruminococcaceae	0.412
+Blautia	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	0.4107
+Proteus	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Morganellaceae	0.4019
+Agrobacterium	Bacteria	Pseudomonadota	Alphaproteobacteria	Hyphomicrobiales	Rhizobiaceae	0.3882
+Bosea	Bacteria	Pseudomonadota	Alphaproteobacteria	Hyphomicrobiales	Beijerinckiaceae	0.3592
+Cloacibacterium	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	Weeksellaceae	0.3389
+Ruminococcus	Bacteria	Bacillota	Clostridia	Oscillospirales	Ruminococcaceae	0.2822
+Hoylesella	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	0.278
+Akkermansia	Bacteria	Verrucomicrobiota	Verrucomicrobiia	Verrucomicrobiales	Akkermansiaceae	0.2373
+Acidaminococcus	Bacteria	Bacillota	Negativicutes	Acidaminococcales	Acidaminococcaceae	0.2371
+Parabacteroides	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Tannerellaceae	0.2286
+Mediterraneibacter	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	0.2253
+Delftia	Bacteria	Pseudomonadota	Gammaproteobacteria	Burkholderiales	Comamonadaceae	0.2214
+Bacillus	Bacteria	Bacillota	Bacilli	Bacillales	Bacillaceae	0.2197
+Stenotrophomonas	Bacteria	Pseudomonadota	Gammaproteobacteria	Lysobacterales	Lysobacteraceae	0.2077
+Dialister	Bacteria	Bacillota	Negativicutes	Veillonellales-Selenomonadales	Veillonellaceae	0.2015
+UCG-002	Bacteria	Bacillota	Clostridia	Oscillospirales	Oscillospiraceae	0.197
+Peptostreptococcus	Bacteria	Bacillota	Clostridia	Peptostreptococcales-Tissierellales	Peptostreptococcaceae	0.1965
+Cupriavidus	Bacteria	Pseudomonadota	Gammaproteobacteria	Burkholderiales	Burkholderiaceae	0.1944
+Coprococcus	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	0.1859
+Lactococcus	Bacteria	Bacillota	Bacilli	Lactobacillales	Streptococcaceae	0.1849
+Diaphorobacter	Bacteria	Pseudomonadota	Gammaproteobacteria	Burkholderiales	Comamonadaceae	0.1831
+Alistipes	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Rikenellaceae	0.1745
+Sporocytophaga	Bacteria	Bacteroidota	Bacteroidia	Cytophagales	Cytophagaceae	0.1731
+Gemella	Bacteria	Bacillota	Bacilli	Staphylococcales	Gemellaceae	0.1719
+Rubellimicrobium	Bacteria	Pseudomonadota	Alphaproteobacteria	Rhodobacterales	Paracoccaceae	0.1719
+Agathobacter	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	0.1716
+Sutterella	Bacteria	Pseudomonadota	Gammaproteobacteria	Burkholderiales	Sutterellaceae	0.1671
+Brevundimonas	Bacteria	Pseudomonadota	Alphaproteobacteria	Caulobacterales	Caulobacteraceae	0.1657
+Fusobacterium	Bacteria	Fusobacteriota	Fusobacteriia	Fusobacteriales	Fusobacteriaceae	0.164
+Ezakiella	Bacteria	Bacillota	Clostridia	Peptostreptococcales-Tissierellales	Family XI	0.1602
+Lawsonella	Bacteria	Actinomycetota	Actinobacteria	Mycobacteriales	Corynebacteriaceae	0.1599
+S5-A14a	Bacteria	Bacillota	Clostridia	Peptostreptococcales-Tissierellales	Anaerovoracaceae	0.1596
+Lactobacillus	Bacteria	Bacillota	Bacilli	Lactobacillales	Lactobacillaceae	0.1579
+Gemmiger	Bacteria	Bacillota	Clostridia	Oscillospirales	Ruminococcaceae	0.1547
+Atopostipes	Bacteria	Bacillota	Bacilli	Lactobacillales	Carnobacteriaceae	0.1537
+Listeria	Bacteria	Bacillota	Bacilli	Lactobacillales	Listeriaceae	0.1427
+Enterococcus	Bacteria	Bacillota	Bacilli	Lactobacillales	Enterococcaceae	0.1382
+Alkanindiges	Bacteria	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	0.1351
+Christensenellaceae R-7 group	Bacteria	Bacillota	Clostridia	Christensenellales	Christensenellaceae	0.1333
+Schaalia	Bacteria	Actinomycetota	Actinobacteria	Actinomycetales	Actinomycetaceae	0.1287
+Bifidobacterium	Bacteria	Actinomycetota	Actinobacteria	Bifidobacteriales	Bifidobacteriaceae	0.1278
+Nitrospirillum	Bacteria	Pseudomonadota	Alphaproteobacteria	Azospirillales	Azospirillaceae	0.1235
+Brachybacterium	Bacteria	Actinomycetota	Actinobacteria	Micrococcales	Dermabacteraceae	0.1223
+Anaerostipes	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	0.1148
+Murdochiella	Bacteria	Bacillota	Clostridia	Peptostreptococcales-Tissierellales	Family XI	0.1126
+Deinococcus	Bacteria	Deinococcota	Deinococci	Deinococcales	Deinococcaceae	0.1123
+Glutamicibacter	Bacteria	Actinomycetota	Actinobacteria	Micrococcales	Micrococcaceae	0.1088
+Anaerobutyricum	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	0.1086
+Collinsella	Bacteria	Actinomycetota	Coriobacteriia	Coriobacteriales	Coriobacteriaceae	0.1061
+Halomonas	Bacteria	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Halomonadaceae	0.1058
+Roseomonas	Bacteria	Pseudomonadota	Alphaproteobacteria	Acetobacterales	Acetobacteraceae	0.1057
+Pleurocapsa PCC-7319	Bacteria	Cyanobacteriota	Cyanobacteriia	Cyanobacteriales	Xenococcaceae	0.0986
+Kocuria	Bacteria	Actinomycetota	Actinobacteria	Micrococcales	Micrococcaceae	0.0939
+Pleomorphomonas	Bacteria	Pseudomonadota	Alphaproteobacteria	Hyphomicrobiales	Pleomorphomonadaceae	0.0923
+Methylobacterium	Bacteria	Pseudomonadota	Alphaproteobacteria	Hyphomicrobiales	Beijerinckiaceae	0.0898
+Neomicrococcus	Bacteria	Actinomycetota	Actinobacteria	Micrococcales	Micrococcaceae	0.0896
+Clostridium	Bacteria	Bacillota	Clostridia	Clostridiales	Clostridiaceae	0.0886
+Megasphaera	Bacteria	Bacillota	Negativicutes	Veillonellales-Selenomonadales	Veillonellaceae	0.085
+Paenarthrobacter	Bacteria	Actinomycetota	Actinobacteria	Micrococcales	Micrococcaceae	0.0815
+Dermacoccus	Bacteria	Actinomycetota	Actinobacteria	Micrococcales	Dermacoccaceae	0.0807
+Dorea	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	0.0756
+Veillonella	Bacteria	Bacillota	Negativicutes	Veillonellales-Selenomonadales	Veillonellaceae	0.0752
+Nocardioides	Bacteria	Actinomycetota	Actinobacteria	Propionibacteriales	Nocardioidaceae	0.0743
+Noviherbaspirillum	Bacteria	Pseudomonadota	Gammaproteobacteria	Burkholderiales	Oxalobacteraceae	0.0733
+Romboutsia	Bacteria	Bacillota	Clostridia	Peptostreptococcales-Tissierellales	Peptostreptococcaceae	0.0708
+Alloscardovia	Bacteria	Actinomycetota	Actinobacteria	Bifidobacteriales	Bifidobacteriaceae	0.0678
+Aerococcus	Bacteria	Bacillota	Bacilli	Lactobacillales	Aerococcaceae	0.0669
+Enterocloster	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	0.066
+Metabacillus	Bacteria	Bacillota	Bacilli	Bacillales	Bacillaceae	0.0658
+Fusicatenibacter	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	0.0642
+Pseudoclavibacter	Bacteria	Actinomycetota	Actinobacteria	Micrococcales	Microbacteriaceae	0.0638
+Dermabacter	Bacteria	Actinomycetota	Actinobacteria	Micrococcales	Dermabacteraceae	0.0621
+Gardnerella	Bacteria	Actinomycetota	Actinobacteria	Bifidobacteriales	Bifidobacteriaceae	0.0616
+Bergeyella	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	Weeksellaceae	0.0611
+Roseburia	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	0.0603
+Pseudomonas	Bacteria	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	0.059
+Mucilaginibacter	Bacteria	Bacteroidota	Bacteroidia	Sphingobacteriales	Sphingobacteriaceae	0.0586
+Dechloromonas	Bacteria	Pseudomonadota	Gammaproteobacteria	Burkholderiales	Rhodocyclaceae	0.0576
+Enterobacter	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	0.0576
+Prevotellaceae UCG-001	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	0.0564
+Rhodococcus	Bacteria	Actinomycetota	Actinobacteria	Mycobacteriales	Nocardiaceae	0.0553
+Methylocella	Bacteria	Pseudomonadota	Alphaproteobacteria	Hyphomicrobiales	Beijerinckiaceae	0.0548
+Ralstonia	Bacteria	Pseudomonadota	Gammaproteobacteria	Burkholderiales	Burkholderiaceae	0.0546
+Phascolarctobacterium	Bacteria	Bacillota	Negativicutes	Acidaminococcales	Acidaminococcaceae	0.054
+Barnesiella	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Barnesiellaceae	0.0537
+Comamonas	Bacteria	Pseudomonadota	Gammaproteobacteria	Burkholderiales	Comamonadaceae	0.0522
+Hungatella	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	0.0522
+Fastidiosipila	Bacteria	Bacillota	Clostridia	Oscillospirales	Oscillospiraceae	0.052
+Peptococcus	Bacteria	Bacillota	Clostridia	Peptococcales	Peptococcaceae	0.0513
+Massilia	Bacteria	Pseudomonadota	Gammaproteobacteria	Burkholderiales	Oxalobacteraceae	0.0506
+Luteimonas	Bacteria	Pseudomonadota	Gammaproteobacteria	Lysobacterales	Lysobacteraceae	0.0505
+Bilophila	Bacteria	Thermodesulfobacteriota	Desulfovibrionia	Desulfovibrionales	Desulfovibrionaceae	0.0498
+[Eubacterium] ruminantium group	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	0.0495
+Solirubrobacter	Bacteria	Actinomycetota	Thermoleophilia	Solirubrobacterales	Solirubrobacteraceae	0.0489
+Jeotgalicoccus	Bacteria	Bacillota	Bacilli	Staphylococcales	Staphylococcaceae	0.0471
+Mobiluncus	Bacteria	Actinomycetota	Actinobacteria	Actinomycetales	Actinomycetaceae	0.0467
+Moryella	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	0.0461
+Afipia	Bacteria	Pseudomonadota	Alphaproteobacteria	Hyphomicrobiales	Xanthobacteraceae	0.0455
+Microvirga	Bacteria	Pseudomonadota	Alphaproteobacteria	Hyphomicrobiales	Beijerinckiaceae	0.0454
+Herbaspirillum	Bacteria	Pseudomonadota	Gammaproteobacteria	Burkholderiales	Oxalobacteraceae	0.0445
+CAG-352	Bacteria	Bacillota	Clostridia	Oscillospirales	Ruminococcaceae	0.0444
+Hymenobacter	Bacteria	Bacteroidota	Bacteroidia	Cytophagales	Hymenobacteraceae	0.0441
+Thermomonas	Bacteria	Pseudomonadota	Gammaproteobacteria	Lysobacterales	Lysobacteraceae	0.0439
+Colidextribacter	Bacteria	Bacillota	Clostridia	Oscillospirales	Oscillospiraceae	0.0424
+[Eubacterium] eligens group	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	0.0423
+Odoribacter	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Marinifilaceae	0.0411
+NK4A214 group	Bacteria	Bacillota	Clostridia	Oscillospirales	Oscillospiraceae	0.04
+Chryseobacterium	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	Weeksellaceae	0.0397
+Knoellia	Bacteria	Actinomycetota	Actinobacteria	Micrococcales	Intrasporangiaceae	0.0396
+Parvimonas	Bacteria	Bacillota	Clostridia	Peptostreptococcales-Tissierellales	Family XI	0.0372
+Prevotellaceae NK3B31 group	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	0.0367
+Vulcaniibacterium	Bacteria	Pseudomonadota	Gammaproteobacteria	Lysobacterales	Lysobacteraceae	0.0366
+Atopococcus	Bacteria	Bacillota	Bacilli	Lactobacillales	Carnobacteriaceae	0.0365
+Tundrisphaera	Bacteria	Planctomycetota	Planctomycetes	Isosphaerales	Isosphaeraceae	0.036
+Psychrobacter	Bacteria	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	0.0352
+UCG-005	Bacteria	Bacillota	Clostridia	Oscillospirales	Oscillospiraceae	0.0342
+Atopobium	Bacteria	Actinomycetota	Coriobacteriia	Coriobacteriales	Atopobiaceae	0.0341
+Rathayibacter	Bacteria	Actinomycetota	Actinobacteria	Micrococcales	Microbacteriaceae	0.034
+Extibacter	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	0.0339
+Exiguobacterium	Bacteria	Bacillota	Bacilli	Exiguobacterales	Exiguobacteraceae	0.0334
+Methylobacillus	Bacteria	Pseudomonadota	Gammaproteobacteria	Burkholderiales	Methylophilaceae	0.0334
+Negativibacillus	Bacteria	Bacillota	Clostridia	Oscillospirales	Ruminococcaceae	0.0334
+Methylopila	Bacteria	Pseudomonadota	Alphaproteobacteria	Hyphomicrobiales	Methylopilaceae	0.0313
+Segatella	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	0.0304
+Propioniciclava	Bacteria	Actinomycetota	Actinobacteria	Propionibacteriales	Propionibacteriaceae	0.0301
+Nubsella	Bacteria	Bacteroidota	Bacteroidia	Sphingobacteriales	Sphingobacteriaceae	0.0297
+Limnobacter	Bacteria	Pseudomonadota	Gammaproteobacteria	Burkholderiales	Burkholderiaceae	0.0293
+Rothia	Bacteria	Actinomycetota	Actinobacteria	Micrococcales	Micrococcaceae	0.0292
+[Ruminococcus] gauvreauii group	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	0.0291
+Microlunatus	Bacteria	Actinomycetota	Actinobacteria	Propionibacteriales	Propionibacteriaceae	0.0287
+Rouxiella	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Yersiniaceae	0.0287
+Brucella	Bacteria	Pseudomonadota	Alphaproteobacteria	Hyphomicrobiales	Rhizobiaceae	0.0285
+Ruthenibacterium	Bacteria	Bacillota	Clostridia	Oscillospirales	Ruminococcaceae	0.0284
+Synergistes	Bacteria	Synergistota	Synergistia	Synergistales	Synergistaceae	0.0283
+Novosphingobium	Bacteria	Pseudomonadota	Alphaproteobacteria	Sphingomonadales	Sphingomonadaceae	0.0275
+Variovorax	Bacteria	Pseudomonadota	Gammaproteobacteria	Burkholderiales	Comamonadaceae	0.0273
+Desulfovibrio	Bacteria	Thermodesulfobacteriota	Desulfovibrionia	Desulfovibrionales	Desulfovibrionaceae	0.0265
+[Ruminococcus] gnavus group	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	0.0263
+Pseudoalteromonas	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Pseudoalteromonadaceae	0.0263
+Microbacterium	Bacteria	Actinomycetota	Actinobacteria	Micrococcales	Microbacteriaceae	0.026
+Treponema	Bacteria	Spirochaetota	Spirochaetia	Spirochaetales	Spirochaetaceae	0.026
+SH-PL14	Bacteria	Planctomycetota	Planctomycetes	Planctomycetales	Rubinisphaeraceae	0.0252
+Rhizobium	Bacteria	Pseudomonadota	Alphaproteobacteria	Hyphomicrobiales	Rhizobiaceae	0.0251
+[Eubacterium] brachy group	Bacteria	Bacillota	Clostridia	Peptostreptococcales-Tissierellales	Anaerovoracaceae	0.025
+Lachnospiraceae NK4A136 group	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	0.0249
+Nesterenkonia	Bacteria	Actinomycetota	Actinobacteria	Micrococcales	Micrococcaceae	0.0249
+Lysinibacillus	Bacteria	Bacillota	Bacilli	Bacillales	Planococcaceae	0.0248
+Haemophilus	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Pasteurellaceae	0.0247
+Psychrobacillus	Bacteria	Bacillota	Bacilli	Bacillales	Planococcaceae	0.0247
+Lachnoclostridium	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	0.0246
+Tepidimonas	Bacteria	Pseudomonadota	Gammaproteobacteria	Burkholderiales	Comamonadaceae	0.0245
+Ottowia	Bacteria	Pseudomonadota	Gammaproteobacteria	Burkholderiales	Comamonadaceae	0.0241
+Varibaculum	Bacteria	Actinomycetota	Actinobacteria	Actinomycetales	Actinomycetaceae	0.024
+Vibrio	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Vibrionaceae	0.024
+Negativicoccus	Bacteria	Bacillota	Negativicutes	Veillonellales-Selenomonadales	Veillonellaceae	0.0232
+Agathobaculum	Bacteria	Bacillota	Clostridia	Oscillospirales	Butyricicoccaceae	0.0229
+Actinobacillus	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Pasteurellaceae	0.0228
+Hydrogenophilus	Bacteria	Pseudomonadota	Gammaproteobacteria	Burkholderiales	Hydrogenophilaceae	0.0224
+Fontibacillus	Bacteria	Bacillota	Bacilli	Paenibacillales	Paenibacillaceae	0.0219
+Caulobacter	Bacteria	Pseudomonadota	Alphaproteobacteria	Caulobacterales	Caulobacteraceae	0.0214
+Phyllobacterium	Bacteria	Pseudomonadota	Alphaproteobacteria	Hyphomicrobiales	Rhizobiaceae	0.0212
+Hydrocarboniphaga	Bacteria	Pseudomonadota	Gammaproteobacteria	Salinisphaerales	Nevskiaceae	0.0211
+Limosilactobacillus	Bacteria	Bacillota	Bacilli	Lactobacillales	Lactobacillaceae	0.0207
+Parasutterella	Bacteria	Pseudomonadota	Gammaproteobacteria	Burkholderiales	Sutterellaceae	0.0207
+Lachnospiraceae ND3007 group	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	0.02
+Intestinimonas	Bacteria	Bacillota	Clostridia	Oscillospirales	Oscillospiraceae	0.0198
+Berryella	Bacteria	Actinomycetota	Coriobacteriia	Coriobacteriales	Eggerthellaceae	0.0196
+Acutalibacter	Bacteria	Bacillota	Clostridia	Oscillospirales	Ruminococcaceae	0.0195
+Blastococcus	Bacteria	Actinomycetota	Actinobacteria	Frankiales	Geodermatophilaceae	0.0193
+Eggerthella	Bacteria	Actinomycetota	Coriobacteriia	Coriobacteriales	Eggerthellaceae	0.0193
+Moraxella	Bacteria	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	0.0192
+Geothermomicrobium	Bacteria	Bacillota	Bacilli	Thermoactinomycetales	Thermoactinomycetaceae	0.018
+Solobacterium	Bacteria	Bacillota	Bacilli	Erysipelotrichales	Erysipelotrichaceae	0.0177
+Pandoraea	Bacteria	Pseudomonadota	Gammaproteobacteria	Burkholderiales	Burkholderiaceae	0.0176
+Rhodocytophaga	Bacteria	Bacteroidota	Bacteroidia	Cytophagales	Cytophagaceae	0.0175
+Flavimobilis	Bacteria	Actinomycetota	Actinobacteria	Micrococcales	Sanguibacteraceae	0.0173
+Ferrovibrio	Bacteria	Pseudomonadota	Alphaproteobacteria	Ferrovibrionales	Ferrovibrionaceae	0.017
+Modestobacter	Bacteria	Actinomycetota	Actinobacteria	Frankiales	Geodermatophilaceae	0.017
+Amaricoccus	Bacteria	Pseudomonadota	Alphaproteobacteria	Rhodobacterales	Paracoccaceae	0.0169
+Winkia	Bacteria	Actinomycetota	Actinobacteria	Actinomycetales	Actinomycetaceae	0.0168
+Pantoea	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Erwiniaceae	0.0167
+Aestuariimicrobium	Bacteria	Actinomycetota	Actinobacteria	Propionibacteriales	Propionibacteriaceae	0.0166
+Cohnella	Bacteria	Bacillota	Bacilli	Paenibacillales	Paenibacillaceae	0.0166
+Lachnospiraceae UCG-004	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	0.0166
+Fannyhessea	Bacteria	Actinomycetota	Coriobacteriia	Coriobacteriales	Atopobiaceae	0.0164
+Sneathia	Bacteria	Fusobacteriota	Fusobacteriia	Fusobacteriales	Leptotrichiaceae	0.0164
+Family XIII AD3011 group	Bacteria	Bacillota	Clostridia	Peptostreptococcales-Tissierellales	Anaerovoracaceae	0.0157
+Kingella	Bacteria	Pseudomonadota	Gammaproteobacteria	Burkholderiales	Neisseriaceae	0.0154
+Paeniglutamicibacter	Bacteria	Actinomycetota	Actinobacteria	Micrococcales	Micrococcaceae	0.0154
+Erysipelotrichaceae UCG-003	Bacteria	Bacillota	Bacilli	Erysipelotrichales	Erysipelatoclostridiaceae	0.0153
+Pseudarthrobacter	Bacteria	Actinomycetota	Actinobacteria	Micrococcales	Micrococcaceae	0.0153
+Kinneretia	Bacteria	Pseudomonadota	Gammaproteobacteria	Burkholderiales	Comamonadaceae	0.0145
+Arhodomonas	Bacteria	Pseudomonadota	Gammaproteobacteria	Nitrococcales	Nitrococcaceae	0.0142
+Eremococcus	Bacteria	Bacillota	Bacilli	Lactobacillales	Aerococcaceae	0.0139
+Nitrosomonas	Bacteria	Pseudomonadota	Gammaproteobacteria	Burkholderiales	Nitrosomonadaceae	0.0139
+Family XIII UCG-001	Bacteria	Bacillota	Clostridia	Peptostreptococcales-Tissierellales	Anaerovoracaceae	0.0132
+Holdemanella	Bacteria	Bacillota	Bacilli	Erysipelotrichales	Erysipelotrichaceae	0.013
+Monoglobus	Bacteria	Bacillota	Clostridia	Monoglobales	Monoglobaceae	0.0129
+Nitrobacter	Bacteria	Pseudomonadota	Alphaproteobacteria	Hyphomicrobiales	Xanthobacteraceae	0.0129
+Lachnospiraceae UCG-010	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	0.0126
+Salmonella	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	0.0126
+Citrobacter	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	0.0125
+Catenisphaera	Bacteria	Bacillota	Bacilli	Erysipelotrichales	Erysipelotrichaceae	0.0124
+Allisonella	Bacteria	Bacillota	Negativicutes	Veillonellales-Selenomonadales	Veillonellaceae	0.0122
+Tissierella	Bacteria	Bacillota	Clostridia	Peptostreptococcales-Tissierellales	Family XI	0.0122
+Aminobacter	Bacteria	Pseudomonadota	Alphaproteobacteria	Hyphomicrobiales	Rhizobiaceae	0.0115
+W5053	Bacteria	Bacillota	Clostridia	Peptostreptococcales-Tissierellales	Family XI	0.0115
+Oscillibacter	Bacteria	Bacillota	Clostridia	Oscillospirales	Oscillospiraceae	0.0113
+Intestinibacter	Bacteria	Bacillota	Clostridia	Peptostreptococcales-Tissierellales	Peptostreptococcaceae	0.0111
+UCG-003	Bacteria	Bacillota	Clostridia	Oscillospirales	Oscillospiraceae	0.0111
+Butyricimonas	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Marinifilaceae	0.011
+Rickettsia	Bacteria	Pseudomonadota	Alphaproteobacteria	Rickettsiales	Rickettsiaceae	0.011
+Sellimonas	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	0.0109
+Facklamia	Bacteria	Bacillota	Bacilli	Lactobacillales	Aerococcaceae	0.0108
+Actinoallomurus	Bacteria	Actinomycetota	Actinobacteria	Streptosporangiales	Thermomonosporaceae	0.0106
+CAG-196	Bacteria	Cyanobacteriota	Vampirivibrionia	Gastranaerophilales	Gastranaerophilaceae	0.0106
+Achromobacter	Bacteria	Pseudomonadota	Gammaproteobacteria	Burkholderiales	Alcaligenaceae	0.0104
+Coprobacillus	Bacteria	Bacillota	Bacilli	Erysipelotrichales	Erysipelatoclostridiaceae	0.0103
+Jonquetella	Bacteria	Synergistota	Synergistia	Synergistales	Synergistaceae	0.0103
+Marinococcus	Bacteria	Bacillota	Bacilli	Bacillales	Marinococcaceae	0.01
+Anaerotignum	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	0.0097
+CSP1-2	Bacteria	Dadabacteria	Dadabacteriia	Dadabacteriales	Incertae Sedis	0.0097
+Rarimicrobium	Bacteria	Synergistota	Synergistia	Synergistales	Synergistaceae	0.0095
+Pseudoxanthomonas	Bacteria	Pseudomonadota	Gammaproteobacteria	Lysobacterales	Lysobacteraceae	0.0091
+Novispirillum	Bacteria	Pseudomonadota	Alphaproteobacteria	Rhodospirillales	Rhodospirillaceae	0.0087
+Lachnoanaerobaculum	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	0.0085
+Flavonifractor	Bacteria	Bacillota	Clostridia	Oscillospirales	Oscillospiraceae	0.0082
+Mogibacterium	Bacteria	Bacillota	Clostridia	Peptostreptococcales-Tissierellales	Anaerovoracaceae	0.0081
+Turicibacter	Bacteria	Bacillota	Bacilli	Erysipelotrichales	Erysipelotrichaceae	0.0081
+Saccharopolyspora	Bacteria	Actinomycetota	Actinobacteria	Pseudonocardiales	Pseudonocardiaceae	0.0079
+Thomasclavelia	Bacteria	Bacillota	Bacilli	Erysipelotrichales	Erysipelatoclostridiaceae	0.0079
+Methanobrevibacter	Archaea	Methanobacteriota	Methanobacteria	Methanobacteriales	Methanobacteriaceae	0.0078
+Salsuginibacillus	Bacteria	Bacillota	Bacilli	Bacillales	Marinococcaceae	0.0077
+Butyribacter	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	0.0074
+Succiniclasticum	Bacteria	Bacillota	Negativicutes	Acidaminococcales	Acidaminococcaceae	0.0074
+Lachnospira	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	0.0072
+Patulibacter	Bacteria	Actinomycetota	Thermoleophilia	Solirubrobacterales	Solirubrobacteraceae	0.0072
+Frisingicoccus	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	0.0071
+Paludicola	Bacteria	Bacillota	Clostridia	Oscillospirales	Ruminococcaceae	0.0068
+Catenibacterium	Bacteria	Bacillota	Bacilli	Erysipelotrichales	Erysipelatoclostridiaceae	0.0066
+Howardella	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	0.0066
+Kallipyga	Bacteria	Bacillota	Clostridia	Peptostreptococcales-Tissierellales	Family XI	0.0064
+Mesorhizobium	Bacteria	Pseudomonadota	Alphaproteobacteria	Hyphomicrobiales	Rhizobiaceae	0.0064
+Conyzicola	Bacteria	Actinomycetota	Actinobacteria	Micrococcales	Microbacteriaceae	0.0062
+Trueperella	Bacteria	Actinomycetota	Actinobacteria	Actinomycetales	Actinomycetaceae	0.0062
+[Eubacterium] siraeum group	Bacteria	Bacillota	Clostridia	Oscillospirales	Ruminococcaceae	0.0061
+Klebsiella	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	0.0061
+Agrococcus	Bacteria	Actinomycetota	Actinobacteria	Micrococcales	Microbacteriaceae	0.0059
+Rhizorhapis	Bacteria	Pseudomonadota	Alphaproteobacteria	Sphingomonadales	Sphingomonadaceae	0.0059
+Leifsonia	Bacteria	Actinomycetota	Actinobacteria	Micrococcales	Microbacteriaceae	0.0058
+Leyella	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	0.0058
+MN 122.2a	Bacteria	Pseudomonadota	Alphaproteobacteria	Sphingomonadales	Sphingomonadaceae	0.0058
+Fournierella	Bacteria	Bacillota	Clostridia	Oscillospirales	Ruminococcaceae	0.0057
+Eisenbergiella	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	0.0054
+UCG-004	Bacteria	Bacillota	Bacilli	Erysipelotrichales	Erysipelatoclostridiaceae	0.0051
+[Eubacterium] ventriosum group	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	0.0048
+Cellulomonas	Bacteria	Actinomycetota	Actinobacteria	Micrococcales	Cellulomonadaceae	0.0048
+Ruminiclostridium	Bacteria	Bacillota	Clostridia	Oscillospirales	Oscillospiraceae	0.0048
+Tessaracoccus	Bacteria	Actinomycetota	Actinobacteria	Propionibacteriales	Propionibacteriaceae	0.0048
+Criibacterium	Bacteria	Bacillota	Clostridia	Peptostreptococcales-Tissierellales	Peptostreptococcaceae	0.0047
+Rikenellaceae RC9 gut group	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Rikenellaceae	0.0046
+[Clostridium] innocuum group	Bacteria	Bacillota	Bacilli	Erysipelotrichales	Erysipelotrichaceae	0.0045
+Marvinbryantia	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	0.0043
+Merdibacter	Bacteria	Bacillota	Bacilli	Erysipelotrichales	Erysipelotrichaceae	0.0043
+Faecalimonas	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	0.0042
+Slackia	Bacteria	Actinomycetota	Coriobacteriia	Coriobacteriales	Eggerthellaceae	0.0041
+Lachnospiraceae NC2004 group	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	0.0039
+Shinella	Bacteria	Pseudomonadota	Alphaproteobacteria	Hyphomicrobiales	Rhizobiaceae	0.0039
+Tsuneonella	Bacteria	Pseudomonadota	Alphaproteobacteria	Sphingomonadales	Sphingomonadaceae	0.0038
+Aminicella	Bacteria	Bacillota	Clostridia	Peptostreptococcales-Tissierellales	Anaerovoracaceae	0.0037
+Ligilactobacillus	Bacteria	Bacillota	Bacilli	Lactobacillales	Lactobacillaceae	0.0035
+Dielma	Bacteria	Bacillota	Bacilli	Erysipelotrichales	Erysipelotrichaceae	0.0034
+Senegalimassilia	Bacteria	Actinomycetota	Coriobacteriia	Coriobacteriales	Eggerthellaceae	0.0032
+Microcella	Bacteria	Actinomycetota	Actinobacteria	Micrococcales	Microbacteriaceae	0.0031
+Gordonia	Bacteria	Actinomycetota	Actinobacteria	Mycobacteriales	Nocardiaceae	0.003
+Paraprevotella	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	0.0029
+Pediococcus	Bacteria	Bacillota	Bacilli	Lactobacillales	Lactobacillaceae	0.0029
+Adhaeribacter	Bacteria	Bacteroidota	Bacteroidia	Cytophagales	Hymenobacteraceae	0.0026
+Arcobacter	Bacteria	Campylobacterota	Campylobacteria	Campylobacterales	Arcobacteraceae	0.0026
+Faecalicoccus	Bacteria	Bacillota	Bacilli	Erysipelotrichales	Erysipelotrichaceae	0.0025
+Granulicatella	Bacteria	Bacillota	Bacilli	Lactobacillales	Carnobacteriaceae	0.0025
+Pseudokineococcus	Bacteria	Actinomycetota	Actinobacteria	Kineosporiales	Kineosporiaceae	0.0025
+Rhizobacter	Bacteria	Pseudomonadota	Gammaproteobacteria	Burkholderiales	Comamonadaceae	0.0025
+[Eubacterium] xylanophilum group	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	0.0024
+Actinotignum	Bacteria	Actinomycetota	Actinobacteria	Actinomycetales	Actinomycetaceae	0.0023
+Arcanobacterium	Bacteria	Actinomycetota	Actinobacteria	Actinomycetales	Actinomycetaceae	0.0023
+Succinatimonas	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Succinivibrionaceae	0.0023
+CAG-56	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	0.0022
+Lachnospiraceae FCS020 group	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	0.0022
+Marmoricola	Bacteria	Actinomycetota	Actinobacteria	Propionibacteriales	Nocardioidaceae	0.0022
+Streptomyces	Bacteria	Actinomycetota	Actinobacteria	Kitasatosporales	Streptomycetaceae	0.0022
+CHKCI002	Bacteria	Actinomycetota	Coriobacteriia	Coriobacteriales	Eggerthellaceae	0.002
+Cloacibacillus	Bacteria	Synergistota	Synergistia	Synergistales	Synergistaceae	0.0019
+Gleimia	Bacteria	Actinomycetota	Actinobacteria	Actinomycetales	Actinomycetaceae	0.0019
+Latilactobacillus	Bacteria	Bacillota	Bacilli	Lactobacillales	Lactobacillaceae	0.0019
+Anaeroglobus	Bacteria	Bacillota	Negativicutes	Veillonellales-Selenomonadales	Veillonellaceae	0.0017
+Massiliprevotella	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	0.0017
+Terrisporobacter	Bacteria	Bacillota	Clostridia	Peptostreptococcales-Tissierellales	Peptostreptococcaceae	0.0017
+Weissella	Bacteria	Bacillota	Bacilli	Lactobacillales	Lactobacillaceae	0.0017
+Eubacterium	Bacteria	Bacillota	Clostridia	Eubacteriales	Eubacteriaceae	0.0016
+Oscillospira	Bacteria	Bacillota	Clostridia	Oscillospirales	Oscillospiraceae	0.0016
+Tyzzerella	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	0.0016
+Youngiibacter	Bacteria	Bacillota	Clostridia	Clostridiales	Clostridiaceae	0.0016
+Actinomyces	Bacteria	Actinomycetota	Actinobacteria	Actinomycetales	Actinomycetaceae	0.0015
+Massiliomicrobiota	Bacteria	Bacillota	Bacilli	Erysipelotrichales	Erysipelatoclostridiaceae	0.0015
+Crossiella	Bacteria	Actinomycetota	Actinobacteria	Pseudonocardiales	Pseudonocardiaceae	0.0014
+Gabonibacter	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Marinifilaceae	0.0014
+Alicycliphilus	Bacteria	Pseudomonadota	Gammaproteobacteria	Burkholderiales	Comamonadaceae	0.0013
+Asaccharobacter	Bacteria	Actinomycetota	Coriobacteriia	Coriobacteriales	Eggerthellaceae	0.0013
+Mitsuokella	Bacteria	Bacillota	Negativicutes	Veillonellales-Selenomonadales	Selenomonadaceae	0.0013
+Saccharibacillus	Bacteria	Bacillota	Bacilli	Paenibacillales	Paenibacillaceae	0.0013
+Anaerotruncus	Bacteria	Bacillota	Clostridia	Oscillospirales	Ruminococcaceae	0.0012
+Candidatus Soleaferrea	Bacteria	Bacillota	Clostridia	Oscillospirales	Ruminococcaceae	0.0011
+Coprobacter	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Barnesiellaceae	0.0011
+DTU089	Bacteria	Bacillota	Clostridia	Oscillospirales	Ruminococcaceae	0.0011
+Holdemania	Bacteria	Bacillota	Bacilli	Erysipelotrichales	Erysipelotrichaceae	0.0011
+Aeribacillus	Bacteria	Bacillota	Bacilli	Bacillales	Bacillaceae	0.001
+Faecalitalea	Bacteria	Bacillota	Bacilli	Erysipelotrichales	Erysipelotrichaceae	0.001
+HT002	Bacteria	Bacillota	Bacilli	Lactobacillales	Lactobacillaceae	0.001
+Mailhella	Bacteria	Thermodesulfobacteriota	Desulfovibrionia	Desulfovibrionales	Desulfovibrionaceae	0.001
+UCG-008	Bacteria	Bacillota	Clostridia	Oscillospirales	Butyricicoccaceae	0.001
+GCA-900066575	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	9e-04
+Kytococcus	Bacteria	Actinomycetota	Actinobacteria	Micrococcales	Dermacoccaceae	9e-04
+Lachnospiraceae FE2018 group	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	9e-04
+Megamonas	Bacteria	Bacillota	Negativicutes	Veillonellales-Selenomonadales	Selenomonadaceae	9e-04
+UCG-009	Bacteria	Bacillota	Clostridia	Oscillospirales	Butyricicoccaceae	9e-04
+Defluviitaleaceae UCG-011	Bacteria	Bacillota	Clostridia	Lachnospirales	Defluviitaleaceae	8e-04
+Oligella	Bacteria	Pseudomonadota	Gammaproteobacteria	Burkholderiales	Alcaligenaceae	8e-04
+Antarcticibacterium	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	Flavobacteriaceae	7e-04
+Gordonibacter	Bacteria	Actinomycetota	Coriobacteriia	Coriobacteriales	Eggerthellaceae	7e-04
+Caldimonas	Bacteria	Pseudomonadota	Gammaproteobacteria	Burkholderiales	Comamonadaceae	6e-04
+Helcococcus	Bacteria	Bacillota	Clostridia	Peptostreptococcales-Tissierellales	Family XI	6e-04
+Olsenella	Bacteria	Actinomycetota	Coriobacteriia	Coriobacteriales	Atopobiaceae	6e-04
+Phocaeicola	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Incertae Sedis	6e-04
+UCG-007	Bacteria	Bacillota	Clostridia	Oscillospirales	Oscillospiraceae	6e-04
+Victivallis	Bacteria	Verrucomicrobiota	Lentisphaeria	Victivallales	Victivallaceae	6e-04
+[Bacteroides] pectinophilus group	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	5e-04
+Aquicella	Bacteria	Pseudomonadota	Gammaproteobacteria	Rickettsiellales	Rickettsiellaceae	5e-04
+Citricoccus	Bacteria	Actinomycetota	Actinobacteria	Micrococcales	Micrococcaceae	5e-04
+Flavobacterium	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	Flavobacteriaceae	5e-04
+Ndongobacter	Bacteria	Bacillota	Clostridia	Peptostreptococcales-Tissierellales	Family XI	5e-04
+Nosocomiicoccus	Bacteria	Bacillota	Bacilli	Staphylococcales	Staphylococcaceae	5e-04
+Zag_111	Bacteria	Cyanobacteriota	Vampirivibrionia	Gastranaerophilales	Gastranaerophilaceae	5e-04
+[Clostridium] methylpentosum group	Bacteria	Bacillota	Clostridia	Oscillospirales	Ruminococcaceae	4e-04
+Caldicoprobacter	Bacteria	Bacillota	Clostridia	Caldicoprobacterales	Caldicoprobacteraceae	4e-04
+Caproiciproducens	Bacteria	Bacillota	Clostridia	Oscillospirales	Ruminococcaceae	4e-04
+Oribacterium	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	4e-04
+Subdoligranulum	Bacteria	Bacillota	Clostridia	Oscillospirales	Ruminococcaceae	4e-04
+Anaerofustis	Bacteria	Bacillota	Clostridia	Eubacteriales	Anaerofustaceae	3e-04
+Propionibacterium	Bacteria	Actinomycetota	Actinobacteria	Propionibacteriales	Propionibacteriaceae	3e-04
+Catenibacillus	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	2e-04
+Hydrogenoanaerobacterium	Bacteria	Bacillota	Clostridia	Oscillospirales	Ruminococcaceae	2e-04
+Lacticaseibacillus	Bacteria	Bacillota	Bacilli	Lactobacillales	Lactobacillaceae	2e-04
+Pseudoglutamicibacter	Bacteria	Actinomycetota	Actinobacteria	Micrococcales	Micrococcaceae	2e-04
+Robinsoniella	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	2e-04
+Shuttleworthia	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	2e-04
+Enterobacillus	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	1e-04
+Falsochrobactrum	Bacteria	Pseudomonadota	Alphaproteobacteria	Hyphomicrobiales	Rhizobiaceae	1e-04
+Pygmaiobacter	Bacteria	Bacillota	Clostridia	Oscillospirales	Ruminococcaceae	1e-04
+Aquamonas	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	0
+Faucicola	Bacteria	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	0
+Methanosphaera	Archaea	Methanobacteriota	Methanobacteria	Methanobacteriales	Methanobacteriaceae	0

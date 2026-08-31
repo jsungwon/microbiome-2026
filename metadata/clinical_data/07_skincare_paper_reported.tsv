@@ -1,0 +1,13 @@
+scope	timepoint	parameter	unit	instrument	mean	sd	n	source
+group	0W	hydration	A.U.	Corneometer	36.15	13.40	25	본문 3.3 / Figure 3a
+group	2W	hydration	A.U.	Corneometer	46.55	10.01	25	본문 3.3 / Figure 3a
+group	4W	hydration	A.U.	Corneometer	48.89	11.29	25	본문 3.3 / Figure 3a
+group	0W	texture_roughness	SEr	Visioscan	5.72	1.22	25	본문 3.3 / Figure 3b
+group	2W	texture_roughness	SEr	Visioscan	8.07	1.44	25	본문 3.3 / Figure 3b
+group	4W	texture_roughness	SEr	Visioscan	9.49	1.93	25	본문 3.3 / Figure 3c
+group	0W	sebum	Area %	Visioscan + Sebufix F16			25	Figure 3c — 수치 미보고("거의 동일")
+group	2W	sebum	Area %	Visioscan + Sebufix F16			25	Figure 3c — 수치 미보고("거의 동일")
+group	4W	sebum	Area %	Visioscan + Sebufix F16			25	Figure 3c — 수치 미보고("거의 동일")
+group	0W	pH	pH	skin pH meter			25	Figure 3d — 수치 미보고("거의 동일")
+group	2W	pH	pH	skin pH meter			25	Figure 3d — 수치 미보고("거의 동일")
+group	4W	pH	pH	skin pH meter			25	Figure 3d — 수치 미보고("거의 동일")

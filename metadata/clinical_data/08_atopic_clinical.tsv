@@ -1,0 +1,467 @@
+sample_id	subject	group	sample_site	body_site_paper	sex	skin_type	country
+AD_LS_10_16Sv3v4	AD_10	AD	AD_LS	chest	F	sebaceous	Denmark
+AD_LS_104_16Sv3v4	AD_104	AD	AD_LS	arm	F	dry	Denmark
+AD_LS_105_16Sv3v4	AD_105	AD	AD_LS	arm	F	dry	Denmark
+AD_LS_13_16Sv3v4	AD_13	AD	AD_LS	antecubital_fossa	M	moist	Denmark
+AD_LS_133_16Sv3v4	AD_133	AD	AD_LS	arm	M	dry	Denmark
+AD_LS_14_16Sv3v4	AD_14	AD	AD_LS	forehead	F	sebaceous	Denmark
+AD_LS_153_16Sv3v4	AD_153	AD	AD_LS	popliteal_fossa	M	moist	Denmark
+AD_LS_16_16Sv3v4	AD_16	AD	AD_LS	arm	M	dry	Denmark
+AD_LS_163_16Sv3v4	AD_163	AD	AD_LS	arm	F	dry	Denmark
+AD_LS_17_16Sv3v4	AD_17	AD	AD_LS	finger	F	dry	Denmark
+AD_LS_173_16Sv3v4	AD_173	AD	AD_LS	arm	M	dry	Denmark
+AD_LS_19_16Sv3v4	AD_19	AD	AD_LS	neck	M	sebaceous	Denmark
+AD_LS_203_16Sv3v4	AD_203	AD	AD_LS	arm	M	dry	Denmark
+AD_LS_213_16Sv3v4	AD_213	AD	AD_LS	arm	M	dry	Denmark
+AD_LS_22_16Sv3v4	AD_22	AD	AD_LS	hand	M	dry	Denmark
+AD_LS_223_16Sv3v4	AD_223	AD	AD_LS	antecubital_fossa	F	moist	Denmark
+AD_LS_233_16Sv3v4	AD_233	AD	AD_LS	arm	M	dry	Denmark
+AD_LS_243_16Sv3v4	AD_243	AD	AD_LS	arm	F	dry	Denmark
+AD_LS_253_16Sv3v4	AD_253	AD	AD_LS	arm	F	dry	Denmark
+AD_LS_26_16Sv3v4	AD_26	AD	AD_LS	antecubital_fossa	M	moist	Denmark
+AD_LS_263_16Sv3v4	AD_263	AD	AD_LS	antecubital_fossa	M	moist	Denmark
+AD_LS_27_16Sv3v4	AD_27	AD	AD_LS	arm	F	dry	Denmark
+AD_LS_273_16Sv3v4	AD_273	AD	AD_LS	arm	M	dry	Denmark
+AD_LS_28_16Sv3v4	AD_28	AD	AD_LS	hand	F	dry	Denmark
+AD_LS_283_16Sv3v4	AD_283	AD	AD_LS	arm	M	dry	Denmark
+AD_LS_29_16Sv3v4	AD_29	AD	AD_LS	arm	F	dry	Denmark
+AD_LS_293_16Sv3v4	AD_293	AD	AD_LS	arm	M	dry	Denmark
+AD_LS_30_16Sv3v4	AD_30	AD	AD_LS	antecubital_fossa	M	moist	Denmark
+AD_LS_303_16Sv3v4	AD_303	AD	AD_LS	arm	M	dry	Denmark
+AD_LS_313_16Sv3v4	AD_313	AD	AD_LS	leg	M	dry	Denmark
+AD_LS_323_16Sv3v4	AD_323	AD	AD_LS	arm	F	dry	Denmark
+AD_LS_33_16Sv3v4	AD_33	AD	AD_LS	antecubital_fossa	M	moist	Denmark
+AD_LS_333_16Sv3v4	AD_333	AD	AD_LS	arm	M	dry	Denmark
+AD_LS_343_16Sv3v4	AD_343	AD	AD_LS	leg	M	dry	Denmark
+AD_LS_35_16Sv3v4	AD_35	AD	AD_LS	arm	M	dry	Denmark
+AD_LS_353_16Sv3v4	AD_353	AD	AD_LS	arm	M	dry	Denmark
+AD_LS_36_16Sv3v4	AD_36	AD	AD_LS	antecubital_fossa	M	moist	Denmark
+AD_LS_363_16Sv3v4	AD_363	AD	AD_LS	arm	M	dry	Denmark
+AD_LS_37_16Sv3v4	AD_37	AD	AD_LS	cheek	M	sebaceous	Denmark
+AD_LS_373_16Sv3v4	AD_373	AD	AD_LS	arm	M	dry	Denmark
+AD_LS_39_16Sv3v4	AD_39	AD	AD_LS	arm	M	dry	Denmark
+AD_LS_393_16Sv3v4	AD_393	AD	AD_LS	arm	M	dry	Denmark
+AD_LS_4_16Sv3v4	AD_4	AD	AD_LS	back	M	sebaceous	Denmark
+AD_LS_413_16Sv3v4	AD_413	AD	AD_LS	leg	M	dry	Denmark
+AD_LS_42_16Sv3v4	AD_42	AD	AD_LS	arm	M	dry	Denmark
+AD_LS_423_16Sv3v4	AD_423	AD	AD_LS	arm	F	dry	Denmark
+AD_LS_43_16Sv3v4	AD_43	AD	AD_LS	neck	F	sebaceous	Denmark
+AD_LS_433_16Sv3v4	AD_433	AD	AD_LS	arm	M	dry	Denmark
+AD_LS_44_16Sv3v4	AD_44	AD	AD_LS	arm	F	dry	Denmark
+AD_LS_443_16Sv3v4	AD_443	AD	AD_LS	arm	M	dry	Denmark
+AD_LS_45_16Sv3v4	AD_45	AD	AD_LS	finger	F	dry	Denmark
+AD_LS_453_16Sv3v3	AD_453	AD	AD_LS	arm	F	dry	Denmark
+AD_LS_46_16Sv3v4	AD_46	AD	AD_LS	neck	M	sebaceous	Denmark
+AD_LS_463_16Sv3v4	AD_463	AD	AD_LS	arm	F	dry	Denmark
+AD_LS_473_16Sv3v4	AD_473	AD	AD_LS	antecubital_fossa	M	moist	Denmark
+AD_LS_483_16Sv3v4	AD_483	AD	AD_LS	antecubital_fossa	F	moist	Denmark
+AD_LS_49_16Sv3v4	AD_49	AD	AD_LS	hand	M	dry	Denmark
+AD_LS_493_16Sv3v4	AD_493	AD	AD_LS	arm	F	dry	Denmark
+AD_LS_5_16Sv3v4	AD_5	AD	AD_LS	antecubital_fossa	F	moist	Denmark
+AD_LS_503_16Sv3v4	AD_503	AD	AD_LS	arm	F	dry	Denmark
+AD_LS_513_16Sv3v4	AD_513	AD	AD_LS	arm	F	dry	Denmark
+AD_LS_56_16Sv3v4	AD_56	AD	AD_LS	hand	F	dry	Denmark
+AD_LS_57_16Sv3v4	AD_57	AD	AD_LS	neck	F	sebaceous	Denmark
+AD_LS_58_16Sv3v4	AD_58	AD	AD_LS	finger	F	dry	Denmark
+AD_LS_6_16Sv3v4	AD_6	AD	AD_LS	arm	F	dry	Denmark
+AD_LS_64_16Sv3v4	AD_64	AD	AD_LS	arm	M	dry	Denmark
+AD_LS_65_16Sv3v4	AD_65	AD	AD_LS	arm	M	dry	Denmark
+AD_LS_67_16Sv3v4	AD_67	AD	AD_LS	hand	M	dry	Denmark
+AD_LS_68_16Sv3v4	AD_68	AD	AD_LS	thigh	F	dry	Denmark
+AD_LS_69_16Sv3v4	AD_69	AD	AD_LS	arm	F	dry	Denmark
+AD_LS_7_16Sv3v4	AD_7	AD	AD_LS	antecubital_fossa	M	moist	Denmark
+AD_LS_71_16Sv3v4	AD_71	AD	AD_LS	neck	F	sebaceous	Denmark
+AD_LS_72_16Sv3v4	AD_72	AD	AD_LS	antecubital_fossa	M	moist	Denmark
+AD_LS_73_16Sv3v4	AD_73	AD	AD_LS	antecubital_fossa	F	moist	Denmark
+AD_LS_75_16Sv3v4	AD_75	AD	AD_LS	arm	M	dry	Denmark
+AD_LS_76_16Sv3v4	AD_76	AD	AD_LS	arm	F	dry	Denmark
+AD_LS_79_16Sv3v4	AD_79	AD	AD_LS	thigh	F	dry	Denmark
+AD_LS_8_16Sv3v4	AD_8	AD	AD_LS	arm	F	dry	Denmark
+AD_LS_81_16Sv3v4	AD_81	AD	AD_LS	arm	F	dry	Denmark
+AD_LS_83_16Sv3v4	AD_83	AD	AD_LS	arm	F	dry	Denmark
+AD_LS_84_16Sv3v4	AD_84	AD	AD_LS	arm	F	dry	Denmark
+AD_LS_85_16Sv3v4	AD_85	AD	AD_LS	antecubital_fossa	F	moist	Denmark
+AD_LS_87_16Sv3v4	AD_87	AD	AD_LS	antecubital_fossa	M	moist	Denmark
+AD_LS_88_16Sv3v4	AD_88	AD	AD_LS	back	M	sebaceous	Denmark
+AD_LS_89_16Sv3v4	AD_89	AD	AD_LS	arm	F	dry	Denmark
+AD_LS_9_16Sv3v4	AD_9	AD	AD_LS	forehead	M	sebaceous	Denmark
+AD_LS_90_16Sv3v4	AD_90	AD	AD_LS	arm	F	dry	Denmark
+AD_LS_91_16Sv3v4	AD_91	AD	AD_LS	antecubital_fossa	M	moist	Denmark
+AD_LS_92_16Sv3v4	AD_92	AD	AD_LS	antecubital_fossa	F	moist	Denmark
+AD_LS_93_16Sv3v4	AD_93	AD	AD_LS	cheek	M	sebaceous	Denmark
+AD_LS_95_16Sv3v4	AD_95	AD	AD_LS	arm	M	dry	Denmark
+AD_LS_97_16Sv3v4	AD_97	AD	AD_LS	arm	F	dry	Denmark
+AD_LS_98_16Sv3v4	AD_98	AD	AD_LS	hand	F	dry	Denmark
+AD_LS_99_16Sv3v4	AD_99	AD	AD_LS	arm	M	dry	Denmark
+AD_NLS_10_16Sv3v4	AD_10	AD	AD_NLS	arm	F	dry	Denmark
+AD_NLS_104_16Sv3v4	AD_104	AD	AD_NLS	arm	F	dry	Denmark
+AD_NLS_105_16Sv3v4	AD_105	AD	AD_NLS	arm	F	dry	Denmark
+AD_NLS_13_16Sv3v4	AD_13	AD	AD_NLS	arm	M	dry	Denmark
+AD_NLS_133_16Sv3v4	AD_133	AD	AD_NLS	arm	M	dry	Denmark
+AD_NLS_14_16Sv3v4	AD_14	AD	AD_NLS	antecubital_fossa	F	moist	Denmark
+AD_NLS_153_16Sv3v4	AD_153	AD	AD_NLS	arm	M	dry	Denmark
+AD_NLS_16_16Sv3v4	AD_16	AD	AD_NLS	arm	M	dry	Denmark
+AD_NLS_163_16Sv3v4	AD_163	AD	AD_NLS	arm	F	dry	Denmark
+AD_NLS_17_16Sv3v4	AD_17	AD	AD_NLS	arm	F	dry	Denmark
+AD_NLS_173_16Sv3v4	AD_173	AD	AD_NLS	arm	M	dry	Denmark
+AD_NLS_19_16Sv3v4	AD_19	AD	AD_NLS	arm	M	dry	Denmark
+AD_NLS_203_16Sv3v4	AD_203	AD	AD_NLS	arm	M	dry	Denmark
+AD_NLS_213_16Sv3v4	AD_213	AD	AD_NLS	arm	M	dry	Denmark
+AD_NLS_22_16Sv3v4	AD_22	AD	AD_NLS	antecubital_fossa	M	moist	Denmark
+AD_NLS_223_16Sv3v4	AD_223	AD	AD_NLS	arm	F	dry	Denmark
+AD_NLS_233_16Sv3v4	AD_233	AD	AD_NLS	arm	M	dry	Denmark
+AD_NLS_243_16Sv3v4	AD_243	AD	AD_NLS	arm	F	dry	Denmark
+AD_NLS_253_16Sv3v4	AD_253	AD	AD_NLS	arm	F	dry	Denmark
+AD_NLS_26_16Sv3v4	AD_26	AD	AD_NLS	arm	M	dry	Denmark
+AD_NLS_263_16Sv3v4	AD_263	AD	AD_NLS	arm	M	dry	Denmark
+AD_NLS_27_16Sv3v4	AD_27	AD	AD_NLS	arm	F	dry	Denmark
+AD_NLS_273_16Sv3v4	AD_273	AD	AD_NLS	arm	M	dry	Denmark
+AD_NLS_28_16Sv3v4	AD_28	AD	AD_NLS	arm	F	dry	Denmark
+AD_NLS_283_16Sv3v4	AD_283	AD	AD_NLS	arm	M	dry	Denmark
+AD_NLS_29_16Sv3v4	AD_29	AD	AD_NLS	arm	F	dry	Denmark
+AD_NLS_293_16Sv3v4	AD_293	AD	AD_NLS	arm	M	dry	Denmark
+AD_NLS_30_16Sv3v4	AD_30	AD	AD_NLS	arm	M	dry	Denmark
+AD_NLS_303_16Sv3v4	AD_303	AD	AD_NLS	arm	M	dry	Denmark
+AD_NLS_313_16Sv3v4	AD_313	AD	AD_NLS	leg	M	dry	Denmark
+AD_NLS_323_16Sv3v4	AD_323	AD	AD_NLS	arm	F	dry	Denmark
+AD_NLS_33_16Sv3v4	AD_33	AD	AD_NLS	arm	M	dry	Denmark
+AD_NLS_333_16Sv3v4	AD_333	AD	AD_NLS	arm	M	dry	Denmark
+AD_NLS_343_16Sv3v4	AD_343	AD	AD_NLS	leg	M	dry	Denmark
+AD_NLS_35_16Sv3v4	AD_35	AD	AD_NLS	arm	M	dry	Denmark
+AD_NLS_353_16Sv3v4	AD_353	AD	AD_NLS	arm	M	dry	Denmark
+AD_NLS_36_16Sv3v4	AD_36	AD	AD_NLS	arm	M	dry	Denmark
+AD_NLS_363_16Sv3v4	AD_363	AD	AD_NLS	arm	M	dry	Denmark
+AD_NLS_37_16Sv3v4	AD_37	AD	AD_NLS	arm	M	dry	Denmark
+AD_NLS_373_16Sv3v4	AD_373	AD	AD_NLS	arm	M	dry	Denmark
+AD_NLS_39_16Sv3v4	AD_39	AD	AD_NLS	antecubital_fossa	M	moist	Denmark
+AD_NLS_393_16Sv3v4	AD_393	AD	AD_NLS	arm	M	dry	Denmark
+AD_NLS_4_16Sv3v4	AD_4	AD	AD_NLS	arm	M	dry	Denmark
+AD_NLS_413_16Sv3v4	AD_413	AD	AD_NLS	arm	M	dry	Denmark
+AD_NLS_42_16Sv3v4	AD_42	AD	AD_NLS	antecubital_fossa	M	moist	Denmark
+AD_NLS_423_16Sv3v4	AD_423	AD	AD_NLS	arm	F	dry	Denmark
+AD_NLS_43_16Sv3v4	AD_43	AD	AD_NLS	arm	F	dry	Denmark
+AD_NLS_433_16Sv3v4	AD_433	AD	AD_NLS	arm	M	dry	Denmark
+AD_NLS_44_16Sv3v4	AD_44	AD	AD_NLS	arm	F	dry	Denmark
+AD_NLS_443_16Sv3v4	AD_443	AD	AD_NLS	arm	M	dry	Denmark
+AD_NLS_45_16Sv3v4	AD_45	AD	AD_NLS	antecubital_fossa	F	moist	Denmark
+AD_NLS_453_16Sv3v3	AD_453	AD	AD_NLS	arm	F	dry	Denmark
+AD_NLS_46_16Sv3v4	AD_46	AD	AD_NLS	arm	M	dry	Denmark
+AD_NLS_463_16Sv3v4	AD_463	AD	AD_NLS	arm	F	dry	Denmark
+AD_NLS_473_16Sv3v4	AD_473	AD	AD_NLS	arm	M	dry	Denmark
+AD_NLS_483_16Sv3v4	AD_483	AD	AD_NLS	arm	F	dry	Denmark
+AD_NLS_49_16Sv3v4	AD_49	AD	AD_NLS	antecubital_fossa	M	moist	Denmark
+AD_NLS_493_16Sv3v4	AD_493	AD	AD_NLS	arm	F	dry	Denmark
+AD_NLS_5_16Sv3v4	AD_5	AD	AD_NLS	arm	F	dry	Denmark
+AD_NLS_503_16Sv3v4	AD_503	AD	AD_NLS	arm	F	dry	Denmark
+AD_NLS_513_16Sv3v4	AD_513	AD	AD_NLS	arm	F	dry	Denmark
+AD_NLS_56_16Sv3v4	AD_56	AD	AD_NLS	antecubital_fossa	F	moist	Denmark
+AD_NLS_57_16Sv3v4	AD_57	AD	AD_NLS	arm	F	dry	Denmark
+AD_NLS_58_16Sv3v4	AD_58	AD	AD_NLS	antecubital_fossa	F	moist	Denmark
+AD_NLS_6_16Sv3v4	AD_6	AD	AD_NLS	arm	F	dry	Denmark
+AD_NLS_64_16Sv3v4	AD_64	AD	AD_NLS	arm	M	dry	Denmark
+AD_NLS_65_16Sv3v4	AD_65	AD	AD_NLS	arm	M	dry	Denmark
+AD_NLS_67_16Sv3v4	AD_67	AD	AD_NLS	antecubital_fossa	M	moist	Denmark
+AD_NLS_68_16Sv3v4	AD_68	AD	AD_NLS	antecubital_fossa	F	moist	Denmark
+AD_NLS_69_16Sv3v4	AD_69	AD	AD_NLS	antecubital_fossa	F	moist	Denmark
+AD_NLS_7_16Sv3v4	AD_7	AD	AD_NLS	arm	M	dry	Denmark
+AD_NLS_71_16Sv3v4	AD_71	AD	AD_NLS	antecubital_fossa	F	moist	Denmark
+AD_NLS_72_16Sv3v4	AD_72	AD	AD_NLS	arm	M	dry	Denmark
+AD_NLS_73_16Sv3v4	AD_73	AD	AD_NLS	arm	F	dry	Denmark
+AD_NLS_75_16Sv3v4	AD_75	AD	AD_NLS	arm	M	dry	Denmark
+AD_NLS_76_16Sv3v4	AD_76	AD	AD_NLS	antecubital_fossa	F	moist	Denmark
+AD_NLS_79_16Sv3v4	AD_79	AD	AD_NLS	arm	F	dry	Denmark
+AD_NLS_8_16Sv3v4	AD_8	AD	AD_NLS	arm	F	dry	Denmark
+AD_NLS_81_16Sv3v4	AD_81	AD	AD_NLS	arm	F	dry	Denmark
+AD_NLS_83_16Sv3v4	AD_83	AD	AD_NLS	antecubital_fossa	F	moist	Denmark
+AD_NLS_84_16Sv3v4	AD_84	AD	AD_NLS	antecubital_fossa	F	moist	Denmark
+AD_NLS_85_16Sv3v4	AD_85	AD	AD_NLS	arm	F	dry	Denmark
+AD_NLS_87_16Sv3v4	AD_87	AD	AD_NLS	arm	M	dry	Denmark
+AD_NLS_88_16Sv3v4	AD_88	AD	AD_NLS	arm	M	dry	Denmark
+AD_NLS_89_16Sv3v4	AD_89	AD	AD_NLS	arm	F	dry	Denmark
+AD_NLS_9_16Sv3v4	AD_9	AD	AD_NLS	antecubital_fossa	M	moist	Denmark
+AD_NLS_90_16Sv3v4	AD_90	AD	AD_NLS	arm	F	dry	Denmark
+AD_NLS_91_16Sv3v4	AD_91	AD	AD_NLS	arm	M	dry	Denmark
+AD_NLS_92_16Sv3v4	AD_92	AD	AD_NLS	arm	F	dry	Denmark
+AD_NLS_93_16Sv3v4	AD_93	AD	AD_NLS	arm	M	dry	Denmark
+AD_NLS_95_16Sv3v4	AD_95	AD	AD_NLS	antecubital_fossa	M	moist	Denmark
+AD_NLS_97_16Sv3v4	AD_97	AD	AD_NLS	antecubital_fossa	F	moist	Denmark
+AD_NLS_98_16Sv3v4	AD_98	AD	AD_NLS	antecubital_fossa	F	moist	Denmark
+AD_NLS_99_16Sv3v4	AD_99	AD	AD_NLS	arm	M	dry	Denmark
+AD_nose_10_16Sv3v4	AD_10	AD	AD_nose	nose	F		Denmark
+AD_nose_104_16Sv3v4	AD_104	AD	AD_nose	nose	F		Denmark
+AD_nose_105_16Sv3v4	AD_105	AD	AD_nose	nose	F		Denmark
+AD_nose_13_16Sv3v4	AD_13	AD	AD_nose	nose	M		Denmark
+AD_nose_133_16Sv3v4	AD_133	AD	AD_nose	nose	M		Denmark
+AD_nose_14_16Sv3v4	AD_14	AD	AD_nose	nose	F		Denmark
+AD_nose_153_16Sv3v4	AD_153	AD	AD_nose	nose	M		Denmark
+AD_nose_16_16Sv3v4	AD_16	AD	AD_nose	nose	M		Denmark
+AD_nose_163_16Sv3v4	AD_163	AD	AD_nose	nose	F		Denmark
+AD_nose_17_16Sv3v4	AD_17	AD	AD_nose	nose	F		Denmark
+AD_nose_173_16Sv3v4	AD_173	AD	AD_nose	nose	M		Denmark
+AD_nose_19_16Sv3v4	AD_19	AD	AD_nose	nose	M		Denmark
+AD_nose_203_16Sv3v4	AD_203	AD	AD_nose	nose	M		Denmark
+AD_nose_213_16Sv3v4	AD_213	AD	AD_nose	nose	M		Denmark
+AD_nose_22_16Sv3v4	AD_22	AD	AD_nose	nose	M		Denmark
+AD_nose_223_16Sv3v4	AD_223	AD	AD_nose	nose	F		Denmark
+AD_nose_233_16Sv3v4	AD_233	AD	AD_nose	nose	M		Denmark
+AD_nose_243_16Sv3v4	AD_243	AD	AD_nose	nose	F		Denmark
+AD_nose_253_16Sv3v4	AD_253	AD	AD_nose	nose	F		Denmark
+AD_nose_26_16Sv3v4	AD_26	AD	AD_nose	nose	M		Denmark
+AD_nose_263_16Sv3v4	AD_263	AD	AD_nose	nose	M		Denmark
+AD_nose_27_16Sv3v4	AD_27	AD	AD_nose	nose	F		Denmark
+AD_nose_273_16Sv3v4	AD_273	AD	AD_nose	nose	M		Denmark
+AD_nose_28_16Sv3v4	AD_28	AD	AD_nose	nose	F		Denmark
+AD_nose_283_16Sv3v4	AD_283	AD	AD_nose	nose	M		Denmark
+AD_nose_29_16Sv3v4	AD_29	AD	AD_nose	nose	F		Denmark
+AD_nose_293_16Sv3v4	AD_293	AD	AD_nose	nose	M		Denmark
+AD_nose_30_16Sv3v4	AD_30	AD	AD_nose	nose	M		Denmark
+AD_nose_303_16Sv3v4	AD_303	AD	AD_nose	nose	M		Denmark
+AD_nose_313_16Sv3v4	AD_313	AD	AD_nose	nose	M		Denmark
+AD_nose_323_16Sv3v4	AD_323	AD	AD_nose	nose	F		Denmark
+AD_nose_33_16Sv3v4	AD_33	AD	AD_nose	nose	M		Denmark
+AD_nose_333_16Sv3v4	AD_333	AD	AD_nose	nose	M		Denmark
+AD_nose_343_16Sv3v4	AD_343	AD	AD_nose	nose	M		Denmark
+AD_nose_35_16Sv3v4	AD_35	AD	AD_nose	nose	M		Denmark
+AD_nose_353_16Sv3v4	AD_353	AD	AD_nose	nose	M		Denmark
+AD_nose_36_16Sv3v4	AD_36	AD	AD_nose	nose	M		Denmark
+AD_nose_363_16Sv3v4	AD_363	AD	AD_nose	nose	M		Denmark
+AD_nose_37_16Sv3v4	AD_37	AD	AD_nose	nose	M		Denmark
+AD_nose_373_16Sv3v4	AD_373	AD	AD_nose	nose	M		Denmark
+AD_nose_39_16Sv3v4	AD_39	AD	AD_nose	nose	M		Denmark
+AD_nose_393_16Sv3v4	AD_393	AD	AD_nose	nose	M		Denmark
+AD_nose_4_16Sv3v4	AD_4	AD	AD_nose	nose	M		Denmark
+AD_nose_413_16Sv3v4	AD_413	AD	AD_nose	nose	M		Denmark
+AD_nose_42_16Sv3v4	AD_42	AD	AD_nose	nose	M		Denmark
+AD_nose_423_16Sv3v4	AD_423	AD	AD_nose	nose	F		Denmark
+AD_nose_43_16Sv3v4	AD_43	AD	AD_nose	nose	F		Denmark
+AD_nose_433_16Sv3v4	AD_433	AD	AD_nose	nose	M		Denmark
+AD_nose_44_16Sv3v4	AD_44	AD	AD_nose	nose	F		Denmark
+AD_nose_443_16Sv3v3	AD_443	AD	AD_nose	nose	M		Denmark
+AD_nose_45_16Sv3v4	AD_45	AD	AD_nose	nose	F		Denmark
+AD_nose_453_16Sv3v3	AD_453	AD	AD_nose	nose	F		Denmark
+AD_nose_46_16Sv3v4	AD_46	AD	AD_nose	nose	M		Denmark
+AD_nose_463_16Sv3v4	AD_463	AD	AD_nose	nose	F		Denmark
+AD_nose_473_16Sv3v4	AD_473	AD	AD_nose	nose	M		Denmark
+AD_nose_483_16Sv3v4	AD_483	AD	AD_nose	nose	F		Denmark
+AD_nose_49_16Sv3v4	AD_49	AD	AD_nose	nose	M		Denmark
+AD_nose_493_16Sv3v4	AD_493	AD	AD_nose	nose	F		Denmark
+AD_nose_5_16Sv3v4	AD_5	AD	AD_nose	nose	F		Denmark
+AD_nose_503_16Sv3v4	AD_503	AD	AD_nose	nose	F		Denmark
+AD_nose_513_16Sv3v4	AD_513	AD	AD_nose	nose	F		Denmark
+AD_nose_56_16Sv3v4	AD_56	AD	AD_nose	nose	F		Denmark
+AD_nose_57_16Sv3v4	AD_57	AD	AD_nose	nose	F		Denmark
+AD_nose_58_16Sv3v4	AD_58	AD	AD_nose	nose	F		Denmark
+AD_nose_6_16Sv3v4	AD_6	AD	AD_nose	nose	F		Denmark
+AD_nose_64_16Sv3v4	AD_64	AD	AD_nose	nose	M		Denmark
+AD_nose_65_16Sv3v4	AD_65	AD	AD_nose	nose	M		Denmark
+AD_nose_67_16Sv3v4	AD_67	AD	AD_nose	nose	M		Denmark
+AD_nose_68_16Sv3v4	AD_68	AD	AD_nose	nose	F		Denmark
+AD_nose_69_16Sv3v4	AD_69	AD	AD_nose	nose	F		Denmark
+AD_nose_7_16Sv3v4	AD_7	AD	AD_nose	nose	M		Denmark
+AD_nose_71_16Sv3v4	AD_71	AD	AD_nose	nose	F		Denmark
+AD_nose_72_16Sv3v4	AD_72	AD	AD_nose	nose	M		Denmark
+AD_nose_73_16Sv3v4	AD_73	AD	AD_nose	nose	F		Denmark
+AD_nose_75_16Sv3v4	AD_75	AD	AD_nose	nose	M		Denmark
+AD_nose_76_16Sv3v4	AD_76	AD	AD_nose	nose	F		Denmark
+AD_nose_79_16Sv3v4	AD_79	AD	AD_nose	nose	F		Denmark
+AD_nose_8_16Sv3v4	AD_8	AD	AD_nose	nose	F		Denmark
+AD_nose_81_16Sv3v4	AD_81	AD	AD_nose	nose	F		Denmark
+AD_nose_83_16Sv3v4	AD_83	AD	AD_nose	nose	F		Denmark
+AD_nose_84_16Sv3v4	AD_84	AD	AD_nose	nose	F		Denmark
+AD_nose_85_16Sv3v4	AD_85	AD	AD_nose	nose	F		Denmark
+AD_nose_87_16Sv3v4	AD_87	AD	AD_nose	nose	M		Denmark
+AD_nose_88_16Sv3v4	AD_88	AD	AD_nose	nose	M		Denmark
+AD_nose_89_16Sv3v4	AD_89	AD	AD_nose	nose	F		Denmark
+AD_nose_9_16Sv3v4	AD_9	AD	AD_nose	nose	M		Denmark
+AD_nose_90_16Sv3v4	AD_90	AD	AD_nose	nose	F		Denmark
+AD_nose_91_16Sv3v4	AD_91	AD	AD_nose	nose	M		Denmark
+AD_nose_92_16Sv3v4	AD_92	AD	AD_nose	nose	F		Denmark
+AD_nose_93_16Sv3v4	AD_93	AD	AD_nose	nose	M		Denmark
+AD_nose_95_16Sv3v4	AD_95	AD	AD_nose	nose	M		Denmark
+AD_nose_97_16Sv3v4	AD_97	AD	AD_nose	nose	F		Denmark
+AD_nose_98_16Sv3v4	AD_98	AD	AD_nose	nose	F		Denmark
+AD_nose_99_16Sv3v4	AD_99	AD	AD_nose	nose	M		Denmark
+Control_nose_10_16Sv3v4	Control_10	Control	Control_nose	nose	F		Denmark
+Control_nose_100_16Sv3v4	Control_100	Control	Control_nose	nose	M		Denmark
+Control_nose_101_16Sv3v4	Control_101	Control	Control_nose	nose	F		Denmark
+Control_nose_102_16Sv3v4	Control_102	Control	Control_nose	nose	F		Denmark
+Control_nose_103_16Sv3v4	Control_103	Control	Control_nose	nose	F		Denmark
+Control_nose_104_16Sv3v4	Control_104	Control	Control_nose	nose	F		Denmark
+Control_nose_105_16Sv3v4	Control_105	Control	Control_nose	nose	M		Denmark
+Control_nose_106_16Sv3v4	Control_106	Control	Control_nose	nose	M		Denmark
+Control_nose_107_16Sv3v4	Control_107	Control	Control_nose	nose	F		Denmark
+Control_nose_109_16Sv3v4	Control_109	Control	Control_nose	nose	F		Denmark
+Control_nose_11_16Sv3v4	Control_11	Control	Control_nose	nose	M		Denmark
+Control_nose_110_16Sv3v4	Control_110	Control	Control_nose	nose	M		Denmark
+Control_nose_111_16Sv3v4	Control_111	Control	Control_nose	nose	F		Denmark
+Control_nose_113_16Sv3v4	Control_113	Control	Control_nose	nose	F		Denmark
+Control_nose_12_16Sv3v4	Control_12	Control	Control_nose	nose	F		Denmark
+Control_nose_13_16Sv3v4	Control_13	Control	Control_nose	nose	M		Denmark
+Control_nose_14_16Sv3v4	Control_14	Control	Control_nose	nose	F		Denmark
+Control_nose_15_16Sv3v4	Control_15	Control	Control_nose	nose	F		Denmark
+Control_nose_16_16Sv3v4	Control_16	Control	Control_nose	nose	M		Denmark
+Control_nose_17_16Sv3v4	Control_17	Control	Control_nose	nose	M		Denmark
+Control_nose_18_16Sv3v4	Control_18	Control	Control_nose	nose	M		Denmark
+Control_nose_19_16Sv3v4	Control_19	Control	Control_nose	nose	M		Denmark
+Control_nose_20_16Sv3v4	Control_20	Control	Control_nose	nose	F		Denmark
+Control_nose_21_16Sv3v4	Control_21	Control	Control_nose	nose	F		Denmark
+Control_nose_22_16Sv3v4	Control_22	Control	Control_nose	nose	F		Denmark
+Control_nose_23_16Sv3v4	Control_23	Control	Control_nose	nose	M		Denmark
+Control_nose_24_16Sv3v4	Control_24	Control	Control_nose	nose	M		Denmark
+Control_nose_28_16Sv3v4	Control_28	Control	Control_nose	nose	F		Denmark
+Control_nose_29_16Sv3v4	Control_29	Control	Control_nose	nose	F		Denmark
+Control_nose_30_16Sv3v4	Control_30	Control	Control_nose	nose	M		Denmark
+Control_nose_31_16Sv3v4	Control_31	Control	Control_nose	nose	M		Denmark
+Control_nose_32_16Sv3v4	Control_32	Control	Control_nose	nose	F		Denmark
+Control_nose_34_16Sv3v4	Control_34	Control	Control_nose	nose	F		Denmark
+Control_nose_35_16Sv3v4	Control_35	Control	Control_nose	nose	F		Denmark
+Control_nose_37_16Sv3v4	Control_37	Control	Control_nose	nose	F		Denmark
+Control_nose_38_16Sv3v4	Control_38	Control	Control_nose	nose	F		Denmark
+Control_nose_39_16Sv3v4	Control_39	Control	Control_nose	nose	F		Denmark
+Control_nose_4_16Sv3v4	Control_4	Control	Control_nose	nose	F		Denmark
+Control_nose_40_16Sv3v4	Control_40	Control	Control_nose	nose	M		Denmark
+Control_nose_41_16Sv3v4	Control_41	Control	Control_nose	nose	M		Denmark
+Control_nose_42_16Sv3v4	Control_42	Control	Control_nose	nose	M		Denmark
+Control_nose_43_16Sv3v4	Control_43	Control	Control_nose	nose	M		Denmark
+Control_nose_44_16Sv3v4	Control_44	Control	Control_nose	nose	M		Denmark
+Control_nose_45_16Sv3v4	Control_45	Control	Control_nose	nose	M		Denmark
+Control_nose_46_16Sv3v4	Control_46	Control	Control_nose	nose	F		Denmark
+Control_nose_48_16Sv3v4	Control_48	Control	Control_nose	nose	F		Denmark
+Control_nose_49_16Sv3v4	Control_49	Control	Control_nose	nose	F		Denmark
+Control_nose_50_16Sv3v4	Control_50	Control	Control_nose	nose	M		Denmark
+Control_nose_51_16Sv3v4	Control_51	Control	Control_nose	nose	F		Denmark
+Control_nose_52_16Sv3v4	Control_52	Control	Control_nose	nose	M		Denmark
+Control_nose_53_16Sv3v4	Control_53	Control	Control_nose	nose	M		Denmark
+Control_nose_55_16Sv3v4	Control_55	Control	Control_nose	nose	M		Denmark
+Control_nose_56_16Sv3v4	Control_56	Control	Control_nose	nose	M		Denmark
+Control_nose_57_16Sv3v4	Control_57	Control	Control_nose	nose	M		Denmark
+Control_nose_58_16Sv3v4	Control_58	Control	Control_nose	nose	F		Denmark
+Control_nose_59_16Sv3v4	Control_59	Control	Control_nose	nose	F		Denmark
+Control_nose_63_16Sv3v4	Control_63	Control	Control_nose	nose	M		Denmark
+Control_nose_65_16Sv3v4	Control_65	Control	Control_nose	nose	F		Denmark
+Control_nose_66_16Sv3v4	Control_66	Control	Control_nose	nose	M		Denmark
+Control_nose_67_16Sv3v4	Control_67	Control	Control_nose	nose	F		Denmark
+Control_nose_68_16Sv3v4	Control_68	Control	Control_nose	nose	M		Denmark
+Control_nose_69_16Sv3v4	Control_69	Control	Control_nose	nose	F		Denmark
+Control_nose_70_16Sv3v4	Control_70	Control	Control_nose	nose	F		Denmark
+Control_nose_71_16Sv3v4	Control_71	Control	Control_nose	nose	M		Denmark
+Control_nose_73_16Sv3v4	Control_73	Control	Control_nose	nose	F		Denmark
+Control_nose_74_16Sv3v4	Control_74	Control	Control_nose	nose	M		Denmark
+Control_nose_76_16Sv3v4	Control_76	Control	Control_nose	nose	M		Denmark
+Control_nose_77_16Sv3v4	Control_77	Control	Control_nose	nose	F		Denmark
+Control_nose_78_16Sv3v4	Control_78	Control	Control_nose	nose	M		Denmark
+Control_nose_79_16Sv3v4	Control_79	Control	Control_nose	nose	M		Denmark
+Control_nose_8_16Sv3v4	Control_8	Control	Control_nose	nose	F		Denmark
+Control_nose_80_16Sv3v4	Control_80	Control	Control_nose	nose	F		Denmark
+Control_nose_81_16Sv3v4	Control_81	Control	Control_nose	nose	M		Denmark
+Control_nose_82_16Sv3v4	Control_82	Control	Control_nose	nose	M		Denmark
+Control_nose_83_16Sv3v4	Control_83	Control	Control_nose	nose	F		Denmark
+Control_nose_84_16Sv3v4	Control_84	Control	Control_nose	nose	F		Denmark
+Control_nose_85_16Sv3v4	Control_85	Control	Control_nose	nose	M		Denmark
+Control_nose_86_16Sv3v4	Control_86	Control	Control_nose	nose	F		Denmark
+Control_nose_87_16Sv3v4	Control_87	Control	Control_nose	nose	F		Denmark
+Control_nose_88_16Sv3v4	Control_88	Control	Control_nose	nose	F		Denmark
+Control_nose_89_16Sv3v4	Control_89	Control	Control_nose	nose	M		Denmark
+Control_nose_9_16Sv3v4	Control_9	Control	Control_nose	nose	F		Denmark
+Control_nose_90_16Sv3v4	Control_90	Control	Control_nose	nose	M		Denmark
+Control_nose_91_16Sv3v4	Control_91	Control	Control_nose	nose	M		Denmark
+Control_nose_92_16Sv3v4	Control_92	Control	Control_nose	nose	M		Denmark
+Control_nose_93_16Sv3v4	Control_93	Control	Control_nose	nose	M		Denmark
+Control_nose_94_16Sv3v4	Control_94	Control	Control_nose	nose	M		Denmark
+Control_nose_95_16Sv3v4	Control_95	Control	Control_nose	nose	F		Denmark
+Control_nose_96_16Sv3v4	Control_96	Control	Control_nose	nose	F		Denmark
+Control_nose_97_16Sv3v4	Control_97	Control	Control_nose	nose	M		Denmark
+Control_nose_98_16Sv3v4	Control_98	Control	Control_nose	nose	F		Denmark
+Control_nose_99_16Sv3v4	Control_99	Control	Control_nose	nose	M		Denmark
+Control_skin_10_16Sv3v4	Control_10	Control	Control_skin	antecubital_fossa	F	moist	Denmark
+Control_skin_100_16Sv3v4	Control_100	Control	Control_skin	antecubital_fossa	M	moist	Denmark
+Control_skin_101_16Sv3v4	Control_101	Control	Control_skin	antecubital_fossa	F	moist	Denmark
+Control_skin_102_16Sv3v4	Control_102	Control	Control_skin	antecubital_fossa	F	moist	Denmark
+Control_skin_103_16Sv3v4	Control_103	Control	Control_skin	antecubital_fossa	F	moist	Denmark
+Control_skin_104_16Sv3v4	Control_104	Control	Control_skin	antecubital_fossa	F	moist	Denmark
+Control_skin_105_16Sv3v4	Control_105	Control	Control_skin	antecubital_fossa	M	moist	Denmark
+Control_skin_106_16Sv3v4	Control_106	Control	Control_skin	antecubital_fossa	M	moist	Denmark
+Control_skin_107_16Sv3v4	Control_107	Control	Control_skin	antecubital_fossa	F	moist	Denmark
+Control_skin_109_16Sv3v4	Control_109	Control	Control_skin	antecubital_fossa	F	moist	Denmark
+Control_skin_11_16Sv3v4	Control_11	Control	Control_skin	antecubital_fossa	M	moist	Denmark
+Control_skin_110_16Sv3v4	Control_110	Control	Control_skin	antecubital_fossa	M	moist	Denmark
+Control_skin_111_16Sv3v4	Control_111	Control	Control_skin	antecubital_fossa	F	moist	Denmark
+Control_skin_113_16Sv3v4	Control_113	Control	Control_skin	antecubital_fossa	F	moist	Denmark
+Control_skin_12_16Sv3v4	Control_12	Control	Control_skin	antecubital_fossa	F	moist	Denmark
+Control_skin_13_16Sv3v4	Control_13	Control	Control_skin	antecubital_fossa	M	moist	Denmark
+Control_skin_14_16Sv3v4	Control_14	Control	Control_skin	antecubital_fossa	F	moist	Denmark
+Control_skin_15_16Sv3v4	Control_15	Control	Control_skin	antecubital_fossa	F	moist	Denmark
+Control_skin_16_16Sv3v4	Control_16	Control	Control_skin	antecubital_fossa	M	moist	Denmark
+Control_skin_17_16Sv3v4	Control_17	Control	Control_skin	antecubital_fossa	M	moist	Denmark
+Control_skin_18_16Sv3v4	Control_18	Control	Control_skin	antecubital_fossa	M	moist	Denmark
+Control_skin_19_16Sv3v4	Control_19	Control	Control_skin	antecubital_fossa	M	moist	Denmark
+Control_skin_20_16Sv3v4	Control_20	Control	Control_skin	antecubital_fossa	F	moist	Denmark
+Control_skin_21_16Sv3v4	Control_21	Control	Control_skin	antecubital_fossa	F	moist	Denmark
+Control_skin_22_16Sv3v4	Control_22	Control	Control_skin	antecubital_fossa	F	moist	Denmark
+Control_skin_23_16Sv3v4	Control_23	Control	Control_skin	antecubital_fossa	M	moist	Denmark
+Control_skin_24_16Sv3v4	Control_24	Control	Control_skin	antecubital_fossa	M	moist	Denmark
+Control_skin_28_16Sv3v4	Control_28	Control	Control_skin	antecubital_fossa	F	moist	Denmark
+Control_skin_29_16Sv3v4	Control_29	Control	Control_skin	antecubital_fossa	F	moist	Denmark
+Control_skin_30_16Sv3v4	Control_30	Control	Control_skin	antecubital_fossa	M	moist	Denmark
+Control_skin_31_16Sv3v4	Control_31	Control	Control_skin	antecubital_fossa	M	moist	Denmark
+Control_skin_32_16Sv3v4	Control_32	Control	Control_skin	antecubital_fossa	F	moist	Denmark
+Control_skin_34_16Sv3v4	Control_34	Control	Control_skin	antecubital_fossa	F	moist	Denmark
+Control_skin_35_16Sv3v4	Control_35	Control	Control_skin	antecubital_fossa	F	moist	Denmark
+Control_skin_37_16Sv3v4	Control_37	Control	Control_skin	antecubital_fossa	F	moist	Denmark
+Control_skin_38_16Sv3v4	Control_38	Control	Control_skin	antecubital_fossa	F	moist	Denmark
+Control_skin_39_16Sv3v4	Control_39	Control	Control_skin	antecubital_fossa	F	moist	Denmark
+Control_skin_4_16Sv3v4	Control_4	Control	Control_skin	antecubital_fossa	F	moist	Denmark
+Control_skin_40_16Sv3v4	Control_40	Control	Control_skin	antecubital_fossa	M	moist	Denmark
+Control_skin_41_16Sv3v4	Control_41	Control	Control_skin	antecubital_fossa	M	moist	Denmark
+Control_skin_42_16Sv3v4	Control_42	Control	Control_skin	antecubital_fossa	M	moist	Denmark
+Control_skin_43_16Sv3v4	Control_43	Control	Control_skin	antecubital_fossa	M	moist	Denmark
+Control_skin_44_16Sv3v4	Control_44	Control	Control_skin	antecubital_fossa	M	moist	Denmark
+Control_skin_45_16Sv3v4	Control_45	Control	Control_skin	antecubital_fossa	M	moist	Denmark
+Control_skin_46_16Sv3v4	Control_46	Control	Control_skin	antecubital_fossa	F	moist	Denmark
+Control_skin_48_16Sv3v4	Control_48	Control	Control_skin	antecubital_fossa	F	moist	Denmark
+Control_skin_49_16Sv3v4	Control_49	Control	Control_skin	antecubital_fossa	F	moist	Denmark
+Control_skin_50_16Sv3v4	Control_50	Control	Control_skin	antecubital_fossa	M	moist	Denmark
+Control_skin_51_16Sv3v4	Control_51	Control	Control_skin	antecubital_fossa	F	moist	Denmark
+Control_skin_52_16Sv3v4	Control_52	Control	Control_skin	antecubital_fossa	M	moist	Denmark
+Control_skin_53_16Sv3v4	Control_53	Control	Control_skin	antecubital_fossa	M	moist	Denmark
+Control_skin_55_16Sv3v4	Control_55	Control	Control_skin	antecubital_fossa	M	moist	Denmark
+Control_skin_56_16Sv3v4	Control_56	Control	Control_skin	antecubital_fossa	M	moist	Denmark
+Control_skin_57_16Sv3v4	Control_57	Control	Control_skin	antecubital_fossa	M	moist	Denmark
+Control_skin_58_16Sv3v4	Control_58	Control	Control_skin	antecubital_fossa	F	moist	Denmark
+Control_skin_59_16Sv3v4	Control_59	Control	Control_skin	antecubital_fossa	F	moist	Denmark
+Control_skin_63_16Sv3v4	Control_63	Control	Control_skin	antecubital_fossa	M	moist	Denmark
+Control_skin_65_16Sv3v4	Control_65	Control	Control_skin	antecubital_fossa	F	moist	Denmark
+Control_skin_66_16Sv3v4	Control_66	Control	Control_skin	antecubital_fossa	M	moist	Denmark
+Control_skin_67_16Sv3v4	Control_67	Control	Control_skin	antecubital_fossa	F	moist	Denmark
+Control_skin_68_16Sv3v4	Control_68	Control	Control_skin	antecubital_fossa	M	moist	Denmark
+Control_skin_69_16Sv3v4	Control_69	Control	Control_skin	antecubital_fossa	F	moist	Denmark
+Control_skin_70_16Sv3v4	Control_70	Control	Control_skin	antecubital_fossa	F	moist	Denmark
+Control_skin_71_16Sv3v4	Control_71	Control	Control_skin	antecubital_fossa	M	moist	Denmark
+Control_skin_73_16Sv3v4	Control_73	Control	Control_skin	antecubital_fossa	F	moist	Denmark
+Control_skin_74_16Sv3v4	Control_74	Control	Control_skin	antecubital_fossa	M	moist	Denmark
+Control_skin_76_16Sv3v4	Control_76	Control	Control_skin	antecubital_fossa	M	moist	Denmark
+Control_skin_77_16Sv3v4	Control_77	Control	Control_skin	antecubital_fossa	F	moist	Denmark
+Control_skin_78_16Sv3v4	Control_78	Control	Control_skin	antecubital_fossa	M	moist	Denmark
+Control_skin_79_16Sv3v4	Control_79	Control	Control_skin	antecubital_fossa	M	moist	Denmark
+Control_skin_8_16Sv3v4	Control_8	Control	Control_skin	antecubital_fossa	F	moist	Denmark
+Control_skin_80_16Sv3v4	Control_80	Control	Control_skin	antecubital_fossa	F	moist	Denmark
+Control_skin_81_16Sv3v4	Control_81	Control	Control_skin	antecubital_fossa	M	moist	Denmark
+Control_skin_82_16Sv3v4	Control_82	Control	Control_skin	antecubital_fossa	M	moist	Denmark
+Control_skin_83_16Sv3v4	Control_83	Control	Control_skin	antecubital_fossa	F	moist	Denmark
+Control_skin_84_16Sv3v4	Control_84	Control	Control_skin	antecubital_fossa	F	moist	Denmark
+Control_skin_85_16Sv3v4	Control_85	Control	Control_skin	antecubital_fossa	M	moist	Denmark
+Control_skin_86_16Sv3v4	Control_86	Control	Control_skin	antecubital_fossa	F	moist	Denmark
+Control_skin_87_16Sv3v4	Control_87	Control	Control_skin	antecubital_fossa	F	moist	Denmark
+Control_skin_88_16Sv3v4	Control_88	Control	Control_skin	antecubital_fossa	F	moist	Denmark
+Control_skin_89_16Sv3v4	Control_89	Control	Control_skin	antecubital_fossa	M	moist	Denmark
+Control_skin_9_16Sv3v4	Control_9	Control	Control_skin	antecubital_fossa	F	moist	Denmark
+Control_skin_90_16Sv3v4	Control_90	Control	Control_skin	antecubital_fossa	M	moist	Denmark
+Control_skin_91_16Sv3v4	Control_91	Control	Control_skin	antecubital_fossa	M	moist	Denmark
+Control_skin_92_16Sv3v4	Control_92	Control	Control_skin	antecubital_fossa	M	moist	Denmark
+Control_skin_93_16Sv3v4	Control_93	Control	Control_skin	antecubital_fossa	M	moist	Denmark
+Control_skin_94_16Sv3v4	Control_94	Control	Control_skin	antecubital_fossa	M	moist	Denmark
+Control_skin_95_16Sv3v4	Control_95	Control	Control_skin	antecubital_fossa	F	moist	Denmark
+Control_skin_96_16Sv3v4	Control_96	Control	Control_skin	antecubital_fossa	F	moist	Denmark
+Control_skin_97_16Sv3v4	Control_97	Control	Control_skin	antecubital_fossa	M	moist	Denmark
+Control_skin_98_16Sv3v4	Control_98	Control	Control_skin	antecubital_fossa	F	moist	Denmark
+Control_skin_99_16Sv3v4	Control_99	Control	Control_skin	antecubital_fossa	M	moist	Denmark

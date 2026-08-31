@@ -1,0 +1,485 @@
+sample_accession	sample_alias	sample_title	host_subject_id	env_biome	env_feature	env_material	dominant_hand	ethnicity	collection_date	isolation_source
+SAMN07196928	ADMa3zFOHAUT	ADMa3zFOHAUT	ADMa3z	Forehead Skin	Urban/Rural	Skin	right	Chinese	2014-11	ADMa
+SAMN07196808	ADMa3zFOHSPR	ADMa3zFOHSPR	ADMa3z	Forehead Skin	Urban/Rural	Skin	right	Chinese	2014-04	ADMa
+SAMN07196688	ADMa3zFOHSUM	ADMa3zFOHSUM	ADMa3z	Forehead Skin	Urban/Rural	Skin	right	Chinese	2014-08	ADMa
+SAMN07196568	ADMa3zFOHWIN	ADMa3zFOHWIN	ADMa3z	Forehead Skin	Urban/Rural	Skin	left	Chinese	2014-01	ADMa
+SAMN07196929	ADMa3zLFAUT	ADMa3zLFAUT	ADMa3z	Left Forearm Skin	Urban/Rural	Skin	right	Chinese	2014-11	ADMa
+SAMN07196809	ADMa3zLFSPR	ADMa3zLFSPR	ADMa3z	Left Forearm Skin	Urban/Rural	Skin	right	Chinese	2014-04	ADMa
+SAMN07196689	ADMa3zLFSUM	ADMa3zLFSUM	ADMa3z	Left Forearm Skin	Urban/Rural	Skin	right	Chinese	2014-08	ADMa
+SAMN07196569	ADMa3zLFWIN	ADMa3zLFWIN	ADMa3z	Left Forearm Skin	Urban/Rural	Skin	left	Chinese	2014-01	ADMa
+SAMN07196930	ADMa3zLPAUT	ADMa3zLPAUT	ADMa3z	Left Palm Skin	Urban/Rural	Skin	right	Chinese	2014-11	ADMa
+SAMN07196810	ADMa3zLPSPR	ADMa3zLPSPR	ADMa3z	Left Palm Skin	Urban/Rural	Skin	right	Chinese	2014-04	ADMa
+SAMN07196690	ADMa3zLPSUM	ADMa3zLPSUM	ADMa3z	Left Palm Skin	Urban/Rural	Skin	right	Chinese	2014-08	ADMa
+SAMN07196570	ADMa3zLPWIN	ADMa3zLPWIN	ADMa3z	Left Palm Skin	Urban/Rural	Skin	left	Chinese	2014-01	ADMa
+SAMN07196931	ADMa3zRFAUT	ADMa3zRFAUT	ADMa3z	Right Forearm Skin	Urban/Rural	Skin	right	Chinese	2014-11	ADMa
+SAMN07196811	ADMa3zRFSPR	ADMa3zRFSPR	ADMa3z	Right Forearm Skin	Urban/Rural	Skin	right	Chinese	2014-04	ADMa
+SAMN07196691	ADMa3zRFSUM	ADMa3zRFSUM	ADMa3z	Right Forearm Skin	Urban/Rural	Skin	right	Chinese	2014-08	ADMa
+SAMN07196571	ADMa3zRFWIN	ADMa3zRFWIN	ADMa3z	Right Forearm Skin	Urban/Rural	Skin	left	Chinese	2014-01	ADMa
+SAMN07196932	ADMa3zRPAUT	ADMa3zRPAUT	ADMa3z	Right Palm Skin	Urban/Rural	Skin	right	Chinese	2014-11	ADMa
+SAMN07196812	ADMa3zRPSPR	ADMa3zRPSPR	ADMa3z	Right Palm Skin	Urban/Rural	Skin	right	Chinese	2014-04	ADMa
+SAMN07196692	ADMa3zRPSUM	ADMa3zRPSUM	ADMa3z	Right Palm Skin	Urban/Rural	Skin	right	Chinese	2014-08	ADMa
+SAMN07196572	ADMa3zRPWIN	ADMa3zRPWIN	ADMa3z	Right Palm Skin	Urban/Rural	Skin	left	Chinese	2014-01	ADMa
+SAMN07256667	Blk	Blk		swab_control_1	swab_control_1	swab_control_1			2014-01	
+SAMN07256668	Blk2	Blk2		swab_control_2	swab_control_2	swab_control_2			2014-01	
+SAMN07196933	FH3zFOHAUT	FH3zFOHAUT	FH3z	Forehead Skin	Urban/Rural	Skin	right	Chinese	2014-11	FH
+SAMN07196813	FH3zFOHSPR	FH3zFOHSPR	FH3z	Forehead Skin	Urban/Rural	Skin	right	Chinese	2014-04	FH
+SAMN07196693	FH3zFOHSUM	FH3zFOHSUM	FH3z	Forehead Skin	Urban/Rural	Skin	right	Chinese	2014-08	FH
+SAMN07196573	FH3zFOHWIN	FH3zFOHWIN	FH3z	Forehead Skin	Urban/Rural	Skin	right	Chinese	2014-01	FH
+SAMN07196934	FH3zLFAUT	FH3zLFAUT	FH3z	Left Forearm Skin	Urban/Rural	Skin	right	Chinese	2014-11	FH
+SAMN07196814	FH3zLFSPR	FH3zLFSPR	FH3z	Left Forearm Skin	Urban/Rural	Skin	right	Chinese	2014-04	FH
+SAMN07196694	FH3zLFSUM	FH3zLFSUM	FH3z	Left Forearm Skin	Urban/Rural	Skin	right	Chinese	2014-08	FH
+SAMN07196574	FH3zLFWIN	FH3zLFWIN	FH3z	Left Forearm Skin	Urban/Rural	Skin	right	Chinese	2014-01	FH
+SAMN07196935	FH3zLPAUT	FH3zLPAUT	FH3z	Left Palm Skin	Urban/Rural	Skin	right	Chinese	2014-11	FH
+SAMN07196815	FH3zLPSPR	FH3zLPSPR	FH3z	Left Palm Skin	Urban/Rural	Skin	right	Chinese	2014-04	FH
+SAMN07196695	FH3zLPSUM	FH3zLPSUM	FH3z	Left Palm Skin	Urban/Rural	Skin	right	Chinese	2014-08	FH
+SAMN07196575	FH3zLPWIN	FH3zLPWIN	FH3z	Left Palm Skin	Urban/Rural	Skin	right	Chinese	2014-01	FH
+SAMN07196936	FH3zRFAUT	FH3zRFAUT	FH3z	Right Forearm Skin	Urban/Rural	Skin	right	Chinese	2014-11	FH
+SAMN07196816	FH3zRFSPR	FH3zRFSPR	FH3z	Right Forearm Skin	Urban/Rural	Skin	right	Chinese	2014-04	FH
+SAMN07196696	FH3zRFSUM	FH3zRFSUM	FH3z	Right Forearm Skin	Urban/Rural	Skin	right	Chinese	2014-08	FH
+SAMN07196576	FH3zRFWIN	FH3zRFWIN	FH3z	Right Forearm Skin	Urban/Rural	Skin	right	Chinese	2014-01	FH
+SAMN07196937	FH3zRPAUT	FH3zRPAUT	FH3z	Right Palm Skin	Urban/Rural	Skin	right	Chinese	2014-11	FH
+SAMN07196817	FH3zRPSPR	FH3zRPSPR	FH3z	Right Palm Skin	Urban/Rural	Skin	right	Chinese	2014-04	FH
+SAMN07196697	FH3zRPSUM	FH3zRPSUM	FH3z	Right Palm Skin	Urban/Rural	Skin	right	Chinese	2014-08	FH
+SAMN07196577	FH3zRPWIN	FH3zRPWIN	FH3z	Right Palm Skin	Urban/Rural	Skin	right	Chinese	2014-01	FH
+SAMN07196938	HFC3zFOHAUT	HFC3zFOHAUT	HFC3z	Forehead Skin	Urban/Rural	Skin	right	Chinese	2014-11	HFC
+SAMN07196818	HFC3zFOHSPR	HFC3zFOHSPR	HFC3z	Forehead Skin	Urban/Rural	Skin	right	Chinese	2014-04	HFC
+SAMN07196698	HFC3zFOHSUM	HFC3zFOHSUM	HFC3z	Forehead Skin	Urban/Rural	Skin	right	Chinese	2014-08	HFC
+SAMN07196578	HFC3zFOHWIN	HFC3zFOHWIN	HFC3z	Forehead Skin	Urban/Rural	Skin	right	Chinese	2014-01	HFC
+SAMN07196939	HFC3zLFAUT	HFC3zLFAUT	HFC3z	Left Forearm Skin	Urban/Rural	Skin	right	Chinese	2014-11	HFC
+SAMN07196819	HFC3zLFSPR	HFC3zLFSPR	HFC3z	Left Forearm Skin	Urban/Rural	Skin	right	Chinese	2014-04	HFC
+SAMN07196699	HFC3zLFSUM	HFC3zLFSUM	HFC3z	Left Forearm Skin	Urban/Rural	Skin	right	Chinese	2014-08	HFC
+SAMN07196579	HFC3zLFWIN	HFC3zLFWIN	HFC3z	Left Forearm Skin	Urban/Rural	Skin	right	Chinese	2014-01	HFC
+SAMN07196940	HFC3zLPAUT	HFC3zLPAUT	HFC3z	Left Palm Skin	Urban/Rural	Skin	right	Chinese	2014-11	HFC
+SAMN07196820	HFC3zLPSPR	HFC3zLPSPR	HFC3z	Left Palm Skin	Urban/Rural	Skin	right	Chinese	2014-04	HFC
+SAMN07196700	HFC3zLPSUM	HFC3zLPSUM	HFC3z	Left Palm Skin	Urban/Rural	Skin	right	Chinese	2014-08	HFC
+SAMN07196580	HFC3zLPWIN	HFC3zLPWIN	HFC3z	Left Palm Skin	Urban/Rural	Skin	right	Chinese	2014-01	HFC
+SAMN07196941	HFC3zRFAUT	HFC3zRFAUT	HFC3z	Right Forearm Skin	Urban/Rural	Skin	right	Chinese	2014-11	HFC
+SAMN07196821	HFC3zRFSPR	HFC3zRFSPR	HFC3z	Right Forearm Skin	Urban/Rural	Skin	right	Chinese	2014-04	HFC
+SAMN07196701	HFC3zRFSUM	HFC3zRFSUM	HFC3z	Right Forearm Skin	Urban/Rural	Skin	right	Chinese	2014-08	HFC
+SAMN07196581	HFC3zRFWIN	HFC3zRFWIN	HFC3z	Right Forearm Skin	Urban/Rural	Skin	right	Chinese	2014-01	HFC
+SAMN07196942	HFC3zRPAUT	HFC3zRPAUT	HFC3z	Right Palm Skin	Urban/Rural	Skin	right	Chinese	2014-11	HFC
+SAMN07196822	HFC3zRPSPR	HFC3zRPSPR	HFC3z	Right Palm Skin	Urban/Rural	Skin	right	Chinese	2014-04	HFC
+SAMN07196702	HFC3zRPSUM	HFC3zRPSUM	HFC3z	Right Palm Skin	Urban/Rural	Skin	right	Chinese	2014-08	HFC
+SAMN07196582	HFC3zRPWIN	HFC3zRPWIN	HFC3z	Right Palm Skin	Urban/Rural	Skin	right	Chinese	2014-01	HFC
+SAMN07196943	HHa3zFOHAUT	HHa3zFOHAUT	HHa3z	Forehead Skin	Urban/Rural	Skin	right	Chinese	2014-11	HHa
+SAMN07196823	HHa3zFOHSPR	HHa3zFOHSPR	HHa3z	Forehead Skin	Urban/Rural	Skin	right	Chinese	2014-04	HHa
+SAMN07196703	HHa3zFOHSUM	HHa3zFOHSUM	HHa3z	Forehead Skin	Urban/Rural	Skin	right	Chinese	2014-08	HHa
+SAMN07196583	HHa3zFOHWIN	HHa3zFOHWIN	HHa3z	Forehead Skin	Urban/Rural	Skin	right	Chinese	2014-01	HHa
+SAMN07196944	HHa3zLFAUT	HHa3zLFAUT	HHa3z	Left Forearm Skin	Urban/Rural	Skin	right	Chinese	2014-11	HHa
+SAMN07196824	HHa3zLFSPR	HHa3zLFSPR	HHa3z	Left Forearm Skin	Urban/Rural	Skin	right	Chinese	2014-04	HHa
+SAMN07196704	HHa3zLFSUM	HHa3zLFSUM	HHa3z	Left Forearm Skin	Urban/Rural	Skin	right	Chinese	2014-08	HHa
+SAMN07196584	HHa3zLFWIN	HHa3zLFWIN	HHa3z	Left Forearm Skin	Urban/Rural	Skin	right	Chinese	2014-01	HHa
+SAMN07196945	HHa3zLPAUT	HHa3zLPAUT	HHa3z	Left Palm Skin	Urban/Rural	Skin	right	Chinese	2014-11	HHa
+SAMN07196825	HHa3zLPSPR	HHa3zLPSPR	HHa3z	Left Palm Skin	Urban/Rural	Skin	right	Chinese	2014-04	HHa
+SAMN07196705	HHa3zLPSUM	HHa3zLPSUM	HHa3z	Left Palm Skin	Urban/Rural	Skin	right	Chinese	2014-08	HHa
+SAMN07196585	HHa3zLPWIN	HHa3zLPWIN	HHa3z	Left Palm Skin	Urban/Rural	Skin	right	Chinese	2014-01	HHa
+SAMN07196946	HHa3zRFAUT	HHa3zRFAUT	HHa3z	Right Forearm Skin	Urban/Rural	Skin	right	Chinese	2014-11	HHa
+SAMN07196826	HHa3zRFSPR	HHa3zRFSPR	HHa3z	Right Forearm Skin	Urban/Rural	Skin	right	Chinese	2014-04	HHa
+SAMN07196706	HHa3zRFSUM	HHa3zRFSUM	HHa3z	Right Forearm Skin	Urban/Rural	Skin	right	Chinese	2014-08	HHa
+SAMN07196586	HHa3zRFWIN	HHa3zRFWIN	HHa3z	Right Forearm Skin	Urban/Rural	Skin	right	Chinese	2014-01	HHa
+SAMN07196947	HHa3zRPAUT	HHa3zRPAUT	HHa3z	Right Palm Skin	Urban/Rural	Skin	right	Chinese	2014-11	HHa
+SAMN07196827	HHa3zRPSPR	HHa3zRPSPR	HHa3z	Right Palm Skin	Urban/Rural	Skin	right	Chinese	2014-04	HHa
+SAMN07196707	HHa3zRPSUM	HHa3zRPSUM	HHa3z	Right Palm Skin	Urban/Rural	Skin	right	Chinese	2014-08	HHa
+SAMN07196587	HHa3zRPWIN	HHa3zRPWIN	HHa3z	Right Palm Skin	Urban/Rural	Skin	right	Chinese	2014-01	HHa
+SAMN07196948	MOS3wFOHAUT	MOS3wFOHAUT	MOS3w	Forehead Skin	Urban/Rural	Skin	right	Chinese	2014-11	MOS
+SAMN07196828	MOS3wFOHSPR	MOS3wFOHSPR	MOS3w	Forehead Skin	Urban/Rural	Skin	right	Chinese	2014-04	MOS
+SAMN07196708	MOS3wFOHSUM	MOS3wFOHSUM	MOS3w	Forehead Skin	Urban/Rural	Skin	right	Chinese	2014-08	MOS
+SAMN07196588	MOS3wFOHWIN	MOS3wFOHWIN	MOS3w	Forehead Skin	Urban/Rural	Skin	right	Chinese	2014-01	MOS
+SAMN07196949	MOS3wLFAUT	MOS3wLFAUT	MOS3w	Left Forearm Skin	Urban/Rural	Skin	right	Chinese	2014-11	MOS
+SAMN07196829	MOS3wLFSPR	MOS3wLFSPR	MOS3w	Left Forearm Skin	Urban/Rural	Skin	right	Chinese	2014-04	MOS
+SAMN07196709	MOS3wLFSUM	MOS3wLFSUM	MOS3w	Left Forearm Skin	Urban/Rural	Skin	right	Chinese	2014-08	MOS
+SAMN07196589	MOS3wLFWIN	MOS3wLFWIN	MOS3w	Left Forearm Skin	Urban/Rural	Skin	right	Chinese	2014-01	MOS
+SAMN07196950	MOS3wLPAUT	MOS3wLPAUT	MOS3w	Left Palm Skin	Urban/Rural	Skin	right	Chinese	2014-11	MOS
+SAMN07196830	MOS3wLPSPR	MOS3wLPSPR	MOS3w	Left Palm Skin	Urban/Rural	Skin	right	Chinese	2014-04	MOS
+SAMN07196710	MOS3wLPSUM	MOS3wLPSUM	MOS3w	Left Palm Skin	Urban/Rural	Skin	right	Chinese	2014-08	MOS
+SAMN07196590	MOS3wLPWIN	MOS3wLPWIN	MOS3w	Left Palm Skin	Urban/Rural	Skin	right	Chinese	2014-01	MOS
+SAMN07196951	MOS3wRFAUT	MOS3wRFAUT	MOS3w	Right Forearm Skin	Urban/Rural	Skin	right	Chinese	2014-11	MOS
+SAMN07196831	MOS3wRFSPR	MOS3wRFSPR	MOS3w	Right Forearm Skin	Urban/Rural	Skin	right	Chinese	2014-04	MOS
+SAMN07196711	MOS3wRFSUM	MOS3wRFSUM	MOS3w	Right Forearm Skin	Urban/Rural	Skin	right	Chinese	2014-08	MOS
+SAMN07196591	MOS3wRFWIN	MOS3wRFWIN	MOS3w	Right Forearm Skin	Urban/Rural	Skin	right	Chinese	2014-01	MOS
+SAMN07196952	MOS3wRPAUT	MOS3wRPAUT	MOS3w	Right Palm Skin	Urban/Rural	Skin	right	Chinese	2014-11	MOS
+SAMN07196832	MOS3wRPSPR	MOS3wRPSPR	MOS3w	Right Palm Skin	Urban/Rural	Skin	right	Chinese	2014-04	MOS
+SAMN07196712	MOS3wRPSUM	MOS3wRPSUM	MOS3w	Right Palm Skin	Urban/Rural	Skin	right	Chinese	2014-08	MOS
+SAMN07196592	MOS3wRPWIN	MOS3wRPWIN	MOS3w	Right Palm Skin	Urban/Rural	Skin	right	Chinese	2014-01	MOS
+SAMN07196953	MOS3xFOHAUT	MOS3xFOHAUT	MOS3x	Forehead Skin	Urban/Rural	Skin	right	Chinese	2014-11	MOS
+SAMN07196833	MOS3xFOHSPR	MOS3xFOHSPR	MOS3x	Forehead Skin	Urban/Rural	Skin	right	Chinese	2014-04	MOS
+SAMN07196713	MOS3xFOHSUM	MOS3xFOHSUM	MOS3x	Forehead Skin	Urban/Rural	Skin	right	Chinese	2014-08	MOS
+SAMN07196593	MOS3xFOHWIN	MOS3xFOHWIN	MOS3x	Forehead Skin	Urban/Rural	Skin	right	Chinese	2014-01	MOS
+SAMN07196954	MOS3xLFAUT	MOS3xLFAUT	MOS3x	Left Forearm Skin	Urban/Rural	Skin	right	Chinese	2014-11	MOS
+SAMN07196834	MOS3xLFSPR	MOS3xLFSPR	MOS3x	Left Forearm Skin	Urban/Rural	Skin	right	Chinese	2014-04	MOS
+SAMN07196714	MOS3xLFSUM	MOS3xLFSUM	MOS3x	Left Forearm Skin	Urban/Rural	Skin	right	Chinese	2014-08	MOS
+SAMN07196594	MOS3xLFWIN	MOS3xLFWIN	MOS3x	Left Forearm Skin	Urban/Rural	Skin	right	Chinese	2014-01	MOS
+SAMN07196955	MOS3xLPAUT	MOS3xLPAUT	MOS3x	Left Palm Skin	Urban/Rural	Skin	right	Chinese	2014-11	MOS
+SAMN07196835	MOS3xLPSPR	MOS3xLPSPR	MOS3x	Left Palm Skin	Urban/Rural	Skin	right	Chinese	2014-04	MOS
+SAMN07196715	MOS3xLPSUM	MOS3xLPSUM	MOS3x	Left Palm Skin	Urban/Rural	Skin	right	Chinese	2014-08	MOS
+SAMN07196595	MOS3xLPWIN	MOS3xLPWIN	MOS3x	Left Palm Skin	Urban/Rural	Skin	right	Chinese	2014-01	MOS
+SAMN07196956	MOS3xRFAUT	MOS3xRFAUT	MOS3x	Right Forearm Skin	Urban/Rural	Skin	right	Chinese	2014-11	MOS
+SAMN07196836	MOS3xRFSPR	MOS3xRFSPR	MOS3x	Right Forearm Skin	Urban/Rural	Skin	right	Chinese	2014-04	MOS
+SAMN07196716	MOS3xRFSUM	MOS3xRFSUM	MOS3x	Right Forearm Skin	Urban/Rural	Skin	right	Chinese	2014-08	MOS
+SAMN07196596	MOS3xRFWIN	MOS3xRFWIN	MOS3x	Right Forearm Skin	Urban/Rural	Skin	right	Chinese	2014-01	MOS
+SAMN07196957	MOS3xRPAUT	MOS3xRPAUT	MOS3x	Right Palm Skin	Urban/Rural	Skin	right	Chinese	2014-11	MOS
+SAMN07196837	MOS3xRPSPR	MOS3xRPSPR	MOS3x	Right Palm Skin	Urban/Rural	Skin	right	Chinese	2014-04	MOS
+SAMN07196717	MOS3xRPSUM	MOS3xRPSUM	MOS3x	Right Palm Skin	Urban/Rural	Skin	right	Chinese	2014-08	MOS
+SAMN07196597	MOS3xRPWIN	MOS3xRPWIN	MOS3x	Right Palm Skin	Urban/Rural	Skin	right	Chinese	2014-01	MOS
+SAMN07196958	MOS3yFOHAUT	MOS3yFOHAUT	MOS3y	Forehead Skin	Urban/Rural	Skin	right	Chinese	2014-11	MOS
+SAMN07196838	MOS3yFOHSPR	MOS3yFOHSPR	MOS3y	Forehead Skin	Urban/Rural	Skin	right	Chinese	2014-04	MOS
+SAMN07196718	MOS3yFOHSUM	MOS3yFOHSUM	MOS3y	Forehead Skin	Urban/Rural	Skin	right	Chinese	2014-08	MOS
+SAMN07196598	MOS3yFOHWIN	MOS3yFOHWIN	MOS3y	Forehead Skin	Urban/Rural	Skin	right	Chinese	2014-01	MOS
+SAMN07196959	MOS3yLFAUT	MOS3yLFAUT	MOS3y	Left Forearm Skin	Urban/Rural	Skin	right	Chinese	2014-11	MOS
+SAMN07196839	MOS3yLFSPR	MOS3yLFSPR	MOS3y	Left Forearm Skin	Urban/Rural	Skin	right	Chinese	2014-04	MOS
+SAMN07196719	MOS3yLFSUM	MOS3yLFSUM	MOS3y	Left Forearm Skin	Urban/Rural	Skin	right	Chinese	2014-08	MOS
+SAMN07196599	MOS3yLFWIN	MOS3yLFWIN	MOS3y	Left Forearm Skin	Urban/Rural	Skin	right	Chinese	2014-01	MOS
+SAMN07196960	MOS3yLPAUT	MOS3yLPAUT	MOS3y	Left Palm Skin	Urban/Rural	Skin	right	Chinese	2014-11	MOS
+SAMN07196840	MOS3yLPSPR	MOS3yLPSPR	MOS3y	Left Palm Skin	Urban/Rural	Skin	right	Chinese	2014-04	MOS
+SAMN07196720	MOS3yLPSUM	MOS3yLPSUM	MOS3y	Left Palm Skin	Urban/Rural	Skin	right	Chinese	2014-08	MOS
+SAMN07196600	MOS3yLPWIN	MOS3yLPWIN	MOS3y	Left Palm Skin	Urban/Rural	Skin	right	Chinese	2014-01	MOS
+SAMN07196961	MOS3yRFAUT	MOS3yRFAUT	MOS3y	Right Forearm Skin	Urban/Rural	Skin	right	Chinese	2014-11	MOS
+SAMN07196841	MOS3yRFSPR	MOS3yRFSPR	MOS3y	Right Forearm Skin	Urban/Rural	Skin	right	Chinese	2014-04	MOS
+SAMN07196721	MOS3yRFSUM	MOS3yRFSUM	MOS3y	Right Forearm Skin	Urban/Rural	Skin	right	Chinese	2014-08	MOS
+SAMN07196601	MOS3yRFWIN	MOS3yRFWIN	MOS3y	Right Forearm Skin	Urban/Rural	Skin	right	Chinese	2014-01	MOS
+SAMN07196962	MOS3yRPAUT	MOS3yRPAUT	MOS3y	Right Palm Skin	Urban/Rural	Skin	right	Chinese	2014-11	MOS
+SAMN07196842	MOS3yRPSPR	MOS3yRPSPR	MOS3y	Right Palm Skin	Urban/Rural	Skin	right	Chinese	2014-04	MOS
+SAMN07196722	MOS3yRPSUM	MOS3yRPSUM	MOS3y	Right Palm Skin	Urban/Rural	Skin	right	Chinese	2014-08	MOS
+SAMN07196602	MOS3yRPWIN	MOS3yRPWIN	MOS3y	Right Palm Skin	Urban/Rural	Skin	right	Chinese	2014-01	MOS
+SAMN07196963	QB3yFOHAUT	QB3yFOHAUT	QB3y	Forehead Skin	Urban/Rural	Skin	right	Chinese	2014-11	QB
+SAMN07196843	QB3yFOHSPR	QB3yFOHSPR	QB3y	Forehead Skin	Urban/Rural	Skin	right	Chinese	2014-04	QB
+SAMN07196723	QB3yFOHSUM	QB3yFOHSUM	QB3y	Forehead Skin	Urban/Rural	Skin	right	Chinese	2014-08	QB
+SAMN07196603	QB3yFOHWIN	QB3yFOHWIN	QB3y	Forehead Skin	Urban/Rural	Skin	right	Chinese	2014-01	QB
+SAMN07196964	QB3yLFAUT	QB3yLFAUT	QB3y	Left Forearm Skin	Urban/Rural	Skin	right	Chinese	2014-11	QB
+SAMN07196844	QB3yLFSPR	QB3yLFSPR	QB3y	Left Forearm Skin	Urban/Rural	Skin	right	Chinese	2014-04	QB
+SAMN07196724	QB3yLFSUM	QB3yLFSUM	QB3y	Left Forearm Skin	Urban/Rural	Skin	right	Chinese	2014-08	QB
+SAMN07196604	QB3yLFWIN	QB3yLFWIN	QB3y	Left Forearm Skin	Urban/Rural	Skin	right	Chinese	2014-01	QB
+SAMN07196965	QB3yLPAUT	QB3yLPAUT	QB3y	Left Palm Skin	Urban/Rural	Skin	right	Chinese	2014-11	QB
+SAMN07196845	QB3yLPSPR	QB3yLPSPR	QB3y	Left Palm Skin	Urban/Rural	Skin	right	Chinese	2014-04	QB
+SAMN07196725	QB3yLPSUM	QB3yLPSUM	QB3y	Left Palm Skin	Urban/Rural	Skin	right	Chinese	2014-08	QB
+SAMN07196605	QB3yLPWIN	QB3yLPWIN	QB3y	Left Palm Skin	Urban/Rural	Skin	right	Chinese	2014-01	QB
+SAMN07196966	QB3yRFAUT	QB3yRFAUT	QB3y	Right Forearm Skin	Urban/Rural	Skin	right	Chinese	2014-11	QB
+SAMN07196846	QB3yRFSPR	QB3yRFSPR	QB3y	Right Forearm Skin	Urban/Rural	Skin	right	Chinese	2014-04	QB
+SAMN07196726	QB3yRFSUM	QB3yRFSUM	QB3y	Right Forearm Skin	Urban/Rural	Skin	right	Chinese	2014-08	QB
+SAMN07196606	QB3yRFWIN	QB3yRFWIN	QB3y	Right Forearm Skin	Urban/Rural	Skin	right	Chinese	2014-01	QB
+SAMN07196967	QB3yRPAUT	QB3yRPAUT	QB3y	Right Palm Skin	Urban/Rural	Skin	right	Chinese	2014-11	QB
+SAMN07196847	QB3yRPSPR	QB3yRPSPR	QB3y	Right Palm Skin	Urban/Rural	Skin	right	Chinese	2014-04	QB
+SAMN07196727	QB3yRPSUM	QB3yRPSUM	QB3y	Right Palm Skin	Urban/Rural	Skin	right	Chinese	2014-08	QB
+SAMN07196607	QB3yRPWIN	QB3yRPWIN	QB3y	Right Palm Skin	Urban/Rural	Skin	right	Chinese	2014-01	QB
+SAMN07196968	QB3zFOHAUT	QB3zFOHAUT	QB3z	Forehead Skin	Urban/Rural	Skin	right	Chinese	2014-11	QB
+SAMN07196848	QB3zFOHSPR	QB3zFOHSPR	QB3z	Forehead Skin	Urban/Rural	Skin	right	Chinese	2014-04	QB
+SAMN07196728	QB3zFOHSUM	QB3zFOHSUM	QB3z	Forehead Skin	Urban/Rural	Skin	right	Chinese	2014-08	QB
+SAMN07196608	QB3zFOHWIN	QB3zFOHWIN	QB3z	Forehead Skin	Urban/Rural	Skin	right	Chinese	2014-01	QB
+SAMN07196969	QB3zLFAUT	QB3zLFAUT	QB3z	Left Forearm Skin	Urban/Rural	Skin	right	Chinese	2014-11	QB
+SAMN07196849	QB3zLFSPR	QB3zLFSPR	QB3z	Left Forearm Skin	Urban/Rural	Skin	right	Chinese	2014-04	QB
+SAMN07196729	QB3zLFSUM	QB3zLFSUM	QB3z	Left Forearm Skin	Urban/Rural	Skin	right	Chinese	2014-08	QB
+SAMN07196609	QB3zLFWIN	QB3zLFWIN	QB3z	Left Forearm Skin	Urban/Rural	Skin	right	Chinese	2014-01	QB
+SAMN07196970	QB3zLPAUT	QB3zLPAUT	QB3z	Left Palm Skin	Urban/Rural	Skin	right	Chinese	2014-11	QB
+SAMN07196850	QB3zLPSPR	QB3zLPSPR	QB3z	Left Palm Skin	Urban/Rural	Skin	right	Chinese	2014-04	QB
+SAMN07196730	QB3zLPSUM	QB3zLPSUM	QB3z	Left Palm Skin	Urban/Rural	Skin	right	Chinese	2014-08	QB
+SAMN07196610	QB3zLPWIN	QB3zLPWIN	QB3z	Left Palm Skin	Urban/Rural	Skin	right	Chinese	2014-01	QB
+SAMN07196971	QB3zRFAUT	QB3zRFAUT	QB3z	Right Forearm Skin	Urban/Rural	Skin	right	Chinese	2014-11	QB
+SAMN07196851	QB3zRFSPR	QB3zRFSPR	QB3z	Right Forearm Skin	Urban/Rural	Skin	right	Chinese	2014-04	QB
+SAMN07196731	QB3zRFSUM	QB3zRFSUM	QB3z	Right Forearm Skin	Urban/Rural	Skin	right	Chinese	2014-08	QB
+SAMN07196611	QB3zRFWIN	QB3zRFWIN	QB3z	Right Forearm Skin	Urban/Rural	Skin	right	Chinese	2014-01	QB
+SAMN07196972	QB3zRPAUT	QB3zRPAUT	QB3z	Right Palm Skin	Urban/Rural	Skin	right	Chinese	2014-11	QB
+SAMN07196852	QB3zRPSPR	QB3zRPSPR	QB3z	Right Palm Skin	Urban/Rural	Skin	right	Chinese	2014-04	QB
+SAMN07196732	QB3zRPSUM	QB3zRPSUM	QB3z	Right Palm Skin	Urban/Rural	Skin	right	Chinese	2014-08	QB
+SAMN07196612	QB3zRPWIN	QB3zRPWIN	QB3z	Right Palm Skin	Urban/Rural	Skin	right	Chinese	2014-01	QB
+SAMN07196973	STW3xFOHAUT	STW3xFOHAUT	STW3x	Forehead Skin	Urban/Rural	Skin	right	Chinese	2014-11	STW
+SAMN07196853	STW3xFOHSPR	STW3xFOHSPR	STW3x	Forehead Skin	Urban/Rural	Skin	right	Chinese	2014-04	STW
+SAMN07196733	STW3xFOHSUM	STW3xFOHSUM	STW3x	Forehead Skin	Urban/Rural	Skin	right	Chinese	2014-08	STW
+SAMN07196613	STW3xFOHWIN	STW3xFOHWIN	STW3x	Forehead Skin	Urban/Rural	Skin	right	Chinese	2014-01	STW
+SAMN07196974	STW3xLFAUT	STW3xLFAUT	STW3x	Left Forearm Skin	Urban/Rural	Skin	right	Chinese	2014-11	STW
+SAMN07196854	STW3xLFSPR	STW3xLFSPR	STW3x	Left Forearm Skin	Urban/Rural	Skin	right	Chinese	2014-04	STW
+SAMN07196734	STW3xLFSUM	STW3xLFSUM	STW3x	Left Forearm Skin	Urban/Rural	Skin	right	Chinese	2014-08	STW
+SAMN07196614	STW3xLFWIN	STW3xLFWIN	STW3x	Left Forearm Skin	Urban/Rural	Skin	right	Chinese	2014-01	STW
+SAMN07196975	STW3xLPAUT	STW3xLPAUT	STW3x	Left Palm Skin	Urban/Rural	Skin	right	Chinese	2014-11	STW
+SAMN07196855	STW3xLPSPR	STW3xLPSPR	STW3x	Left Palm Skin	Urban/Rural	Skin	right	Chinese	2014-04	STW
+SAMN07196735	STW3xLPSUM	STW3xLPSUM	STW3x	Left Palm Skin	Urban/Rural	Skin	right	Chinese	2014-08	STW
+SAMN07196615	STW3xLPWIN	STW3xLPWIN	STW3x	Left Palm Skin	Urban/Rural	Skin	right	Chinese	2014-01	STW
+SAMN07196976	STW3xRFAUT	STW3xRFAUT	STW3x	Right Forearm Skin	Urban/Rural	Skin	right	Chinese	2014-11	STW
+SAMN07196856	STW3xRFSPR	STW3xRFSPR	STW3x	Right Forearm Skin	Urban/Rural	Skin	right	Chinese	2014-04	STW
+SAMN07196736	STW3xRFSUM	STW3xRFSUM	STW3x	Right Forearm Skin	Urban/Rural	Skin	right	Chinese	2014-08	STW
+SAMN07196616	STW3xRFWIN	STW3xRFWIN	STW3x	Right Forearm Skin	Urban/Rural	Skin	right	Chinese	2014-01	STW
+SAMN07196977	STW3xRPAUT	STW3xRPAUT	STW3x	Right Palm Skin	Urban/Rural	Skin	right	Chinese	2014-11	STW
+SAMN07196857	STW3xRPSPR	STW3xRPSPR	STW3x	Right Palm Skin	Urban/Rural	Skin	right	Chinese	2014-04	STW
+SAMN07196737	STW3xRPSUM	STW3xRPSUM	STW3x	Right Palm Skin	Urban/Rural	Skin	right	Chinese	2014-08	STW
+SAMN07196617	STW3xRPWIN	STW3xRPWIN	STW3x	Right Palm Skin	Urban/Rural	Skin	right	Chinese	2014-01	STW
+SAMN07196978	STW3yFOHAUT	STW3yFOHAUT	STW3y	Forehead Skin	Urban/Rural	Skin	right	Chinese	2014-11	STW
+SAMN07196858	STW3yFOHSPR	STW3yFOHSPR	STW3y	Forehead Skin	Urban/Rural	Skin	right	Chinese	2014-04	STW
+SAMN07196738	STW3yFOHSUM	STW3yFOHSUM	STW3y	Forehead Skin	Urban/Rural	Skin	right	Chinese	2014-08	STW
+SAMN07196618	STW3yFOHWIN	STW3yFOHWIN	STW3y	Forehead Skin	Urban/Rural	Skin	right	Chinese	2014-01	STW
+SAMN07196979	STW3yLFAUT	STW3yLFAUT	STW3y	Left Forearm Skin	Urban/Rural	Skin	right	Chinese	2014-11	STW
+SAMN07196859	STW3yLFSPR	STW3yLFSPR	STW3y	Left Forearm Skin	Urban/Rural	Skin	right	Chinese	2014-04	STW
+SAMN07196739	STW3yLFSUM	STW3yLFSUM	STW3y	Left Forearm Skin	Urban/Rural	Skin	right	Chinese	2014-08	STW
+SAMN07196619	STW3yLFWIN	STW3yLFWIN	STW3y	Left Forearm Skin	Urban/Rural	Skin	right	Chinese	2014-01	STW
+SAMN07196980	STW3yLPAUT	STW3yLPAUT	STW3y	Left Palm Skin	Urban/Rural	Skin	right	Chinese	2014-11	STW
+SAMN07196860	STW3yLPSPR	STW3yLPSPR	STW3y	Left Palm Skin	Urban/Rural	Skin	right	Chinese	2014-04	STW
+SAMN07196740	STW3yLPSUM	STW3yLPSUM	STW3y	Left Palm Skin	Urban/Rural	Skin	right	Chinese	2014-08	STW
+SAMN07196620	STW3yLPWIN	STW3yLPWIN	STW3y	Left Palm Skin	Urban/Rural	Skin	right	Chinese	2014-01	STW
+SAMN07196981	STW3yRFAUT	STW3yRFAUT	STW3y	Right Forearm Skin	Urban/Rural	Skin	right	Chinese	2014-11	STW
+SAMN07196861	STW3yRFSPR	STW3yRFSPR	STW3y	Right Forearm Skin	Urban/Rural	Skin	right	Chinese	2014-04	STW
+SAMN07196741	STW3yRFSUM	STW3yRFSUM	STW3y	Right Forearm Skin	Urban/Rural	Skin	right	Chinese	2014-08	STW
+SAMN07196621	STW3yRFWIN	STW3yRFWIN	STW3y	Right Forearm Skin	Urban/Rural	Skin	right	Chinese	2014-01	STW
+SAMN07196982	STW3yRPAUT	STW3yRPAUT	STW3y	Right Palm Skin	Urban/Rural	Skin	right	Chinese	2014-11	STW
+SAMN07196862	STW3yRPSPR	STW3yRPSPR	STW3y	Right Palm Skin	Urban/Rural	Skin	right	Chinese	2014-04	STW
+SAMN07196742	STW3yRPSUM	STW3yRPSUM	STW3y	Right Palm Skin	Urban/Rural	Skin	right	Chinese	2014-08	STW
+SAMN07196622	STW3yRPWIN	STW3yRPWIN	STW3y	Right Palm Skin	Urban/Rural	Skin	right	Chinese	2014-01	STW
+SAMN07196983	SW3yFOHAUT	SW3yFOHAUT	SW3y	Forehead Skin	Urban/Rural	Skin	right	Chinese	2014-11	SW
+SAMN07196863	SW3yFOHSPR	SW3yFOHSPR	SW3y	Forehead Skin	Urban/Rural	Skin	right	Chinese	2014-04	SW
+SAMN07196743	SW3yFOHSUM	SW3yFOHSUM	SW3y	Forehead Skin	Urban/Rural	Skin	right	Chinese	2014-08	SW
+SAMN07196623	SW3yFOHWIN	SW3yFOHWIN	SW3y	Forehead Skin	Urban/Rural	Skin	right	Chinese	2014-01	SW
+SAMN07196984	SW3yLFAUT	SW3yLFAUT	SW3y	Left Forearm Skin	Urban/Rural	Skin	right	Chinese	2014-11	SW
+SAMN07196864	SW3yLFSPR	SW3yLFSPR	SW3y	Left Forearm Skin	Urban/Rural	Skin	right	Chinese	2014-04	SW
+SAMN07196744	SW3yLFSUM	SW3yLFSUM	SW3y	Left Forearm Skin	Urban/Rural	Skin	right	Chinese	2014-08	SW
+SAMN07196624	SW3yLFWIN	SW3yLFWIN	SW3y	Left Forearm Skin	Urban/Rural	Skin	right	Chinese	2014-01	SW
+SAMN07196985	SW3yLPAUT	SW3yLPAUT	SW3y	Left Palm Skin	Urban/Rural	Skin	right	Chinese	2014-11	SW
+SAMN07196865	SW3yLPSPR	SW3yLPSPR	SW3y	Left Palm Skin	Urban/Rural	Skin	right	Chinese	2014-04	SW
+SAMN07196745	SW3yLPSUM	SW3yLPSUM	SW3y	Left Palm Skin	Urban/Rural	Skin	right	Chinese	2014-08	SW
+SAMN07196625	SW3yLPWIN	SW3yLPWIN	SW3y	Left Palm Skin	Urban/Rural	Skin	right	Chinese	2014-01	SW
+SAMN07196986	SW3yRFAUT	SW3yRFAUT	SW3y	Right Forearm Skin	Urban/Rural	Skin	right	Chinese	2014-11	SW
+SAMN07196866	SW3yRFSPR	SW3yRFSPR	SW3y	Right Forearm Skin	Urban/Rural	Skin	right	Chinese	2014-04	SW
+SAMN07196746	SW3yRFSUM	SW3yRFSUM	SW3y	Right Forearm Skin	Urban/Rural	Skin	right	Chinese	2014-08	SW
+SAMN07196626	SW3yRFWIN	SW3yRFWIN	SW3y	Right Forearm Skin	Urban/Rural	Skin	right	Chinese	2014-01	SW
+SAMN07196987	SW3yRPAUT	SW3yRPAUT	SW3y	Right Palm Skin	Urban/Rural	Skin	right	Chinese	2014-11	SW
+SAMN07196867	SW3yRPSPR	SW3yRPSPR	SW3y	Right Palm Skin	Urban/Rural	Skin	right	Chinese	2014-04	SW
+SAMN07196747	SW3yRPSUM	SW3yRPSUM	SW3y	Right Palm Skin	Urban/Rural	Skin	right	Chinese	2014-08	SW
+SAMN07196627	SW3yRPWIN	SW3yRPWIN	SW3y	Right Palm Skin	Urban/Rural	Skin	right	Chinese	2014-01	SW
+SAMN07196988	SW3zFOHAUT	SW3zFOHAUT	SW3z	Forehead Skin	Urban/Rural	Skin	right	Chinese	2014-11	SW
+SAMN07196868	SW3zFOHSPR	SW3zFOHSPR	SW3z	Forehead Skin	Urban/Rural	Skin	right	Chinese	2014-04	SW
+SAMN07196748	SW3zFOHSUM	SW3zFOHSUM	SW3z	Forehead Skin	Urban/Rural	Skin	right	Chinese	2014-08	SW
+SAMN07196628	SW3zFOHWIN	SW3zFOHWIN	SW3z	Forehead Skin	Urban/Rural	Skin	right	Chinese	2014-01	SW
+SAMN07196989	SW3zLFAUT	SW3zLFAUT	SW3z	Left Forearm Skin	Urban/Rural	Skin	right	Chinese	2014-11	SW
+SAMN07196869	SW3zLFSPR	SW3zLFSPR	SW3z	Left Forearm Skin	Urban/Rural	Skin	right	Chinese	2014-04	SW
+SAMN07196749	SW3zLFSUM	SW3zLFSUM	SW3z	Left Forearm Skin	Urban/Rural	Skin	right	Chinese	2014-08	SW
+SAMN07196629	SW3zLFWIN	SW3zLFWIN	SW3z	Left Forearm Skin	Urban/Rural	Skin	right	Chinese	2014-01	SW
+SAMN07196990	SW3zLPAUT	SW3zLPAUT	SW3z	Left Palm Skin	Urban/Rural	Skin	right	Chinese	2014-11	SW
+SAMN07196870	SW3zLPSPR	SW3zLPSPR	SW3z	Left Palm Skin	Urban/Rural	Skin	right	Chinese	2014-04	SW
+SAMN07196750	SW3zLPSUM	SW3zLPSUM	SW3z	Left Palm Skin	Urban/Rural	Skin	right	Chinese	2014-08	SW
+SAMN07196630	SW3zLPWIN	SW3zLPWIN	SW3z	Left Palm Skin	Urban/Rural	Skin	right	Chinese	2014-01	SW
+SAMN07196991	SW3zRFAUT	SW3zRFAUT	SW3z	Right Forearm Skin	Urban/Rural	Skin	right	Chinese	2014-11	SW
+SAMN07196871	SW3zRFSPR	SW3zRFSPR	SW3z	Right Forearm Skin	Urban/Rural	Skin	right	Chinese	2014-04	SW
+SAMN07196751	SW3zRFSUM	SW3zRFSUM	SW3z	Right Forearm Skin	Urban/Rural	Skin	right	Chinese	2014-08	SW
+SAMN07196631	SW3zRFWIN	SW3zRFWIN	SW3z	Right Forearm Skin	Urban/Rural	Skin	right	Chinese	2014-01	SW
+SAMN07196992	SW3zRPAUT	SW3zRPAUT	SW3z	Right Palm Skin	Urban/Rural	Skin	right	Chinese	2014-11	SW
+SAMN07196872	SW3zRPSPR	SW3zRPSPR	SW3z	Right Palm Skin	Urban/Rural	Skin	right	Chinese	2014-04	SW
+SAMN07196752	SW3zRPSUM	SW3zRPSUM	SW3z	Right Palm Skin	Urban/Rural	Skin	right	Chinese	2014-08	SW
+SAMN07196632	SW3zRPWIN	SW3zRPWIN	SW3z	Right Palm Skin	Urban/Rural	Skin	right	Chinese	2014-01	SW
+SAMN07196993	TK3xFOHAUT	TK3xFOHAUT	TK3x	Forehead Skin	Urban/Rural	Skin	right	Chinese	2014-11	TK
+SAMN07196873	TK3xFOHSPR	TK3xFOHSPR	TK3x	Forehead Skin	Urban/Rural	Skin	right	Chinese	2014-04	TK
+SAMN07196753	TK3xFOHSUM	TK3xFOHSUM	TK3x	Forehead Skin	Urban/Rural	Skin	right	Chinese	2014-08	TK
+SAMN07196633	TK3xFOHWIN	TK3xFOHWIN	TK3x	Forehead Skin	Urban/Rural	Skin	right	Chinese	2014-01	TK
+SAMN07196994	TK3xLFAUT	TK3xLFAUT	TK3x	Left Forearm Skin	Urban/Rural	Skin	right	Chinese	2014-11	TK
+SAMN07196874	TK3xLFSPR	TK3xLFSPR	TK3x	Left Forearm Skin	Urban/Rural	Skin	right	Chinese	2014-04	TK
+SAMN07196754	TK3xLFSUM	TK3xLFSUM	TK3x	Left Forearm Skin	Urban/Rural	Skin	right	Chinese	2014-08	TK
+SAMN07196634	TK3xLFWIN	TK3xLFWIN	TK3x	Left Forearm Skin	Urban/Rural	Skin	right	Chinese	2014-01	TK
+SAMN07196995	TK3xLPAUT	TK3xLPAUT	TK3x	Left Palm Skin	Urban/Rural	Skin	right	Chinese	2014-11	TK
+SAMN07196875	TK3xLPSPR	TK3xLPSPR	TK3x	Left Palm Skin	Urban/Rural	Skin	right	Chinese	2014-04	TK
+SAMN07196755	TK3xLPSUM	TK3xLPSUM	TK3x	Left Palm Skin	Urban/Rural	Skin	right	Chinese	2014-08	TK
+SAMN07196635	TK3xLPWIN	TK3xLPWIN	TK3x	Left Palm Skin	Urban/Rural	Skin	right	Chinese	2014-01	TK
+SAMN07196996	TK3xRFAUT	TK3xRFAUT	TK3x	Right Forearm Skin	Urban/Rural	Skin	right	Chinese	2014-11	TK
+SAMN07196876	TK3xRFSPR	TK3xRFSPR	TK3x	Right Forearm Skin	Urban/Rural	Skin	right	Chinese	2014-04	TK
+SAMN07196756	TK3xRFSUM	TK3xRFSUM	TK3x	Right Forearm Skin	Urban/Rural	Skin	right	Chinese	2014-08	TK
+SAMN07196636	TK3xRFWIN	TK3xRFWIN	TK3x	Right Forearm Skin	Urban/Rural	Skin	right	Chinese	2014-01	TK
+SAMN07196997	TK3xRPAUT	TK3xRPAUT	TK3x	Right Palm Skin	Urban/Rural	Skin	right	Chinese	2014-11	TK
+SAMN07196877	TK3xRPSPR	TK3xRPSPR	TK3x	Right Palm Skin	Urban/Rural	Skin	right	Chinese	2014-04	TK
+SAMN07196757	TK3xRPSUM	TK3xRPSUM	TK3x	Right Palm Skin	Urban/Rural	Skin	right	Chinese	2014-08	TK
+SAMN07196637	TK3xRPWIN	TK3xRPWIN	TK3x	Right Palm Skin	Urban/Rural	Skin	right	Chinese	2014-01	TK
+SAMN07196998	TK3yFOHAUT	TK3yFOHAUT	TK3y	Forehead Skin	Urban/Rural	Skin	right	Chinese	2014-11	TK
+SAMN07196878	TK3yFOHSPR	TK3yFOHSPR	TK3y	Forehead Skin	Urban/Rural	Skin	right	Chinese	2014-04	TK
+SAMN07196758	TK3yFOHSUM	TK3yFOHSUM	TK3y	Forehead Skin	Urban/Rural	Skin	right	Chinese	2014-08	TK
+SAMN07196638	TK3yFOHWIN	TK3yFOHWIN	TK3y	Forehead Skin	Urban/Rural	Skin	right	Chinese	2014-01	TK
+SAMN07196999	TK3yLFAUT	TK3yLFAUT	TK3y	Left Forearm Skin	Urban/Rural	Skin	right	Chinese	2014-11	TK
+SAMN07196879	TK3yLFSPR	TK3yLFSPR	TK3y	Left Forearm Skin	Urban/Rural	Skin	right	Chinese	2014-04	TK
+SAMN07196759	TK3yLFSUM	TK3yLFSUM	TK3y	Left Forearm Skin	Urban/Rural	Skin	right	Chinese	2014-08	TK
+SAMN07196639	TK3yLFWIN	TK3yLFWIN	TK3y	Left Forearm Skin	Urban/Rural	Skin	right	Chinese	2014-01	TK
+SAMN07197000	TK3yLPAUT	TK3yLPAUT	TK3y	Left Palm Skin	Urban/Rural	Skin	right	Chinese	2014-11	TK
+SAMN07196880	TK3yLPSPR	TK3yLPSPR	TK3y	Left Palm Skin	Urban/Rural	Skin	right	Chinese	2014-04	TK
+SAMN07196760	TK3yLPSUM	TK3yLPSUM	TK3y	Left Palm Skin	Urban/Rural	Skin	right	Chinese	2014-08	TK
+SAMN07196640	TK3yLPWIN	TK3yLPWIN	TK3y	Left Palm Skin	Urban/Rural	Skin	right	Chinese	2014-01	TK
+SAMN07197001	TK3yRFAUT	TK3yRFAUT	TK3y	Right Forearm Skin	Urban/Rural	Skin	right	Chinese	2014-11	TK
+SAMN07196881	TK3yRFSPR	TK3yRFSPR	TK3y	Right Forearm Skin	Urban/Rural	Skin	right	Chinese	2014-04	TK
+SAMN07196761	TK3yRFSUM	TK3yRFSUM	TK3y	Right Forearm Skin	Urban/Rural	Skin	right	Chinese	2014-08	TK
+SAMN07196641	TK3yRFWIN	TK3yRFWIN	TK3y	Right Forearm Skin	Urban/Rural	Skin	right	Chinese	2014-01	TK
+SAMN07197002	TK3yRPAUT	TK3yRPAUT	TK3y	Right Palm Skin	Urban/Rural	Skin	right	Chinese	2014-11	TK
+SAMN07196882	TK3yRPSPR	TK3yRPSPR	TK3y	Right Palm Skin	Urban/Rural	Skin	right	Chinese	2014-04	TK
+SAMN07196762	TK3yRPSUM	TK3yRPSUM	TK3y	Right Palm Skin	Urban/Rural	Skin	right	Chinese	2014-08	TK
+SAMN07196642	TK3yRPWIN	TK3yRPWIN	TK3y	Right Palm Skin	Urban/Rural	Skin	right	Chinese	2014-01	TK
+SAMN07197003	TK3zFOHAUT	TK3zFOHAUT	TK3z	Forehead Skin	Urban/Rural	Skin	right	Chinese	2014-11	TK
+SAMN07196883	TK3zFOHSPR	TK3zFOHSPR	TK3z	Forehead Skin	Urban/Rural	Skin	right	Chinese	2014-04	TK
+SAMN07196763	TK3zFOHSUM	TK3zFOHSUM	TK3z	Forehead Skin	Urban/Rural	Skin	right	Chinese	2014-08	TK
+SAMN07196643	TK3zFOHWIN	TK3zFOHWIN	TK3z	Forehead Skin	Urban/Rural	Skin	right	Chinese	2014-01	TK
+SAMN07197004	TK3zLFAUT	TK3zLFAUT	TK3z	Left Forearm Skin	Urban/Rural	Skin	right	Chinese	2014-11	TK
+SAMN07196884	TK3zLFSPR	TK3zLFSPR	TK3z	Left Forearm Skin	Urban/Rural	Skin	right	Chinese	2014-04	TK
+SAMN07196764	TK3zLFSUM	TK3zLFSUM	TK3z	Left Forearm Skin	Urban/Rural	Skin	right	Chinese	2014-08	TK
+SAMN07196644	TK3zLFWIN	TK3zLFWIN	TK3z	Left Forearm Skin	Urban/Rural	Skin	right	Chinese	2014-01	TK
+SAMN07197005	TK3zLPAUT	TK3zLPAUT	TK3z	Left Palm Skin	Urban/Rural	Skin	right	Chinese	2014-11	TK
+SAMN07196885	TK3zLPSPR	TK3zLPSPR	TK3z	Left Palm Skin	Urban/Rural	Skin	right	Chinese	2014-04	TK
+SAMN07196765	TK3zLPSUM	TK3zLPSUM	TK3z	Left Palm Skin	Urban/Rural	Skin	right	Chinese	2014-08	TK
+SAMN07196645	TK3zLPWIN	TK3zLPWIN	TK3z	Left Palm Skin	Urban/Rural	Skin	right	Chinese	2014-01	TK
+SAMN07197006	TK3zRFAUT	TK3zRFAUT	TK3z	Right Forearm Skin	Urban/Rural	Skin	right	Chinese	2014-11	TK
+SAMN07196886	TK3zRFSPR	TK3zRFSPR	TK3z	Right Forearm Skin	Urban/Rural	Skin	right	Chinese	2014-04	TK
+SAMN07196766	TK3zRFSUM	TK3zRFSUM	TK3z	Right Forearm Skin	Urban/Rural	Skin	right	Chinese	2014-08	TK
+SAMN07196646	TK3zRFWIN	TK3zRFWIN	TK3z	Right Forearm Skin	Urban/Rural	Skin	right	Chinese	2014-01	TK
+SAMN07197007	TK3zRPAUT	TK3zRPAUT	TK3z	Right Palm Skin	Urban/Rural	Skin	right	Chinese	2014-11	TK
+SAMN07196887	TK3zRPSPR	TK3zRPSPR	TK3z	Right Palm Skin	Urban/Rural	Skin	right	Chinese	2014-04	TK
+SAMN07196767	TK3zRPSUM	TK3zRPSUM	TK3z	Right Palm Skin	Urban/Rural	Skin	right	Chinese	2014-08	TK
+SAMN07196647	TK3zRPWIN	TK3zRPWIN	TK3z	Right Palm Skin	Urban/Rural	Skin	right	Chinese	2014-01	TK
+SAMN07197008	TMb3wFOHAUT	TMb3wFOHAUT	TMb3w	Forehead Skin	Urban/Rural	Skin	right	Chinese	2014-11	TMb
+SAMN07196888	TMb3wFOHSPR	TMb3wFOHSPR	TMb3w	Forehead Skin	Urban/Rural	Skin	right	Chinese	2014-04	TMb
+SAMN07196768	TMb3wFOHSUM	TMb3wFOHSUM	TMb3w	Forehead Skin	Urban/Rural	Skin	right	Chinese	2014-08	TMb
+SAMN07196648	TMb3wFOHWIN	TMb3wFOHWIN	TMb3w	Forehead Skin	Urban/Rural	Skin	right	Chinese	2014-01	TMb
+SAMN07197009	TMb3wLFAUT	TMb3wLFAUT	TMb3w	Left Forearm Skin	Urban/Rural	Skin	right	Chinese	2014-11	TMb
+SAMN07196889	TMb3wLFSPR	TMb3wLFSPR	TMb3w	Left Forearm Skin	Urban/Rural	Skin	right	Chinese	2014-04	TMb
+SAMN07196769	TMb3wLFSUM	TMb3wLFSUM	TMb3w	Left Forearm Skin	Urban/Rural	Skin	right	Chinese	2014-08	TMb
+SAMN07196649	TMb3wLFWIN	TMb3wLFWIN	TMb3w	Left Forearm Skin	Urban/Rural	Skin	right	Chinese	2014-01	TMb
+SAMN07197010	TMb3wLPAUT	TMb3wLPAUT	TMb3w	Left Palm Skin	Urban/Rural	Skin	right	Chinese	2014-11	TMb
+SAMN07196890	TMb3wLPSPR	TMb3wLPSPR	TMb3w	Left Palm Skin	Urban/Rural	Skin	right	Chinese	2014-04	TMb
+SAMN07196770	TMb3wLPSUM	TMb3wLPSUM	TMb3w	Left Palm Skin	Urban/Rural	Skin	right	Chinese	2014-08	TMb
+SAMN07196650	TMb3wLPWIN	TMb3wLPWIN	TMb3w	Left Palm Skin	Urban/Rural	Skin	right	Chinese	2014-01	TMb
+SAMN07197011	TMb3wRFAUT	TMb3wRFAUT	TMb3w	Right Forearm Skin	Urban/Rural	Skin	right	Chinese	2014-11	TMb
+SAMN07196891	TMb3wRFSPR	TMb3wRFSPR	TMb3w	Right Forearm Skin	Urban/Rural	Skin	right	Chinese	2014-04	TMb
+SAMN07196771	TMb3wRFSUM	TMb3wRFSUM	TMb3w	Right Forearm Skin	Urban/Rural	Skin	right	Chinese	2014-08	TMb
+SAMN07196651	TMb3wRFWIN	TMb3wRFWIN	TMb3w	Right Forearm Skin	Urban/Rural	Skin	right	Chinese	2014-01	TMb
+SAMN07197012	TMb3wRPAUT	TMb3wRPAUT	TMb3w	Right Palm Skin	Urban/Rural	Skin	right	Chinese	2014-11	TMb
+SAMN07196892	TMb3wRPSPR	TMb3wRPSPR	TMb3w	Right Palm Skin	Urban/Rural	Skin	right	Chinese	2014-04	TMb
+SAMN07196772	TMb3wRPSUM	TMb3wRPSUM	TMb3w	Right Palm Skin	Urban/Rural	Skin	right	Chinese	2014-08	TMb
+SAMN07196652	TMb3wRPWIN	TMb3wRPWIN	TMb3w	Right Palm Skin	Urban/Rural	Skin	right	Chinese	2014-01	TMb
+SAMN07197013	TMb3xFOHAUT	TMb3xFOHAUT	TMb3x	Forehead Skin	Urban/Rural	Skin	right	Chinese	2014-11	TMb
+SAMN07196893	TMb3xFOHSPR	TMb3xFOHSPR	TMb3x	Forehead Skin	Urban/Rural	Skin	right	Chinese	2014-04	TMb
+SAMN07196773	TMb3xFOHSUM	TMb3xFOHSUM	TMb3x	Forehead Skin	Urban/Rural	Skin	right	Chinese	2014-08	TMb
+SAMN07196653	TMb3xFOHWIN	TMb3xFOHWIN	TMb3x	Forehead Skin	Urban/Rural	Skin	right	Chinese	2014-01	TMb
+SAMN07197014	TMb3xLFAUT	TMb3xLFAUT	TMb3x	Left Forearm Skin	Urban/Rural	Skin	right	Chinese	2014-11	TMb
+SAMN07196894	TMb3xLFSPR	TMb3xLFSPR	TMb3x	Left Forearm Skin	Urban/Rural	Skin	right	Chinese	2014-04	TMb
+SAMN07196774	TMb3xLFSUM	TMb3xLFSUM	TMb3x	Left Forearm Skin	Urban/Rural	Skin	right	Chinese	2014-08	TMb
+SAMN07196654	TMb3xLFWIN	TMb3xLFWIN	TMb3x	Left Forearm Skin	Urban/Rural	Skin	right	Chinese	2014-01	TMb
+SAMN07197015	TMb3xLPAUT	TMb3xLPAUT	TMb3x	Left Palm Skin	Urban/Rural	Skin	right	Chinese	2014-11	TMb
+SAMN07196895	TMb3xLPSPR	TMb3xLPSPR	TMb3x	Left Palm Skin	Urban/Rural	Skin	right	Chinese	2014-04	TMb
+SAMN07196775	TMb3xLPSUM	TMb3xLPSUM	TMb3x	Left Palm Skin	Urban/Rural	Skin	right	Chinese	2014-08	TMb
+SAMN07196655	TMb3xLPWIN	TMb3xLPWIN	TMb3x	Left Palm Skin	Urban/Rural	Skin	right	Chinese	2014-01	TMb
+SAMN07197016	TMb3xRFAUT	TMb3xRFAUT	TMb3x	Right Forearm Skin	Urban/Rural	Skin	right	Chinese	2014-11	TMb
+SAMN07196896	TMb3xRFSPR	TMb3xRFSPR	TMb3x	Right Forearm Skin	Urban/Rural	Skin	right	Chinese	2014-04	TMb
+SAMN07196776	TMb3xRFSUM	TMb3xRFSUM	TMb3x	Right Forearm Skin	Urban/Rural	Skin	right	Chinese	2014-08	TMb
+SAMN07196656	TMb3xRFWIN	TMb3xRFWIN	TMb3x	Right Forearm Skin	Urban/Rural	Skin	right	Chinese	2014-01	TMb
+SAMN07197017	TMb3xRPAUT	TMb3xRPAUT	TMb3x	Right Palm Skin	Urban/Rural	Skin	right	Chinese	2014-11	TMb
+SAMN07196897	TMb3xRPSPR	TMb3xRPSPR	TMb3x	Right Palm Skin	Urban/Rural	Skin	right	Chinese	2014-04	TMb
+SAMN07196777	TMb3xRPSUM	TMb3xRPSUM	TMb3x	Right Palm Skin	Urban/Rural	Skin	right	Chinese	2014-08	TMb
+SAMN07196657	TMb3xRPWIN	TMb3xRPWIN	TMb3x	Right Palm Skin	Urban/Rural	Skin	right	Chinese	2014-01	TMb
+SAMN07197018	TMb3yFOHAUT	TMb3yFOHAUT	TMb3y	Forehead Skin	Urban/Rural	Skin	right	Chinese	2014-11	TMb
+SAMN07196898	TMb3yFOHSPR	TMb3yFOHSPR	TMb3y	Forehead Skin	Urban/Rural	Skin	right	Chinese	2014-04	TMb
+SAMN07196778	TMb3yFOHSUM	TMb3yFOHSUM	TMb3y	Forehead Skin	Urban/Rural	Skin	right	Chinese	2014-08	TMb
+SAMN07196658	TMb3yFOHWIN	TMb3yFOHWIN	TMb3y	Forehead Skin	Urban/Rural	Skin	right	Chinese	2014-01	TMb
+SAMN07197019	TMb3yLFAUT	TMb3yLFAUT	TMb3y	Left Forearm Skin	Urban/Rural	Skin	right	Chinese	2014-11	TMb
+SAMN07196899	TMb3yLFSPR	TMb3yLFSPR	TMb3y	Left Forearm Skin	Urban/Rural	Skin	right	Chinese	2014-04	TMb
+SAMN07196779	TMb3yLFSUM	TMb3yLFSUM	TMb3y	Left Forearm Skin	Urban/Rural	Skin	right	Chinese	2014-08	TMb
+SAMN07196659	TMb3yLFWIN	TMb3yLFWIN	TMb3y	Left Forearm Skin	Urban/Rural	Skin	right	Chinese	2014-01	TMb
+SAMN07197020	TMb3yLPAUT	TMb3yLPAUT	TMb3y	Left Palm Skin	Urban/Rural	Skin	right	Chinese	2014-11	TMb
+SAMN07196900	TMb3yLPSPR	TMb3yLPSPR	TMb3y	Left Palm Skin	Urban/Rural	Skin	right	Chinese	2014-04	TMb
+SAMN07196780	TMb3yLPSUM	TMb3yLPSUM	TMb3y	Left Palm Skin	Urban/Rural	Skin	right	Chinese	2014-08	TMb
+SAMN07196660	TMb3yLPWIN	TMb3yLPWIN	TMb3y	Left Palm Skin	Urban/Rural	Skin	right	Chinese	2014-01	TMb
+SAMN07197021	TMb3yRFAUT	TMb3yRFAUT	TMb3y	Right Forearm Skin	Urban/Rural	Skin	right	Chinese	2014-11	TMb
+SAMN07196901	TMb3yRFSPR	TMb3yRFSPR	TMb3y	Right Forearm Skin	Urban/Rural	Skin	right	Chinese	2014-04	TMb
+SAMN07196781	TMb3yRFSUM	TMb3yRFSUM	TMb3y	Right Forearm Skin	Urban/Rural	Skin	right	Chinese	2014-08	TMb
+SAMN07196661	TMb3yRFWIN	TMb3yRFWIN	TMb3y	Right Forearm Skin	Urban/Rural	Skin	right	Chinese	2014-01	TMb
+SAMN07197022	TMb3yRPAUT	TMb3yRPAUT	TMb3y	Right Palm Skin	Urban/Rural	Skin	right	Chinese	2014-11	TMb
+SAMN07196902	TMb3yRPSPR	TMb3yRPSPR	TMb3y	Right Palm Skin	Urban/Rural	Skin	right	Chinese	2014-04	TMb
+SAMN07196782	TMb3yRPSUM	TMb3yRPSUM	TMb3y	Right Palm Skin	Urban/Rural	Skin	right	Chinese	2014-08	TMb
+SAMN07196662	TMb3yRPWIN	TMb3yRPWIN	TMb3y	Right Palm Skin	Urban/Rural	Skin	right	Chinese	2014-01	TMb
+SAMN07197023	WKS3uFOHAUT	WKS3uFOHAUT	WKS3u	Forehead Skin	Urban/Rural	Skin	right	Chinese	2014-11	WKS
+SAMN07196903	WKS3uFOHSPR	WKS3uFOHSPR	WKS3u	Forehead Skin	Urban/Rural	Skin	right	Chinese	2014-04	WKS
+SAMN07196783	WKS3uFOHSUM	WKS3uFOHSUM	WKS3u	Forehead Skin	Urban/Rural	Skin	right	Chinese	2014-08	WKS
+SAMN07196663	WKS3uFOHWIN	WKS3uFOHWIN	WKS3u	Forehead Skin	Urban/Rural	Skin	right	Chinese	2014-01	WKS
+SAMN07197024	WKS3uLFAUT	WKS3uLFAUT	WKS3u	Left Forearm Skin	Urban/Rural	Skin	right	Chinese	2014-11	WKS
+SAMN07196904	WKS3uLFSPR	WKS3uLFSPR	WKS3u	Left Forearm Skin	Urban/Rural	Skin	right	Chinese	2014-04	WKS
+SAMN07196784	WKS3uLFSUM	WKS3uLFSUM	WKS3u	Left Forearm Skin	Urban/Rural	Skin	right	Chinese	2014-08	WKS
+SAMN07196664	WKS3uLFWIN	WKS3uLFWIN	WKS3u	Left Forearm Skin	Urban/Rural	Skin	right	Chinese	2014-01	WKS
+SAMN07197025	WKS3uLPAUT	WKS3uLPAUT	WKS3u	Left Palm Skin	Urban/Rural	Skin	right	Chinese	2014-11	WKS
+SAMN07196905	WKS3uLPSPR	WKS3uLPSPR	WKS3u	Left Palm Skin	Urban/Rural	Skin	right	Chinese	2014-04	WKS
+SAMN07196785	WKS3uLPSUM	WKS3uLPSUM	WKS3u	Left Palm Skin	Urban/Rural	Skin	right	Chinese	2014-08	WKS
+SAMN07196665	WKS3uLPWIN	WKS3uLPWIN	WKS3u	Left Palm Skin	Urban/Rural	Skin	right	Chinese	2014-01	WKS
+SAMN07197026	WKS3uRFAUT	WKS3uRFAUT	WKS3u	Right Forearm Skin	Urban/Rural	Skin	right	Chinese	2014-11	WKS
+SAMN07196906	WKS3uRFSPR	WKS3uRFSPR	WKS3u	Right Forearm Skin	Urban/Rural	Skin	right	Chinese	2014-04	WKS
+SAMN07196786	WKS3uRFSUM	WKS3uRFSUM	WKS3u	Right Forearm Skin	Urban/Rural	Skin	right	Chinese	2014-08	WKS
+SAMN07196666	WKS3uRFWIN	WKS3uRFWIN	WKS3u	Right Forearm Skin	Urban/Rural	Skin	right	Chinese	2014-01	WKS
+SAMN07197027	WKS3uRPAUT	WKS3uRPAUT	WKS3u	Right Palm Skin	Urban/Rural	Skin	right	Chinese	2014-11	WKS
+SAMN07196907	WKS3uRPSPR	WKS3uRPSPR	WKS3u	Right Palm Skin	Urban/Rural	Skin	right	Chinese	2014-04	WKS
+SAMN07196787	WKS3uRPSUM	WKS3uRPSUM	WKS3u	Right Palm Skin	Urban/Rural	Skin	right	Chinese	2014-08	WKS
+SAMN07196667	WKS3uRPWIN	WKS3uRPWIN	WKS3u	Right Palm Skin	Urban/Rural	Skin	right	Chinese	2014-01	WKS
+SAMN07197028	WKS3vFOHAUT	WKS3vFOHAUT	WKS3v	Forehead Skin	Urban/Rural	Skin	right	Chinese	2014-11	WKS
+SAMN07196908	WKS3vFOHSPR	WKS3vFOHSPR	WKS3v	Forehead Skin	Urban/Rural	Skin	right	Chinese	2014-04	WKS
+SAMN07196788	WKS3vFOHSUM	WKS3vFOHSUM	WKS3v	Forehead Skin	Urban/Rural	Skin	right	Chinese	2014-08	WKS
+SAMN07196668	WKS3vFOHWIN	WKS3vFOHWIN	WKS3v	Forehead Skin	Urban/Rural	Skin	right	Chinese	2014-01	WKS
+SAMN07197029	WKS3vLFAUT	WKS3vLFAUT	WKS3v	Left Forearm Skin	Urban/Rural	Skin	right	Chinese	2014-11	WKS
+SAMN07196909	WKS3vLFSPR	WKS3vLFSPR	WKS3v	Left Forearm Skin	Urban/Rural	Skin	right	Chinese	2014-04	WKS
+SAMN07196789	WKS3vLFSUM	WKS3vLFSUM	WKS3v	Left Forearm Skin	Urban/Rural	Skin	right	Chinese	2014-08	WKS
+SAMN07196669	WKS3vLFWIN	WKS3vLFWIN	WKS3v	Left Forearm Skin	Urban/Rural	Skin	right	Chinese	2014-01	WKS
+SAMN07197030	WKS3vLPAUT	WKS3vLPAUT	WKS3v	Left Palm Skin	Urban/Rural	Skin	right	Chinese	2014-11	WKS
+SAMN07196910	WKS3vLPSPR	WKS3vLPSPR	WKS3v	Left Palm Skin	Urban/Rural	Skin	right	Chinese	2014-04	WKS
+SAMN07196790	WKS3vLPSUM	WKS3vLPSUM	WKS3v	Left Palm Skin	Urban/Rural	Skin	right	Chinese	2014-08	WKS
+SAMN07196670	WKS3vLPWIN	WKS3vLPWIN	WKS3v	Left Palm Skin	Urban/Rural	Skin	right	Chinese	2014-01	WKS
+SAMN07197031	WKS3vRFAUT	WKS3vRFAUT	WKS3v	Right Forearm Skin	Urban/Rural	Skin	right	Chinese	2014-11	WKS
+SAMN07196911	WKS3vRFSPR	WKS3vRFSPR	WKS3v	Right Forearm Skin	Urban/Rural	Skin	right	Chinese	2014-04	WKS
+SAMN07196791	WKS3vRFSUM	WKS3vRFSUM	WKS3v	Right Forearm Skin	Urban/Rural	Skin	right	Chinese	2014-08	WKS
+SAMN07196671	WKS3vRFWIN	WKS3vRFWIN	WKS3v	Right Forearm Skin	Urban/Rural	Skin	right	Chinese	2014-01	WKS
+SAMN07197032	WKS3vRPAUT	WKS3vRPAUT	WKS3v	Right Palm Skin	Urban/Rural	Skin	right	Chinese	2014-11	WKS
+SAMN07196912	WKS3vRPSPR	WKS3vRPSPR	WKS3v	Right Palm Skin	Urban/Rural	Skin	right	Chinese	2014-04	WKS
+SAMN07196792	WKS3vRPSUM	WKS3vRPSUM	WKS3v	Right Palm Skin	Urban/Rural	Skin	right	Chinese	2014-08	WKS
+SAMN07196672	WKS3vRPWIN	WKS3vRPWIN	WKS3v	Right Palm Skin	Urban/Rural	Skin	right	Chinese	2014-01	WKS
+SAMN07197033	WKS3wFOHAUT	WKS3wFOHAUT	WKS3w	Forehead Skin	Urban/Rural	Skin	right	Chinese	2014-11	WKS
+SAMN07196913	WKS3wFOHSPR	WKS3wFOHSPR	WKS3w	Forehead Skin	Urban/Rural	Skin	right	Chinese	2014-04	WKS
+SAMN07196793	WKS3wFOHSUM	WKS3wFOHSUM	WKS3w	Forehead Skin	Urban/Rural	Skin	right	Chinese	2014-08	WKS
+SAMN07196673	WKS3wFOHWIN	WKS3wFOHWIN	WKS3w	Forehead Skin	Urban/Rural	Skin	right	Chinese	2014-01	WKS
+SAMN07197034	WKS3wLFAUT	WKS3wLFAUT	WKS3w	Left Forearm Skin	Urban/Rural	Skin	right	Chinese	2014-11	WKS
+SAMN07196914	WKS3wLFSPR	WKS3wLFSPR	WKS3w	Left Forearm Skin	Urban/Rural	Skin	right	Chinese	2014-04	WKS
+SAMN07196794	WKS3wLFSUM	WKS3wLFSUM	WKS3w	Left Forearm Skin	Urban/Rural	Skin	right	Chinese	2014-08	WKS
+SAMN07196674	WKS3wLFWIN	WKS3wLFWIN	WKS3w	Left Forearm Skin	Urban/Rural	Skin	right	Chinese	2014-01	WKS
+SAMN07197035	WKS3wLPAUT	WKS3wLPAUT	WKS3w	Left Palm Skin	Urban/Rural	Skin	right	Chinese	2014-11	WKS
+SAMN07196915	WKS3wLPSPR	WKS3wLPSPR	WKS3w	Left Palm Skin	Urban/Rural	Skin	right	Chinese	2014-04	WKS
+SAMN07196795	WKS3wLPSUM	WKS3wLPSUM	WKS3w	Left Palm Skin	Urban/Rural	Skin	right	Chinese	2014-08	WKS
+SAMN07196675	WKS3wLPWIN	WKS3wLPWIN	WKS3w	Left Palm Skin	Urban/Rural	Skin	right	Chinese	2014-01	WKS
+SAMN07197036	WKS3wRFAUT	WKS3wRFAUT	WKS3w	Right Forearm Skin	Urban/Rural	Skin	right	Chinese	2014-11	WKS
+SAMN07196916	WKS3wRFSPR	WKS3wRFSPR	WKS3w	Right Forearm Skin	Urban/Rural	Skin	right	Chinese	2014-04	WKS
+SAMN07196796	WKS3wRFSUM	WKS3wRFSUM	WKS3w	Right Forearm Skin	Urban/Rural	Skin	right	Chinese	2014-08	WKS
+SAMN07196676	WKS3wRFWIN	WKS3wRFWIN	WKS3w	Right Forearm Skin	Urban/Rural	Skin	right	Chinese	2014-01	WKS
+SAMN07197037	WKS3wRPAUT	WKS3wRPAUT	WKS3w	Right Palm Skin	Urban/Rural	Skin	right	Chinese	2014-11	WKS
+SAMN07196917	WKS3wRPSPR	WKS3wRPSPR	WKS3w	Right Palm Skin	Urban/Rural	Skin	right	Chinese	2014-04	WKS
+SAMN07196797	WKS3wRPSUM	WKS3wRPSUM	WKS3w	Right Palm Skin	Urban/Rural	Skin	right	Chinese	2014-08	WKS
+SAMN07196677	WKS3wRPWIN	WKS3wRPWIN	WKS3w	Right Palm Skin	Urban/Rural	Skin	right	Chinese	2014-01	WKS
+SAMN07197038	WKS3xFOHAUT	WKS3xFOHAUT	WKS3x	Forehead Skin	Urban/Rural	Skin	right	Chinese	2014-11	WKS
+SAMN07196918	WKS3xFOHSPR	WKS3xFOHSPR	WKS3x	Forehead Skin	Urban/Rural	Skin	right	Chinese	2014-04	WKS
+SAMN07196798	WKS3xFOHSUM	WKS3xFOHSUM	WKS3x	Forehead Skin	Urban/Rural	Skin	right	Chinese	2014-08	WKS
+SAMN07196678	WKS3xFOHWIN	WKS3xFOHWIN	WKS3x	Forehead Skin	Urban/Rural	Skin	right	Chinese	2014-01	WKS
+SAMN07197039	WKS3xLFAUT	WKS3xLFAUT	WKS3x	Left Forearm Skin	Urban/Rural	Skin	right	Chinese	2014-11	WKS
+SAMN07196919	WKS3xLFSPR	WKS3xLFSPR	WKS3x	Left Forearm Skin	Urban/Rural	Skin	right	Chinese	2014-04	WKS
+SAMN07196799	WKS3xLFSUM	WKS3xLFSUM	WKS3x	Left Forearm Skin	Urban/Rural	Skin	right	Chinese	2014-08	WKS
+SAMN07196679	WKS3xLFWIN	WKS3xLFWIN	WKS3x	Left Forearm Skin	Urban/Rural	Skin	right	Chinese	2014-01	WKS
+SAMN07197040	WKS3xLPAUT	WKS3xLPAUT	WKS3x	Left Palm Skin	Urban/Rural	Skin	right	Chinese	2014-11	WKS
+SAMN07196920	WKS3xLPSPR	WKS3xLPSPR	WKS3x	Left Palm Skin	Urban/Rural	Skin	right	Chinese	2014-04	WKS
+SAMN07196800	WKS3xLPSUM	WKS3xLPSUM	WKS3x	Left Palm Skin	Urban/Rural	Skin	right	Chinese	2014-08	WKS
+SAMN07196680	WKS3xLPWIN	WKS3xLPWIN	WKS3x	Left Palm Skin	Urban/Rural	Skin	right	Chinese	2014-01	WKS
+SAMN07197041	WKS3xRFAUT	WKS3xRFAUT	WKS3x	Right Forearm Skin	Urban/Rural	Skin	right	Chinese	2014-11	WKS
+SAMN07196921	WKS3xRFSPR	WKS3xRFSPR	WKS3x	Right Forearm Skin	Urban/Rural	Skin	right	Chinese	2014-04	WKS
+SAMN07196801	WKS3xRFSUM	WKS3xRFSUM	WKS3x	Right Forearm Skin	Urban/Rural	Skin	right	Chinese	2014-08	WKS
+SAMN07196681	WKS3xRFWIN	WKS3xRFWIN	WKS3x	Right Forearm Skin	Urban/Rural	Skin	right	Chinese	2014-01	WKS
+SAMN07197042	WKS3xRPAUT	WKS3xRPAUT	WKS3x	Right Palm Skin	Urban/Rural	Skin	right	Chinese	2014-11	WKS
+SAMN07196922	WKS3xRPSPR	WKS3xRPSPR	WKS3x	Right Palm Skin	Urban/Rural	Skin	right	Chinese	2014-04	WKS
+SAMN07196802	WKS3xRPSUM	WKS3xRPSUM	WKS3x	Right Palm Skin	Urban/Rural	Skin	right	Chinese	2014-08	WKS
+SAMN07196682	WKS3xRPWIN	WKS3xRPWIN	WKS3x	Right Palm Skin	Urban/Rural	Skin	right	Chinese	2014-01	WKS
+SAMN07197043	WKS3yFOHAUT	WKS3yFOHAUT	WKS3y	Forehead Skin	Urban/Rural	Skin	right	Chinese	2014-11	WKS
+SAMN07196923	WKS3yFOHSPR	WKS3yFOHSPR	WKS3y	Forehead Skin	Urban/Rural	Skin	right	Chinese	2014-04	WKS
+SAMN07196803	WKS3yFOHSUM	WKS3yFOHSUM	WKS3y	Forehead Skin	Urban/Rural	Skin	right	Chinese	2014-08	WKS
+SAMN07196683	WKS3yFOHWIN	WKS3yFOHWIN	WKS3y	Forehead Skin	Urban/Rural	Skin	right	Chinese	2014-01	WKS
+SAMN07197044	WKS3yLFAUT	WKS3yLFAUT	WKS3y	Left Forearm Skin	Urban/Rural	Skin	right	Chinese	2014-11	WKS
+SAMN07196924	WKS3yLFSPR	WKS3yLFSPR	WKS3y	Left Forearm Skin	Urban/Rural	Skin	right	Chinese	2014-04	WKS
+SAMN07196804	WKS3yLFSUM	WKS3yLFSUM	WKS3y	Left Forearm Skin	Urban/Rural	Skin	right	Chinese	2014-08	WKS
+SAMN07196684	WKS3yLFWIN	WKS3yLFWIN	WKS3y	Left Forearm Skin	Urban/Rural	Skin	right	Chinese	2014-01	WKS
+SAMN07197045	WKS3yLPAUT	WKS3yLPAUT	WKS3y	Left Palm Skin	Urban/Rural	Skin	right	Chinese	2014-11	WKS
+SAMN07196925	WKS3yLPSPR	WKS3yLPSPR	WKS3y	Left Palm Skin	Urban/Rural	Skin	right	Chinese	2014-04	WKS
+SAMN07196805	WKS3yLPSUM	WKS3yLPSUM	WKS3y	Left Palm Skin	Urban/Rural	Skin	right	Chinese	2014-08	WKS
+SAMN07196685	WKS3yLPWIN	WKS3yLPWIN	WKS3y	Left Palm Skin	Urban/Rural	Skin	right	Chinese	2014-01	WKS
+SAMN07197046	WKS3yRFAUT	WKS3yRFAUT	WKS3y	Right Forearm Skin	Urban/Rural	Skin	right	Chinese	2014-11	WKS
+SAMN07196926	WKS3yRFSPR	WKS3yRFSPR	WKS3y	Right Forearm Skin	Urban/Rural	Skin	right	Chinese	2014-04	WKS
+SAMN07196806	WKS3yRFSUM	WKS3yRFSUM	WKS3y	Right Forearm Skin	Urban/Rural	Skin	right	Chinese	2014-08	WKS
+SAMN07196686	WKS3yRFWIN	WKS3yRFWIN	WKS3y	Right Forearm Skin	Urban/Rural	Skin	right	Chinese	2014-01	WKS
+SAMN07197047	WKS3yRPAUT	WKS3yRPAUT	WKS3y	Right Palm Skin	Urban/Rural	Skin	right	Chinese	2014-11	WKS
+SAMN07196927	WKS3yRPSPR	WKS3yRPSPR	WKS3y	Right Palm Skin	Urban/Rural	Skin	right	Chinese	2014-04	WKS
+SAMN07196807	WKS3yRPSUM	WKS3yRPSUM	WKS3y	Right Palm Skin	Urban/Rural	Skin	right	Chinese	2014-08	WKS
+SAMN07196687	WKS3yRPWIN	WKS3yRPWIN	WKS3y	Right Palm Skin	Urban/Rural	Skin	right	Chinese	2014-01	WKS
+SAMN07256669	blk4	blk4		swab_control_3	swab_control_3	swab_control_3			2014-01	
+SAMN07256670	blkskin2	blkskin2		swab_control_4	swab_control_4	swab_control_4			2014-01	

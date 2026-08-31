@@ -1,0 +1,9 @@
+rank	taxon	parameter	spearman_r	significance	figure
+Order	Propionibacteriales	texture_roughness	0.49	p<0.05	Figure 5a
+Order	Corynebacteriales	texture_roughness	0.47	p<0.05	Figure 5a
+Family	Bacillaceae	texture_roughness	0.76	p<0.05	Figure 5a
+Order	Clostridiales	texture_roughness	-0.63	p<0.05	Figure 5a
+Order	Verrucomicrobiales	texture_roughness	-0.53	p<0.05	Figure 5a
+Order	Pseudomonadales	hydration	0.52	p<0.05	Figure 5a
+Genus	Actinomyces	hydration	0.43	p<0.05	Figure 5a
+Genus	Snodgrassella	sebum	0.46	p<0.05	Figure 5b

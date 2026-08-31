@@ -1,0 +1,418 @@
+sample_accession	sample_alias	host_phenotype	body_site	collection_date	sequencing_method
+SAMEA4657411	X7300.ArL	Psoriasis lesion	Arm	2017	Illumina MiSeq PE343
+SAMEA4657438	X7300.ArN	Psoriasis unaffected	Arm	2017	Illumina MiSeq PE370
+SAMEA4657485	X7300.AxN	Psoriasis unaffected	Axilla	2017	Illumina MiSeq PE417
+SAMEA4657527	X7300.BL	Psoriasis lesion	Butt_Crease	2017	Illumina MiSeq PE459
+SAMEA4657541	X7300.BN	Psoriasis unaffected	Butt_Crease	2017	Illumina MiSeq PE473
+SAMEA4657605	X7300.LL	Psoriasis lesion	Leg	2017	Illumina MiSeq PE537
+SAMEA4657623	X7300.LN	Psoriasis unaffected	Leg	2017	Illumina MiSeq PE555
+SAMEA4657673	X7300.SL	Psoriasis lesion	Scalp	2017	Illumina MiSeq PE605
+SAMEA4657696	X7300.SN	Psoriasis unaffected	Scalp	2017	Illumina MiSeq PE628
+SAMEA4657745	X7300.TL	Psoriasis lesion	Trunk	2017	Illumina MiSeq PE677
+SAMEA4657781	X7300.TN	Psoriasis unaffected	Trunk	2017	Illumina MiSeq PE713
+SAMEA4657398	X7301.ArL	Psoriasis lesion	Arm	2017	Illumina MiSeq PE330
+SAMEA4657424	X7301.ArN	Psoriasis unaffected	Arm	2017	Illumina MiSeq PE356
+SAMEA4657462	X7301.AxL	Psoriasis lesion	Axilla	2017	Illumina MiSeq PE394
+SAMEA4657483	X7301.AxN	Psoriasis unaffected	Axilla	2017	Illumina MiSeq PE415
+SAMEA4657525	X7301.BL	Psoriasis lesion	Butt_Crease	2017	Illumina MiSeq PE457
+SAMEA4657537	X7301.BN	Psoriasis unaffected	Butt_Crease	2017	Illumina MiSeq PE469
+SAMEA4657604	X7301.LL	Psoriasis lesion	Leg	2017	Illumina MiSeq PE536
+SAMEA4657626	X7301.LN	Psoriasis unaffected	Leg	2017	Illumina MiSeq PE558
+SAMEA4657681	X7301.SL	Psoriasis lesion	Scalp	2017	Illumina MiSeq PE613
+SAMEA4657705	X7301.SN	Psoriasis unaffected	Scalp	2017	Illumina MiSeq PE637
+SAMEA4657748	X7301.TL	Psoriasis lesion	Trunk	2017	Illumina MiSeq PE680
+SAMEA4657769	X7301.TN	Psoriasis unaffected	Trunk	2017	Illumina MiSeq PE701
+SAMEA4657407	X7302.ArL	Psoriasis lesion	Arm	2017	Illumina MiSeq PE339
+SAMEA4657433	X7302.ArN	Psoriasis unaffected	Arm	2017	Illumina MiSeq PE365
+SAMEA4657491	X7302.AxN	Psoriasis unaffected	Axilla	2017	Illumina MiSeq PE423
+SAMEA4657542	X7302.BN	Psoriasis unaffected	Butt_Crease	2017	Illumina MiSeq PE474
+SAMEA4657599	X7302.LL	Psoriasis lesion	Leg	2017	Illumina MiSeq PE531
+SAMEA4657628	X7302.LN	Psoriasis unaffected	Leg	2017	Illumina MiSeq PE560
+SAMEA4657669	X7302.SL	Psoriasis lesion	Scalp	2017	Illumina MiSeq PE601
+SAMEA4657692	X7302.SN	Psoriasis unaffected	Scalp	2017	Illumina MiSeq PE624
+SAMEA4657743	X7302.TL	Psoriasis lesion	Trunk	2017	Illumina MiSeq PE675
+SAMEA4657763	X7302.TN	Psoriasis unaffected	Trunk	2017	Illumina MiSeq PE695
+SAMEA4657427	X7304.ArN	Psoriasis unaffected	Arm	2017	Illumina MiSeq PE359
+SAMEA4657475	X7304.AxN	Psoriasis unaffected	Axilla	2017	Illumina MiSeq PE407
+SAMEA4657546	X7304.BN	Psoriasis unaffected	Butt_Crease	2017	Illumina MiSeq PE478
+SAMEA4657595	X7304.LL	Psoriasis lesion	Leg	2017	Illumina MiSeq PE527
+SAMEA4657619	X7304.LN	Psoriasis unaffected	Leg	2017	Illumina MiSeq PE551
+SAMEA4657674	X7304.SL	Psoriasis lesion	Scalp	2017	Illumina MiSeq PE606
+SAMEA4657698	X7304.SN	Psoriasis unaffected	Scalp	2017	Illumina MiSeq PE630
+SAMEA4657773	X7304.TN	Psoriasis unaffected	Trunk	2017	Illumina MiSeq PE705
+SAMEA4657409	X7305.ArL	Psoriasis lesion	Arm	2017	Illumina MiSeq PE341
+SAMEA4657435	X7305.ArN	Psoriasis unaffected	Arm	2017	Illumina MiSeq PE367
+SAMEA4657479	X7305.AxN	Psoriasis unaffected	Axilla	2017	Illumina MiSeq PE411
+SAMEA4657554	X7305.BL	Psoriasis lesion	Butt_Crease	2017	Illumina MiSeq PE486
+SAMEA4657558	X7305.BN	Psoriasis unaffected	Butt_Crease	2017	Illumina MiSeq PE490
+SAMEA4657637	X7305.LL	Psoriasis lesion	Leg	2017	Illumina MiSeq PE569
+SAMEA4657641	X7305.LN	Psoriasis unaffected	Leg	2017	Illumina MiSeq PE573
+SAMEA4657680	X7305.SL	Psoriasis lesion	Scalp	2017	Illumina MiSeq PE612
+SAMEA4657704	X7305.SN	Psoriasis unaffected	Scalp	2017	Illumina MiSeq PE636
+SAMEA4657742	X7305.TL	Psoriasis lesion	Trunk	2017	Illumina MiSeq PE674
+SAMEA4657759	X7305.TN	Psoriasis unaffected	Trunk	2017	Illumina MiSeq PE691
+SAMEA4657415	X7306.ArL	Psoriasis lesion	Arm	2017	Illumina MiSeq PE347
+SAMEA4657442	X7306.ArN	Psoriasis unaffected	Arm	2017	Illumina MiSeq PE374
+SAMEA4657471	X7306.AxN	Psoriasis unaffected	Axilla	2017	Illumina MiSeq PE403
+SAMEA4657540	X7306.BN	Psoriasis unaffected	Butt_Crease	2017	Illumina MiSeq PE472
+SAMEA4657601	X7306.LL	Psoriasis lesion	Leg	2017	Illumina MiSeq PE533
+SAMEA4657622	X7306.LN	Psoriasis unaffected	Leg	2017	Illumina MiSeq PE554
+SAMEA4657688	X7306.SL	Psoriasis lesion	Scalp	2017	Illumina MiSeq PE620
+SAMEA4657712	X7306.SN	Psoriasis unaffected	Scalp	2017	Illumina MiSeq PE644
+SAMEA4657751	X7306.TL	Psoriasis lesion	Trunk	2017	Illumina MiSeq PE683
+SAMEA4657772	X7306.TN	Psoriasis unaffected	Trunk	2017	Illumina MiSeq PE704
+SAMEA4657395	X7307.ArL	Psoriasis lesion	Arm	2017	Illumina MiSeq PE327
+SAMEA4657420	X7307.ArN	Psoriasis unaffected	Arm	2017	Illumina MiSeq PE352
+SAMEA4657467	X7307.AxL	Psoriasis lesion	Axilla	2017	Illumina MiSeq PE399
+SAMEA4657481	X7307.AxN	Psoriasis unaffected	Axilla	2017	Illumina MiSeq PE413
+SAMEA4657524	X7307.BL	Psoriasis lesion	Butt_Crease	2017	Illumina MiSeq PE456
+SAMEA4657536	X7307.BN	Psoriasis unaffected	Butt_Crease	2017	Illumina MiSeq PE468
+SAMEA4657602	X7307.LL	Psoriasis lesion	Leg	2017	Illumina MiSeq PE534
+SAMEA4657624	X7307.LN	Psoriasis unaffected	Leg	2017	Illumina MiSeq PE556
+SAMEA4657682	X7307.SL	Psoriasis lesion	Scalp	2017	Illumina MiSeq PE614
+SAMEA4657706	X7307.SN	Psoriasis unaffected	Scalp	2017	Illumina MiSeq PE638
+SAMEA4657765	X7307.TN	Psoriasis unaffected	Trunk	2017	Illumina MiSeq PE697
+SAMEA4657394	X7308.ArL	Psoriasis lesion	Arm	2017	Illumina MiSeq PE326
+SAMEA4657418	X7308.ArN	Psoriasis unaffected	Arm	2017	Illumina MiSeq PE350
+SAMEA4657477	X7308.AxN	Psoriasis unaffected	Axilla	2017	Illumina MiSeq PE409
+SAMEA4657528	X7308.BL	Psoriasis lesion	Butt_Crease	2017	Illumina MiSeq PE460
+SAMEA4657548	X7308.BN	Psoriasis unaffected	Butt_Crease	2017	Illumina MiSeq PE480
+SAMEA4657598	X7308.LL	Psoriasis lesion	Leg	2017	Illumina MiSeq PE530
+SAMEA4657616	X7308.LN	Psoriasis unaffected	Leg	2017	Illumina MiSeq PE548
+SAMEA4657679	X7308.SL	Psoriasis lesion	Scalp	2017	Illumina MiSeq PE611
+SAMEA4657714	X7308.SN	Psoriasis unaffected	Scalp	2017	Illumina MiSeq PE646
+SAMEA4657752	X7308.TL	Psoriasis lesion	Trunk	2017	Illumina MiSeq PE684
+SAMEA4657777	X7308.TN	Psoriasis unaffected	Trunk	2017	Illumina MiSeq PE709
+SAMEA4657416	X7309.ArN	Psoriasis unaffected	Arm	2017	Illumina MiSeq PE348
+SAMEA4657488	X7309.AxN	Psoriasis unaffected	Axilla	2017	Illumina MiSeq PE420
+SAMEA4657543	X7309.BN	Psoriasis unaffected	Butt_Crease	2017	Illumina MiSeq PE475
+SAMEA4657610	X7309.LN	Psoriasis unaffected	Leg	2017	Illumina MiSeq PE542
+SAMEA4657685	X7309.SL	Psoriasis lesion	Scalp	2017	Illumina MiSeq PE617
+SAMEA4657709	X7309.SN	Psoriasis unaffected	Scalp	2017	Illumina MiSeq PE641
+SAMEA4657775	X7309.TN	Psoriasis unaffected	Trunk	2017	Illumina MiSeq PE707
+SAMEA4657412	X7310.ArL	Psoriasis lesion	Arm	2017	Illumina MiSeq PE344
+SAMEA4657439	X7310.ArN	Psoriasis unaffected	Arm	2017	Illumina MiSeq PE371
+SAMEA4657486	X7310.AxN	Psoriasis unaffected	Axilla	2017	Illumina MiSeq PE418
+SAMEA4657526	X7310.BL	Psoriasis lesion	Butt_Crease	2017	Illumina MiSeq PE458
+SAMEA4657538	X7310.BN	Psoriasis unaffected	Butt_Crease	2017	Illumina MiSeq PE470
+SAMEA4657589	X7310.LL	Psoriasis lesion	Leg	2017	Illumina MiSeq PE521
+SAMEA4657613	X7310.LN	Psoriasis unaffected	Leg	2017	Illumina MiSeq PE545
+SAMEA4657684	X7310.SL	Psoriasis lesion	Scalp	2017	Illumina MiSeq PE616
+SAMEA4657708	X7310.SN	Psoriasis unaffected	Scalp	2017	Illumina MiSeq PE640
+SAMEA4657749	X7310.TL	Psoriasis lesion	Trunk	2017	Illumina MiSeq PE681
+SAMEA4657770	X7310.TN	Psoriasis unaffected	Trunk	2017	Illumina MiSeq PE702
+SAMEA4657404	X7311.ArL	Psoriasis lesion	Arm	2017	Illumina MiSeq PE336
+SAMEA4657430	X7311.ArN	Psoriasis unaffected	Arm	2017	Illumina MiSeq PE362
+SAMEA4657464	X7311.AxL	Psoriasis lesion	Axilla	2017	Illumina MiSeq PE396
+SAMEA4657474	X7311.AxN	Psoriasis unaffected	Axilla	2017	Illumina MiSeq PE406
+SAMEA4657544	X7311.BN	Psoriasis unaffected	Butt_Crease	2017	Illumina MiSeq PE476
+SAMEA4657609	X7311.LL	Psoriasis lesion	Leg	2017	Illumina MiSeq PE541
+SAMEA4657633	X7311.LN	Psoriasis unaffected	Leg	2017	Illumina MiSeq PE565
+SAMEA4657676	X7311.SL	Psoriasis lesion	Scalp	2017	Illumina MiSeq PE608
+SAMEA4657701	X7311.SN	Psoriasis unaffected	Scalp	2017	Illumina MiSeq PE633
+SAMEA4657778	X7311.TN	Psoriasis unaffected	Trunk	2017	Illumina MiSeq PE710
+SAMEA4657399	X7312.ArL	Psoriasis lesion	Arm	2017	Illumina MiSeq PE331
+SAMEA4657426	X7312.ArN	Psoriasis unaffected	Arm	2017	Illumina MiSeq PE358
+SAMEA4657468	X7312.AxL	Psoriasis lesion	Axilla	2017	Illumina MiSeq PE400
+SAMEA4657493	X7312.AxN	Psoriasis unaffected	Axilla	2017	Illumina MiSeq PE425
+SAMEA4657539	X7312.BN	Psoriasis unaffected	Butt_Crease	2017	Illumina MiSeq PE471
+SAMEA4657608	X7312.LL	Psoriasis lesion	Leg	2017	Illumina MiSeq PE540
+SAMEA4657632	X7312.LN	Psoriasis unaffected	Leg	2017	Illumina MiSeq PE564
+SAMEA4657683	X7312.SL	Psoriasis lesion	Scalp	2017	Illumina MiSeq PE615
+SAMEA4657707	X7312.SN	Psoriasis unaffected	Scalp	2017	Illumina MiSeq PE639
+SAMEA4657768	X7312.TN	Psoriasis unaffected	Trunk	2017	Illumina MiSeq PE700
+SAMEA4657408	X7313.ArL	Psoriasis lesion	Arm	2017	Illumina MiSeq PE340
+SAMEA4657434	X7313.ArN	Psoriasis unaffected	Arm	2017	Illumina MiSeq PE366
+SAMEA4657470	X7313.AxN	Psoriasis unaffected	Axilla	2017	Illumina MiSeq PE402
+SAMEA4657545	X7313.BN	Psoriasis unaffected	Butt_Crease	2017	Illumina MiSeq PE477
+SAMEA4657606	X7313.LL	Psoriasis lesion	Leg	2017	Illumina MiSeq PE538
+SAMEA4657629	X7313.LN	Psoriasis unaffected	Leg	2017	Illumina MiSeq PE561
+SAMEA4657700	X7313.SN	Psoriasis unaffected	Scalp	2017	Illumina MiSeq PE632
+SAMEA4657753	X7313.TL	Psoriasis lesion	Trunk	2017	Illumina MiSeq PE685
+SAMEA4657774	X7313.TN	Psoriasis unaffected	Trunk	2017	Illumina MiSeq PE706
+SAMEA4657417	X7314.ArN	Psoriasis unaffected	Arm	2017	Illumina MiSeq PE349
+SAMEA4657490	X7314.AxN	Psoriasis unaffected	Axilla	2017	Illumina MiSeq PE422
+SAMEA4657553	X7314.BL	Psoriasis lesion	Butt_Crease	2017	Illumina MiSeq PE485
+SAMEA4657557	X7314.BN	Psoriasis unaffected	Butt_Crease	2017	Illumina MiSeq PE489
+SAMEA4657636	X7314.LL	Psoriasis lesion	Leg	2017	Illumina MiSeq PE568
+SAMEA4657640	X7314.LN	Psoriasis unaffected	Leg	2017	Illumina MiSeq PE572
+SAMEA4657677	X7314.SL	Psoriasis lesion	Scalp	2017	Illumina MiSeq PE609
+SAMEA4657702	X7314.SN	Psoriasis unaffected	Scalp	2017	Illumina MiSeq PE634
+SAMEA4657782	X7314.TN	Psoriasis unaffected	Trunk	2017	Illumina MiSeq PE714
+SAMEA4657401	X7315.ArL	Psoriasis lesion	Arm	2017	Illumina MiSeq PE333
+SAMEA4657429	X7315.ArN	Psoriasis unaffected	Arm	2017	Illumina MiSeq PE361
+SAMEA4657476	X7315.AxN	Psoriasis unaffected	Axilla	2017	Illumina MiSeq PE408
+SAMEA4657555	X7315.BL	Psoriasis lesion	Butt_Crease	2017	Illumina MiSeq PE487
+SAMEA4657559	X7315.BN	Psoriasis unaffected	Butt_Crease	2017	Illumina MiSeq PE491
+SAMEA4657634	X7315.LL	Psoriasis lesion	Leg	2017	Illumina MiSeq PE566
+SAMEA4657638	X7315.LN	Psoriasis unaffected	Leg	2017	Illumina MiSeq PE570
+SAMEA4657695	X7315.SN	Psoriasis unaffected	Scalp	2017	Illumina MiSeq PE627
+SAMEA4657766	X7315.TN	Psoriasis unaffected	Trunk	2017	Illumina MiSeq PE698
+SAMEA4657400	X7317.ArL	Psoriasis lesion	Arm	2017	Illumina MiSeq PE332
+SAMEA4657428	X7317.ArN	Psoriasis unaffected	Arm	2017	Illumina MiSeq PE360
+SAMEA4657492	X7317.AxN	Psoriasis unaffected	Axilla	2017	Illumina MiSeq PE424
+SAMEA4657552	X7317.BN	Psoriasis unaffected	Butt_Crease	2017	Illumina MiSeq PE484
+SAMEA4657596	X7317.LL	Psoriasis lesion	Leg	2017	Illumina MiSeq PE528
+SAMEA4657630	X7317.LN	Psoriasis unaffected	Leg	2017	Illumina MiSeq PE562
+SAMEA4657671	X7317.SL	Psoriasis lesion	Scalp	2017	Illumina MiSeq PE603
+SAMEA4657694	X7317.SN	Psoriasis unaffected	Scalp	2017	Illumina MiSeq PE626
+SAMEA4657783	X7317.TN	Psoriasis unaffected	Trunk	2017	Illumina MiSeq PE715
+SAMEA4657406	X7319.ArL	Psoriasis lesion	Arm	2017	Illumina MiSeq PE338
+SAMEA4657425	X7319.ArN	Psoriasis unaffected	Arm	2017	Illumina MiSeq PE357
+SAMEA4657482	X7319.AxN	Psoriasis unaffected	Axilla	2017	Illumina MiSeq PE414
+SAMEA4657533	X7319.BN	Psoriasis unaffected	Butt_Crease	2017	Illumina MiSeq PE465
+SAMEA4657590	X7319.LL	Psoriasis lesion	Leg	2017	Illumina MiSeq PE522
+SAMEA4657627	X7319.LN	Psoriasis unaffected	Leg	2017	Illumina MiSeq PE559
+SAMEA4657689	X7319.SL	Psoriasis lesion	Scalp	2017	Illumina MiSeq PE621
+SAMEA4657713	X7319.SN	Psoriasis unaffected	Scalp	2017	Illumina MiSeq PE645
+SAMEA4657767	X7319.TN	Psoriasis unaffected	Trunk	2017	Illumina MiSeq PE699
+SAMEA4657397	X7320.ArL	Psoriasis lesion	Arm	2017	Illumina MiSeq PE329
+SAMEA4657423	X7320.ArN	Psoriasis unaffected	Arm	2017	Illumina MiSeq PE355
+SAMEA4657466	X7320.AxL	Psoriasis lesion	Axilla	2017	Illumina MiSeq PE398
+SAMEA4657480	X7320.AxN	Psoriasis unaffected	Axilla	2017	Illumina MiSeq PE412
+SAMEA4657523	X7320.BL	Psoriasis lesion	Butt_Crease	2017	Illumina MiSeq PE455
+SAMEA4657534	X7320.BN	Psoriasis unaffected	Butt_Crease	2017	Illumina MiSeq PE466
+SAMEA4657592	X7320.LL	Psoriasis lesion	Leg	2017	Illumina MiSeq PE524
+SAMEA4657615	X7320.LN	Psoriasis unaffected	Leg	2017	Illumina MiSeq PE547
+SAMEA4657668	X7320.SL	Psoriasis lesion	Scalp	2017	Illumina MiSeq PE600
+SAMEA4657691	X7320.SN	Psoriasis unaffected	Scalp	2017	Illumina MiSeq PE623
+SAMEA4657750	X7320.TL	Psoriasis lesion	Trunk	2017	Illumina MiSeq PE682
+SAMEA4657771	X7320.TN	Psoriasis unaffected	Trunk	2017	Illumina MiSeq PE703
+SAMEA4657405	X7321.ArL	Psoriasis lesion	Arm	2017	Illumina MiSeq PE337
+SAMEA4657431	X7321.ArN	Psoriasis unaffected	Arm	2017	Illumina MiSeq PE363
+SAMEA4657521	X7321.BL	Psoriasis lesion	Butt_Crease	2017	Illumina MiSeq PE453
+SAMEA4657531	X7321.BN	Psoriasis unaffected	Butt_Crease	2017	Illumina MiSeq PE463
+SAMEA4657597	X7321.LL	Psoriasis lesion	Leg	2017	Illumina MiSeq PE529
+SAMEA4657620	X7321.LN	Psoriasis unaffected	Leg	2017	Illumina MiSeq PE552
+SAMEA4657675	X7321.SL	Psoriasis lesion	Scalp	2017	Illumina MiSeq PE607
+SAMEA4657699	X7321.SN	Psoriasis unaffected	Scalp	2017	Illumina MiSeq PE631
+SAMEA4657741	X7321.TL	Psoriasis lesion	Trunk	2017	Illumina MiSeq PE673
+SAMEA4657758	X7321.TN	Psoriasis unaffected	Trunk	2017	Illumina MiSeq PE690
+SAMEA4657414	X7322.ArL	Psoriasis lesion	Arm	2017	Illumina MiSeq PE346
+SAMEA4657441	X7322.ArN	Psoriasis unaffected	Arm	2017	Illumina MiSeq PE373
+SAMEA4657489	X7322.AxN	Psoriasis unaffected	Axilla	2017	Illumina MiSeq PE421
+SAMEA4657587	X7322.LL	Psoriasis lesion	Leg	2017	Illumina MiSeq PE519
+SAMEA4657611	X7322.LN	Psoriasis unaffected	Leg	2017	Illumina MiSeq PE543
+SAMEA4657672	X7322.SL	Psoriasis lesion	Scalp	2017	Illumina MiSeq PE604
+SAMEA4657747	X7322.TL	Psoriasis lesion	Trunk	2017	Illumina MiSeq PE679
+SAMEA4657760	X7322.TN	Psoriasis unaffected	Trunk	2017	Illumina MiSeq PE692
+SAMEA4657402	X7323.ArL	Psoriasis lesion	Arm	2017	Illumina MiSeq PE334
+SAMEA4657421	X7323.ArN	Psoriasis unaffected	Arm	2017	Illumina MiSeq PE353
+SAMEA4657520	X7323.BL	Psoriasis lesion	Butt_Crease	2017	Illumina MiSeq PE452
+SAMEA4657547	X7323.BN	Psoriasis unaffected	Butt_Crease	2017	Illumina MiSeq PE479
+SAMEA4657588	X7323.LL	Psoriasis lesion	Leg	2017	Illumina MiSeq PE520
+SAMEA4657612	X7323.LN	Psoriasis unaffected	Leg	2017	Illumina MiSeq PE544
+SAMEA4657757	X7323.TL	Psoriasis lesion	Trunk	2017	Illumina MiSeq PE689
+SAMEA4657784	X7323.TN	Psoriasis unaffected	Trunk	2017	Illumina MiSeq PE716
+SAMEA4657419	X7324.ArN	Psoriasis unaffected	Arm	2017	Illumina MiSeq PE351
+SAMEA4657463	X7324.AxL	Psoriasis lesion	Axilla	2017	Illumina MiSeq PE395
+SAMEA4657519	X7324.BL	Psoriasis lesion	Butt_Crease	2017	Illumina MiSeq PE451
+SAMEA4657530	X7324.BN	Psoriasis unaffected	Butt_Crease	2017	Illumina MiSeq PE462
+SAMEA4657591	X7324.LL	Psoriasis lesion	Leg	2017	Illumina MiSeq PE523
+SAMEA4657614	X7324.LN	Psoriasis unaffected	Leg	2017	Illumina MiSeq PE546
+SAMEA4657687	X7324.SL	Psoriasis lesion	Scalp	2017	Illumina MiSeq PE619
+SAMEA4657711	X7324.SN	Psoriasis unaffected	Scalp	2017	Illumina MiSeq PE643
+SAMEA4657410	X7325.ArL	Psoriasis lesion	Arm	2017	Illumina MiSeq PE342
+SAMEA4657432	X7325.ArN	Psoriasis unaffected	Arm	2017	Illumina MiSeq PE364
+SAMEA4657551	X7325.BN	Psoriasis unaffected	Butt_Crease	2017	Illumina MiSeq PE483
+SAMEA4657593	X7325.LL	Psoriasis lesion	Leg	2017	Illumina MiSeq PE525
+SAMEA4657617	X7325.LN	Psoriasis unaffected	Leg	2017	Illumina MiSeq PE549
+SAMEA4657670	X7325.SL	Psoriasis lesion	Scalp	2017	Illumina MiSeq PE602
+SAMEA4657693	X7325.SN	Psoriasis unaffected	Scalp	2017	Illumina MiSeq PE625
+SAMEA4657755	X7325.TL	Psoriasis lesion	Trunk	2017	Illumina MiSeq PE687
+SAMEA4657762	X7325.TN	Psoriasis unaffected	Trunk	2017	Illumina MiSeq PE694
+SAMEA4657422	X7326.ArN	Psoriasis unaffected	Arm	2017	Illumina MiSeq PE354
+SAMEA4657472	X7326.AxN	Psoriasis unaffected	Axilla	2017	Illumina MiSeq PE404
+SAMEA4657535	X7326.BN	Psoriasis unaffected	Butt_Crease	2017	Illumina MiSeq PE467
+SAMEA4657594	X7326.LL	Psoriasis lesion	Leg	2017	Illumina MiSeq PE526
+SAMEA4657618	X7326.LN	Psoriasis unaffected	Leg	2017	Illumina MiSeq PE550
+SAMEA4657761	X7326.TN	Psoriasis unaffected	Trunk	2017	Illumina MiSeq PE693
+SAMEA4657396	X7327.ArL	Psoriasis lesion	Arm	2017	Illumina MiSeq PE328
+SAMEA4657437	X7327.ArN	Psoriasis unaffected	Arm	2017	Illumina MiSeq PE369
+SAMEA4657484	X7327.AxN	Psoriasis unaffected	Axilla	2017	Illumina MiSeq PE416
+SAMEA4657522	X7327.BL	Psoriasis lesion	Butt_Crease	2017	Illumina MiSeq PE454
+SAMEA4657532	X7327.BN	Psoriasis unaffected	Butt_Crease	2017	Illumina MiSeq PE464
+SAMEA4657600	X7327.LL	Psoriasis lesion	Leg	2017	Illumina MiSeq PE532
+SAMEA4657621	X7327.LN	Psoriasis unaffected	Leg	2017	Illumina MiSeq PE553
+SAMEA4657697	X7327.SN	Psoriasis unaffected	Scalp	2017	Illumina MiSeq PE629
+SAMEA4657744	X7327.TL	Psoriasis lesion	Trunk	2017	Illumina MiSeq PE676
+SAMEA4657764	X7327.TN	Psoriasis unaffected	Trunk	2017	Illumina MiSeq PE696
+SAMEA4657403	X7328.ArL	Psoriasis lesion	Arm	2017	Illumina MiSeq PE335
+SAMEA4657473	X7328.AxN	Psoriasis unaffected	Axilla	2017	Illumina MiSeq PE405
+SAMEA4657556	X7328.BL	Psoriasis lesion	Butt_Crease	2017	Illumina MiSeq PE488
+SAMEA4657560	X7328.BN	Psoriasis unaffected	Butt_Crease	2017	Illumina MiSeq PE492
+SAMEA4657635	X7328.LL	Psoriasis lesion	Leg	2017	Illumina MiSeq PE567
+SAMEA4657639	X7328.LN	Psoriasis unaffected	Leg	2017	Illumina MiSeq PE571
+SAMEA4657678	X7328.SL	Psoriasis lesion	Scalp	2017	Illumina MiSeq PE610
+SAMEA4657703	X7328.SN	Psoriasis unaffected	Scalp	2017	Illumina MiSeq PE635
+SAMEA4657746	X7328.TL	Psoriasis lesion	Trunk	2017	Illumina MiSeq PE678
+SAMEA4657780	X7328.TN	Psoriasis unaffected	Trunk	2017	Illumina MiSeq PE712
+SAMEA4657436	X7330.ArN	Psoriasis unaffected	Arm	2017	Illumina MiSeq PE368
+SAMEA4657465	X7330.AxL	Psoriasis lesion	Axilla	2017	Illumina MiSeq PE397
+SAMEA4657478	X7330.AxN	Psoriasis unaffected	Axilla	2017	Illumina MiSeq PE410
+SAMEA4657529	X7330.BL	Psoriasis lesion	Butt_Crease	2017	Illumina MiSeq PE461
+SAMEA4657550	X7330.BN	Psoriasis unaffected	Butt_Crease	2017	Illumina MiSeq PE482
+SAMEA4657607	X7330.LL	Psoriasis lesion	Leg	2017	Illumina MiSeq PE539
+SAMEA4657631	X7330.LN	Psoriasis unaffected	Leg	2017	Illumina MiSeq PE563
+SAMEA4657667	X7330.SL	Psoriasis lesion	Scalp	2017	Illumina MiSeq PE599
+SAMEA4657690	X7330.SN	Psoriasis unaffected	Scalp	2017	Illumina MiSeq PE622
+SAMEA4657754	X7330.TL	Psoriasis lesion	Trunk	2017	Illumina MiSeq PE686
+SAMEA4657776	X7330.TN	Psoriasis unaffected	Trunk	2017	Illumina MiSeq PE708
+SAMEA4657413	X7331.ArL	Psoriasis lesion	Arm	2017	Illumina MiSeq PE345
+SAMEA4657440	X7331.ArN	Psoriasis unaffected	Arm	2017	Illumina MiSeq PE372
+SAMEA4657469	X7331.AxL	Psoriasis lesion	Axilla	2017	Illumina MiSeq PE401
+SAMEA4657487	X7331.AxN	Psoriasis unaffected	Axilla	2017	Illumina MiSeq PE419
+SAMEA4657549	X7331.BN	Psoriasis unaffected	Butt_Crease	2017	Illumina MiSeq PE481
+SAMEA4657603	X7331.LL	Psoriasis lesion	Leg	2017	Illumina MiSeq PE535
+SAMEA4657625	X7331.LN	Psoriasis unaffected	Leg	2017	Illumina MiSeq PE557
+SAMEA4657686	X7331.SL	Psoriasis lesion	Scalp	2017	Illumina MiSeq PE618
+SAMEA4657710	X7331.SN	Psoriasis unaffected	Scalp	2017	Illumina MiSeq PE642
+SAMEA4657756	X7331.TL	Psoriasis lesion	Trunk	2017	Illumina MiSeq PE688
+SAMEA4657779	X7331.TN	Psoriasis unaffected	Trunk	2017	Illumina MiSeq PE711
+SAMEA4657369	X7350.Ar	Healthy	Arm	2017	Illumina MiSeq PE301
+SAMEA4657444	X7350.Ax	Healthy	Axilla	2017	Illumina MiSeq PE376
+SAMEA4657507	X7350.B	Healthy	Butt_Crease	2017	Illumina MiSeq PE439
+SAMEA4657570	X7350.L	Healthy	Leg	2017	Illumina MiSeq PE502
+SAMEA4657651	X7350.S	Healthy	Scalp	2017	Illumina MiSeq PE583
+SAMEA4657723	X7350.T	Healthy	Trunk	2017	Illumina MiSeq PE655
+SAMEA4657386	X7351.Ar	Healthy	Arm	2017	Illumina MiSeq PE318
+SAMEA4657457	X7351.Ax	Healthy	Axilla	2017	Illumina MiSeq PE389
+SAMEA4657514	X7351.B	Healthy	Butt_Crease	2017	Illumina MiSeq PE446
+SAMEA4657581	X7351.L	Healthy	Leg	2017	Illumina MiSeq PE513
+SAMEA4657663	X7351.S	Healthy	Scalp	2017	Illumina MiSeq PE595
+SAMEA4657736	X7351.T	Healthy	Trunk	2017	Illumina MiSeq PE668
+SAMEA4657391	X7352.Ar	Healthy	Arm	2017	Illumina MiSeq PE323
+SAMEA4657460	X7352.Ax	Healthy	Axilla	2017	Illumina MiSeq PE392
+SAMEA4657500	X7352.B	Healthy	Butt_Crease	2017	Illumina MiSeq PE432
+SAMEA4657569	X7352.L	Healthy	Leg	2017	Illumina MiSeq PE501
+SAMEA4657652	X7352.S	Healthy	Scalp	2017	Illumina MiSeq PE584
+SAMEA4657724	X7352.T	Healthy	Trunk	2017	Illumina MiSeq PE656
+SAMEA4657383	X7354.Ar	Healthy	Arm	2017	Illumina MiSeq PE315
+SAMEA4657454	X7354.Ax	Healthy	Axilla	2017	Illumina MiSeq PE386
+SAMEA4657497	X7354.B	Healthy	Butt_Crease	2017	Illumina MiSeq PE429
+SAMEA4657567	X7354.L	Healthy	Leg	2017	Illumina MiSeq PE499
+SAMEA4657647	X7354.S	Healthy	Scalp	2017	Illumina MiSeq PE579
+SAMEA4657720	X7354.T	Healthy	Trunk	2017	Illumina MiSeq PE652
+SAMEA4657373	X7355.Ar	Healthy	Arm	2017	Illumina MiSeq PE305
+SAMEA4657448	X7355.Ax	Healthy	Axilla	2017	Illumina MiSeq PE380
+SAMEA4657508	X7355.B	Healthy	Butt_Crease	2017	Illumina MiSeq PE440
+SAMEA4657576	X7355.L	Healthy	Leg	2017	Illumina MiSeq PE508
+SAMEA4657659	X7355.S	Healthy	Scalp	2017	Illumina MiSeq PE591
+SAMEA4657731	X7355.T	Healthy	Trunk	2017	Illumina MiSeq PE663
+SAMEA4657393	X7356.Ar	Healthy	Arm	2017	Illumina MiSeq PE325
+SAMEA4657498	X7356.B	Healthy	Butt_Crease	2017	Illumina MiSeq PE430
+SAMEA4657568	X7356.L	Healthy	Leg	2017	Illumina MiSeq PE500
+SAMEA4657649	X7356.S	Healthy	Scalp	2017	Illumina MiSeq PE581
+SAMEA4657721	X7356.T	Healthy	Trunk	2017	Illumina MiSeq PE653
+SAMEA4657376	X7357.Ar	Healthy	Arm	2017	Illumina MiSeq PE308
+SAMEA4657450	X7357.Ax	Healthy	Axilla	2017	Illumina MiSeq PE382
+SAMEA4657510	X7357.B	Healthy	Butt_Crease	2017	Illumina MiSeq PE442
+SAMEA4657579	X7357.L	Healthy	Leg	2017	Illumina MiSeq PE511
+SAMEA4657662	X7357.S	Healthy	Scalp	2017	Illumina MiSeq PE594
+SAMEA4657734	X7357.T	Healthy	Trunk	2017	Illumina MiSeq PE666
+SAMEA4657387	X7358.Ar	Healthy	Arm	2017	Illumina MiSeq PE319
+SAMEA4657458	X7358.Ax	Healthy	Axilla	2017	Illumina MiSeq PE390
+SAMEA4657496	X7358.B	Healthy	Butt_Crease	2017	Illumina MiSeq PE428
+SAMEA4657566	X7358.L	Healthy	Leg	2017	Illumina MiSeq PE498
+SAMEA4657646	X7358.S	Healthy	Scalp	2017	Illumina MiSeq PE578
+SAMEA4657719	X7358.T	Healthy	Trunk	2017	Illumina MiSeq PE651
+SAMEA4657379	X7359.Ar	Healthy	Arm	2017	Illumina MiSeq PE311
+SAMEA4657509	X7359.B	Healthy	Butt_Crease	2017	Illumina MiSeq PE441
+SAMEA4657577	X7359.L	Healthy	Leg	2017	Illumina MiSeq PE509
+SAMEA4657650	X7359.S	Healthy	Scalp	2017	Illumina MiSeq PE582
+SAMEA4657733	X7359.T	Healthy	Trunk	2017	Illumina MiSeq PE665
+SAMEA4657378	X7360.Ar	Healthy	Arm	2017	Illumina MiSeq PE310
+SAMEA4657515	X7360.B	Healthy	Butt_Crease	2017	Illumina MiSeq PE447
+SAMEA4657583	X7360.L	Healthy	Leg	2017	Illumina MiSeq PE515
+SAMEA4657664	X7360.S	Healthy	Scalp	2017	Illumina MiSeq PE596
+SAMEA4657738	X7360.T	Healthy	Trunk	2017	Illumina MiSeq PE670
+SAMEA4657390	X7361.Ar	Healthy	Arm	2017	Illumina MiSeq PE322
+SAMEA4657459	X7361.Ax	Healthy	Axilla	2017	Illumina MiSeq PE391
+SAMEA4657512	X7361.B	Healthy	Butt_Crease	2017	Illumina MiSeq PE444
+SAMEA4657571	X7361.L	Healthy	Leg	2017	Illumina MiSeq PE503
+SAMEA4657655	X7361.S	Healthy	Scalp	2017	Illumina MiSeq PE587
+SAMEA4657727	X7361.T	Healthy	Trunk	2017	Illumina MiSeq PE659
+SAMEA4657388	X7362.Ar	Healthy	Arm	2017	Illumina MiSeq PE320
+SAMEA4657447	X7362.Ax	Healthy	Axilla	2017	Illumina MiSeq PE379
+SAMEA4657518	X7362.B	Healthy	Butt_Crease	2017	Illumina MiSeq PE450
+SAMEA4657586	X7362.L	Healthy	Leg	2017	Illumina MiSeq PE518
+SAMEA4657666	X7362.S	Healthy	Scalp	2017	Illumina MiSeq PE598
+SAMEA4657740	X7362.T	Healthy	Trunk	2017	Illumina MiSeq PE672
+SAMEA4657370	X7363.Ar	Healthy	Arm	2017	Illumina MiSeq PE302
+SAMEA4657445	X7363.Ax	Healthy	Axilla	2017	Illumina MiSeq PE377
+SAMEA4657501	X7363.B	Healthy	Butt_Crease	2017	Illumina MiSeq PE433
+SAMEA4657578	X7363.L	Healthy	Leg	2017	Illumina MiSeq PE510
+SAMEA4657661	X7363.S	Healthy	Scalp	2017	Illumina MiSeq PE593
+SAMEA4657732	X7363.T	Healthy	Trunk	2017	Illumina MiSeq PE664
+SAMEA4657385	X7364.Ar	Healthy	Arm	2017	Illumina MiSeq PE317
+SAMEA4657456	X7364.Ax	Healthy	Axilla	2017	Illumina MiSeq PE388
+SAMEA4657517	X7364.B	Healthy	Butt_Crease	2017	Illumina MiSeq PE449
+SAMEA4657585	X7364.L	Healthy	Leg	2017	Illumina MiSeq PE517
+SAMEA4657665	X7364.S	Healthy	Scalp	2017	Illumina MiSeq PE597
+SAMEA4657739	X7364.T	Healthy	Trunk	2017	Illumina MiSeq PE671
+SAMEA4657368	X7365.Ar	Healthy	Arm	2017	Illumina MiSeq PE300
+SAMEA4657443	X7365.Ax	Healthy	Axilla	2017	Illumina MiSeq PE375
+SAMEA4657504	X7365.B	Healthy	Butt_Crease	2017	Illumina MiSeq PE436
+SAMEA4657574	X7365.L	Healthy	Leg	2017	Illumina MiSeq PE506
+SAMEA4657656	X7365.S	Healthy	Scalp	2017	Illumina MiSeq PE588
+SAMEA4657728	X7365.T	Healthy	Trunk	2017	Illumina MiSeq PE660
+SAMEA4657382	X7366.Ar	Healthy	Arm	2017	Illumina MiSeq PE314
+SAMEA4657453	X7366.Ax	Healthy	Axilla	2017	Illumina MiSeq PE385
+SAMEA4657516	X7366.B	Healthy	Butt_Crease	2017	Illumina MiSeq PE448
+SAMEA4657584	X7366.L	Healthy	Leg	2017	Illumina MiSeq PE516
+SAMEA4657648	X7366.S	Healthy	Scalp	2017	Illumina MiSeq PE580
+SAMEA4657737	X7366.T	Healthy	Trunk	2017	Illumina MiSeq PE669
+SAMEA4657392	X7367.Ar	Healthy	Arm	2017	Illumina MiSeq PE324
+SAMEA4657461	X7367.Ax	Healthy	Axilla	2017	Illumina MiSeq PE393
+SAMEA4657513	X7367.B	Healthy	Butt_Crease	2017	Illumina MiSeq PE445
+SAMEA4657572	X7367.L	Healthy	Leg	2017	Illumina MiSeq PE504
+SAMEA4657654	X7367.S	Healthy	Scalp	2017	Illumina MiSeq PE586
+SAMEA4657725	X7367.T	Healthy	Trunk	2017	Illumina MiSeq PE657
+SAMEA4657384	X7368.Ar	Healthy	Arm	2017	Illumina MiSeq PE316
+SAMEA4657455	X7368.Ax	Healthy	Axilla	2017	Illumina MiSeq PE387
+SAMEA4657562	X7368.L	Healthy	Leg	2017	Illumina MiSeq PE494
+SAMEA4657643	X7368.S	Healthy	Scalp	2017	Illumina MiSeq PE575
+SAMEA4657716	X7368.T	Healthy	Trunk	2017	Illumina MiSeq PE648
+SAMEA4657371	X7369.Ar	Healthy	Arm	2017	Illumina MiSeq PE303
+SAMEA4657446	X7369.Ax	Healthy	Axilla	2017	Illumina MiSeq PE378
+SAMEA4657511	X7369.B	Healthy	Butt_Crease	2017	Illumina MiSeq PE443
+SAMEA4657580	X7369.L	Healthy	Leg	2017	Illumina MiSeq PE512
+SAMEA4657660	X7369.S	Healthy	Scalp	2017	Illumina MiSeq PE592
+SAMEA4657735	X7369.T	Healthy	Trunk	2017	Illumina MiSeq PE667
+SAMEA4657377	X7370.Ar	Healthy	Arm	2017	Illumina MiSeq PE309
+SAMEA4657451	X7370.Ax	Healthy	Axilla	2017	Illumina MiSeq PE383
+SAMEA4657495	X7370.B	Healthy	Butt_Crease	2017	Illumina MiSeq PE427
+SAMEA4657561	X7370.L	Healthy	Leg	2017	Illumina MiSeq PE493
+SAMEA4657642	X7370.S	Healthy	Scalp	2017	Illumina MiSeq PE574
+SAMEA4657715	X7370.T	Healthy	Trunk	2017	Illumina MiSeq PE647
+SAMEA4657372	X7371.Ar	Healthy	Arm	2017	Illumina MiSeq PE304
+SAMEA4657503	X7371.B	Healthy	Butt_Crease	2017	Illumina MiSeq PE435
+SAMEA4657573	X7371.L	Healthy	Leg	2017	Illumina MiSeq PE505
+SAMEA4657653	X7371.S	Healthy	Scalp	2017	Illumina MiSeq PE585
+SAMEA4657726	X7371.T	Healthy	Trunk	2017	Illumina MiSeq PE658
+SAMEA4657380	X7372.Ar	Healthy	Arm	2017	Illumina MiSeq PE312
+SAMEA4657494	X7372.B	Healthy	Butt_Crease	2017	Illumina MiSeq PE426
+SAMEA4657563	X7372.L	Healthy	Leg	2017	Illumina MiSeq PE495
+SAMEA4657645	X7372.S	Healthy	Scalp	2017	Illumina MiSeq PE577
+SAMEA4657717	X7372.T	Healthy	Trunk	2017	Illumina MiSeq PE649
+SAMEA4657374	X7373.Ar	Healthy	Arm	2017	Illumina MiSeq PE306
+SAMEA4657449	X7373.Ax	Healthy	Axilla	2017	Illumina MiSeq PE381
+SAMEA4657505	X7373.B	Healthy	Butt_Crease	2017	Illumina MiSeq PE437
+SAMEA4657582	X7373.L	Healthy	Leg	2017	Illumina MiSeq PE514
+SAMEA4657658	X7373.S	Healthy	Scalp	2017	Illumina MiSeq PE590
+SAMEA4657730	X7373.T	Healthy	Trunk	2017	Illumina MiSeq PE662
+SAMEA4657381	X7374.Ar	Healthy	Arm	2017	Illumina MiSeq PE313
+SAMEA4657452	X7374.Ax	Healthy	Axilla	2017	Illumina MiSeq PE384
+SAMEA4657499	X7374.B	Healthy	Butt_Crease	2017	Illumina MiSeq PE431
+SAMEA4657564	X7374.L	Healthy	Leg	2017	Illumina MiSeq PE496
+SAMEA4657644	X7374.S	Healthy	Scalp	2017	Illumina MiSeq PE576
+SAMEA4657722	X7374.T	Healthy	Trunk	2017	Illumina MiSeq PE654
+SAMEA4657375	X7375.Ar	Healthy	Arm	2017	Illumina MiSeq PE307
+SAMEA4657506	X7375.B	Healthy	Butt_Crease	2017	Illumina MiSeq PE438
+SAMEA4657575	X7375.L	Healthy	Leg	2017	Illumina MiSeq PE507
+SAMEA4657657	X7375.S	Healthy	Scalp	2017	Illumina MiSeq PE589
+SAMEA4657729	X7375.T	Healthy	Trunk	2017	Illumina MiSeq PE661
+SAMEA4657389	X7376.Ar	Healthy	Arm	2017	Illumina MiSeq PE321
+SAMEA4657502	X7376.B	Healthy	Butt_Crease	2017	Illumina MiSeq PE434
+SAMEA4657565	X7376.L	Healthy	Leg	2017	Illumina MiSeq PE497
+SAMEA4657718	X7376.T	Healthy	Trunk	2017	Illumina MiSeq PE650

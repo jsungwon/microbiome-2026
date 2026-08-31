@@ -33,7 +33,7 @@
 | `assay` | 53/53 | 16S | 마커 종류 |
 | `region` | 53/53 | V3 | 증폭 영역. **다르면 ASV 수준 병합 불가** |
 | `group` | 53/53 | M0 / M24h / M7d | 비교군 라벨 |
-| `group_type` | 53/53 | metformin_time | group이 무슨 축인지 (age / sensitivity / acne / metformin_time) |
+| `group_type` | 53/53 | metformin_time | group이 무슨 축인지 (age / sensitivity / acne / metformin_time / atopic_dermatitis / psoriasis / scalp_disease / rosacea_sampletype / ad_acne) |
 | `age` | 0/53 | (전부 빈 칸) | 나이 (세) |
 | `age_group` | 0/53 | (전부 빈 칸) | 연령군 코드 |
 | `sex` | 0/53 | (전부 빈 칸) | 성별 |

@@ -39,7 +39,7 @@
 | `assay` | 42/42 | 16S | 마커 종류 |
 | `region` | 42/42 | V4-V5 | 증폭 영역. **다르면 ASV 수준 병합 불가** |
 | `group` | 42/42 | Non-sensitive / Sensitive | 비교군 라벨 |
-| `group_type` | 42/42 | skin_sensitivity | group이 무슨 축인지 (age / sensitivity / acne / metformin_time) |
+| `group_type` | 42/42 | skin_sensitivity | group이 무슨 축인지 (age / sensitivity / acne / metformin_time / atopic_dermatitis / psoriasis / scalp_disease / rosacea_sampletype / ad_acne) |
 | `age` | 42/42 | 22 ~ 52 | 나이 (세) |
 | `age_group` | 0/42 | (전부 빈 칸) | 연령군 코드 |
 | `sex` | 42/42 | female | 성별 |
@@ -100,7 +100,7 @@
 | `assay` | 42/42 | ITS | 마커 종류 |
 | `region` | 42/42 | ITS1 | 증폭 영역. **다르면 ASV 수준 병합 불가** |
 | `group` | 42/42 | Non-sensitive / Sensitive | 비교군 라벨 |
-| `group_type` | 42/42 | skin_sensitivity | group이 무슨 축인지 (age / sensitivity / acne / metformin_time) |
+| `group_type` | 42/42 | skin_sensitivity | group이 무슨 축인지 (age / sensitivity / acne / metformin_time / atopic_dermatitis / psoriasis / scalp_disease / rosacea_sampletype / ad_acne) |
 | `age` | 42/42 | 22 ~ 52 | 나이 (세) |
 | `age_group` | 0/42 | (전부 빈 칸) | 연령군 코드 |
 | `sex` | 42/42 | female | 성별 |
