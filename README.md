@@ -13,25 +13,29 @@ FASTQ를 다루지 않고 TSV만 읽어서 바로 분석할 수 있다.
 나뉘어 등록된 경우가 많고(예: `04_acne`는 16S와 ITS가 서로 다른 accession),
 같은 accession이 여러 논문에 걸쳐 재등록된 사례도 있어 번호만으로는 헷갈린다.
 
-| 폴더 접두사 | 스터디 | **BioProject** | 논문 | 비교군 | 샘플 |
-|---|---|---|---|---|---|
-| `01_aging` | 노화 (한국) | `PRJNA614620`(16S+ITS)<br>`PRJNA613934`(중복 제외) | Sci Rep 2022 | 젊은(Y) / 고령(O) | 16S 55 · ITS 58 |
-| `02_healthy` | 건강한 한국인 | `PRJNA723064` | Sci Rep 2021 | 젊은(Y) / 고령(O) | 16S 102 |
-| `03_sensitive` | 민감성 피부 (한국) | `PRJNA627788`(16S)<br>`PRJNA627798`(ITS) | Microorganisms 2020 | 민감 / 비민감 | 16S 42 · ITS 42 |
-| `04_acne` | 여드름 (한국) | `PRJNA669317`(16S)<br>`PRJNA673754`(중복 제외) | J Microbiol 2021 | 여드름 / 건강 | 16S 60 · ITS 53 |
-| `05_metformin` | 메트포르민 **장내** | `PRJEB24497` | PLoS One 2018 | M0 / M24h / M7d (+ 부작용 중증도) | 16S 53 |
-| `06_cosmetics` | 화장품·피부수분 (한국) | `PRJNA345237` | MicrobiologyOpen 2018 | 고수분 HHG / 저수분 LHG × 3시점 | **임상표만 90행** |
-| `07_skincare` | 화장품 중재 (한국) | `PRJEB44885` | MicrobiologyOpen 2021 | 0주 / 2주 / 4주 (25명 종단) | 16S 75 |
-| `08_atopic` | 아토피 (덴마크) | `PRJEB42898` | Microorganisms 2021 | AD 병변 / 비병변 / 코 / 대조 | 16S 466 |
-| `09_acne_dk` | 여드름·이소트레티노인 (덴마크) | `PRJNA1044749` | JEADV Clin Pract 2024 | 여드름 / 건강 × 치료 전후 | 16S 181 |
-| `10_psoriasis` | 건선 6부위 (미국) | `PRJEB25915` | Microbiome 2018 | 병변 / 비병변 / 건강 | 16S 417 |
-| `11_scalp` | 두피 건선·지루피부염 (중국) | `PRJNA788988`(16S)<br>`PRJNA789592`(ITS) | Exp Dermatol 2022 | 건선 / 지루 / 건강 × 병변 | 16S 187 · ITS 186 |
-| `12_rosacea` | 주사 — **피부·장·혈액** (헝가리) | `PRJNA1189573` | Microorganisms 2024 | 검체 3종 (같은 27명) | 16S 93 |
-| `13_lipid` | 지질–미생물 (독일) | `PRJEB66070` | 미게재 | 아토피 / 여드름 / 건강 × 병변 | 16S 111 |
-| `14_atopic_zh` | 아토피 종단 (스위스) | `PRJEB44392` (16S+ITS) | 미게재 | AD 병변 / 비병변 / 건강 × t1–t3 | 16S 325 · ITS 327 |
-| `15_season` | 사계절 가구 코호트 (홍콩) | `PRJNA390040`(16S)<br>`PRJNA421247`(ITS) | Microbiome 2018<br>mSystems 2019 | 가구 × 개인 × 부위 × 4계절 | 16S 484 · ITS 481 |
-| `16_dandruff` | 비듬 두피 (인도) | `PRJNA415710` (16S+ITS) | Front Cell Infect Microbiol 2018 | Day 0 / 84 / 112 | 16S 398 · ITS 400 |
-| `17_ad_myco` | 아토피 마이코바이옴 (폴란드) | `PRJNA1046129` | Exp Dermatol 2025 | 아토피 50 / 건강 50 | ITS 100 |
+| 폴더 접두사 | 스터디 | **BioProject** | 논문 | 비교군 | 샘플 | **임상항목** |
+|---|---|---|---|---|---|---|
+| `01_aging` | 노화 (한국) | `PRJNA614620`(16S+ITS)<br>`PRJNA613934`(중복 제외) | Sci Rep 2022 | 젊은(Y) / 고령(O) | 16S 55 · ITS 58 | **21종**<br><sub>수분·피지·pH·TEWL 4종 + 연령군</sub> |
+| `02_healthy` | 건강한 한국인 | `PRJNA723064` | Sci Rep 2021 | 젊은(Y) / 고령(O) | 16S 102 | **27종**<br><sub>피부물성 7종 + 주름·색소·설문</sub> |
+| `03_sensitive` | 민감성 피부 (한국) | `PRJNA627788`(16S)<br>`PRJNA627798`(ITS) | Microorganisms 2020 | 민감 / 비민감 | 16S 42 · ITS 42 | **37종**<br><sub>물성 6종 + **주관 설문 20여종** + 기온</sub> |
+| `04_acne` | 여드름 (한국) | `PRJNA669317`(16S)<br>`PRJNA673754`(중복 제외) | J Microbiol 2021 | 여드름 / 건강 | 16S 60 · ITS 53 | **16종**<br><sub>수분·피지·pH·TEWL + 논문 다양성값</sub> |
+| `05_metformin` | 메트포르민 **장내** | `PRJEB24497` | PLoS One 2018 | M0 / M24h / M7d (+ 부작용 중증도) | 16S 53 | **9종**<br><sub>**부작용 중증도**(셀 색에서 복원) + 일수</sub> |
+| `06_cosmetics` | 화장품·피부수분 (한국) | `PRJNA345237` | MicrobiologyOpen 2018 | 고수분 HHG / 저수분 LHG × 3시점 | **임상표만 90행** | **11종**<br><sub>수분군 + 논문 다양성값 (**정량 데이터 없음**)</sub> |
+| `07_skincare` | 화장품 중재 (한국) | `PRJEB44885` | MicrobiologyOpen 2021 | 0주 / 2주 / 4주 (25명 종단) | 16S 75 | **10종**<br><sub>시점 + 논문 다양성값<br>물성치는 군 평균만</sub> |
+| `08_atopic` | 아토피 (덴마크) | `PRJEB42898` | Microorganisms 2021 | AD 병변 / 비병변 / 코 / 대조 | 16S 466 | **9종**<br><sub>성별·해부학부위·피부타입<br>SCORAD는 개인정보 규정으로 비공개</sub> |
+| `09_acne_dk` | 여드름·이소트레티노인 (덴마크) | `PRJNA1044749` | JEADV Clin Pract 2024 | 여드름 / 건강 × 치료 전후 | 16S 181 | **14종**<br><sub>**부위별 여드름 등급** + 치료력 + 이소트레티노인 개월수</sub> |
+| `10_psoriasis` | 건선 6부위 (미국) | `PRJEB25915` | Microbiome 2018 | 병변 / 비병변 / 건강 | 16S 417 | **7종**<br><sub>host_phenotype(병변/비병변/건강)</sub> |
+| `11_scalp` | 두피 건선·지루피부염 (중국) | `PRJNA788988`(16S)<br>`PRJNA789592`(ITS) | Exp Dermatol 2022 | 건선 / 지루 / 건강 × 병변 | 16S 187 · ITS 186 | **4종**<br><sub>군·부위만 (논문이 2쪽 연구서한)</sub> |
+| `12_rosacea` | 주사 — **피부·장·혈액** (헝가리) | `PRJNA1189573` | Microorganisms 2024 | 검체 3종 (같은 27명) | 16S 93 | **4종**<br><sub>검체종류만 (논문이 군 단위 요약)</sub> |
+| `13_lipid` | 지질–미생물 (독일) | `PRJEB66070` | 미게재 | 아토피 / 여드름 / 건강 × 병변 | 16S 111 | **4종**<br><sub>질환·병변·부위 (샘플명에서 복원)</sub> |
+| `14_atopic_zh` | 아토피 종단 (스위스) | `PRJEB44392` (16S+ITS) | 미게재 | AD 병변 / 비병변 / 건강 × t1–t3 | 16S 325 · ITS 327 | **12종**<br><sub>**SCORAD 연속형 0–79.1** + 중증도·병변·계절·두필루맙</sub> |
+| `15_season` | 사계절 가구 코호트 (홍콩) | `PRJNA390040`(16S)<br>`PRJNA421247`(ITS) | Microbiome 2018<br>mSystems 2019 | 가구 × 개인 × 부위 × 4계절 | 16S 484 · ITS 481 | **10종**<br><sub>가구·주손·민족·도농 + 계절</sub> |
+| `16_dandruff` | 비듬 두피 (인도) | `PRJNA415710` (16S+ITS) | Front Cell Infect Microbiol 2018 | Day 0 / 84 / 112 | 16S 398 · ITS 400 | —<br><sub>연령·성별·시점 (파이프라인 진행 중)</sub> |
+| `17_ad_myco` | 아토피 마이코바이옴 (폴란드) | `PRJNA1046129` | Exp Dermatol 2025 | 아토피 50 / 건강 50 | ITS 100 | **5종**<br><sub>군·채취일 (논문 Table 1은 군 요약)</sub> |
+
+**임상항목**은 `metadata/sample_info/`의 각 파일에 **이미 병합돼 있는** 변수 수다
+(기술 컬럼과 계산값 제외). 별도 조인이 필요 없다.
+항목이 4개뿐인 스터디는 군·부위·피험자만 있다는 뜻이고, 그 이유를 각 문서에 적어 뒀다.
 
 ### accession을 볼 때 주의할 점
 
