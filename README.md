@@ -30,7 +30,7 @@ FASTQ를 다루지 않고 TSV만 읽어서 바로 분석할 수 있다.
 | `13_lipid` | 지질–미생물 (독일) | `PRJEB66070` | 미게재 | 아토피 / 여드름 / 건강 × 병변 | 16S 111 | **4종**<br><sub>질환·병변·부위 (샘플명에서 복원)</sub> |
 | `14_atopic_zh` | 아토피 종단 (스위스) | `PRJEB44392` (16S+ITS) | 미게재 | AD 병변 / 비병변 / 건강 × t1–t3 | 16S 325 · ITS 327 | **12종**<br><sub>**SCORAD 연속형 0–79.1** + 중증도·병변·계절·두필루맙</sub> |
 | `15_season` | 사계절 가구 코호트 (홍콩) | `PRJNA390040`(16S)<br>`PRJNA421247`(ITS) | Microbiome 2018<br>mSystems 2019 | 가구 × 개인 × 부위 × 4계절 | 16S 484 · ITS 481 | **10종**<br><sub>가구·주손·민족·도농 + 계절</sub> |
-| `16_dandruff` | 비듬 두피 (인도) | `PRJNA415710` (16S+ITS) | Front Cell Infect Microbiol 2018 | Day 0 / 84 / 112 | 16S 398 · ITS 400 | —<br><sub>연령·성별·시점 (파이프라인 진행 중)</sub> |
+| `16_dandruff` | 비듬 두피 (인도) | `PRJNA415710` (16S+ITS) | Front Cell Infect Microbiol 2018 | Day 0 / 84 / 112 | 16S 398 · ITS 400 | **8종**<br><sub>연령·성별·시점(Day 0/84/112) + 채취일</sub> |
 | `17_ad_myco` | 아토피 마이코바이옴 (폴란드) | `PRJNA1046129` | Exp Dermatol 2025 | 아토피 50 / 건강 50 | ITS 100 | **5종**<br><sub>군·채취일 (논문 Table 1은 군 요약)</sub> |
 
 **임상항목**은 `metadata/sample_info/`의 각 파일에 **이미 병합돼 있는** 변수 수다

@@ -19,4 +19,6 @@ label	study	project	unit	target	region	n_samples	n_genus	n_genus_long	group_leve
 14_atopic_zh_ITS	아토피 종단 (취리히대)	PRJEB44392_ITS	all	ITS (진균)		321	767	161	Atopic dermatitis / Atopic dermatitis lesional / Atopic dermatitis non-lesional / Healthy	0	5
 15_season_16S	사계절 가구 코호트 (Microbiome 2018)	PRJNA390040	all	16S (세균)		483	1328	258	Household cohort / 음성대조	0	5
 15_season_ITS	사계절 가구 코호트 (mSystems 2019)	PRJNA421247	all	ITS (진균)		474	971	174	Household cohort / 음성대조	0	2
+16_dandruff_16S	비듬 두피 (Front Cell Infect Microbiol 2018)	PRJNA415710_16S	all	16S (세균)		398	1773	162	Scalp cohort	0	3
+16_dandruff_ITS	비듬 두피 (Front Cell Infect Microbiol 2018)	PRJNA415710_ITS	all	ITS (진균)		400	501	133	Scalp cohort	0	3
 17_ad_myco_ITS	아토피 마이코바이옴 (Exp Dermatol 2025)	PRJNA1046129	all	ITS (진균)		100	425	113	Atopic dermatitis / Healthy	0	1
